@@ -1,0 +1,2732 @@
+[
+  {
+    "LATITUDE":37.78289233,
+    "LONGITUDE":-122.4149738,
+    "MatchType":"KnownAlternateName",
+    "NumMatch":"Exact",
+    "NAME":"CENTRAL TOWERS MARKET",
+    "ADDRESS":"352 TURK ST",
+    "ZIP":94102,
+    "DATE":"05/08/1983"
+  },
+  {
+    "LATITUDE":37.7776,
+    "LONGITUDE":-122.4248,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GROVE ST MARKET",
+    "ADDRESS":"500 GROVE ST",
+    "ZIP":94102,
+    "DATE":"09/06/1988"
+  },
+  {
+    "LATITUDE":37.7849623,
+    "LONGITUDE":-122.4105891,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"IMPERIAL SQUARE LIQUOR",
+    "ADDRESS":"251 ELLIS ST",
+    "ZIP":94102,
+    "DATE":"08/01/1998"
+  },
+  {
+    "LATITUDE":37.7845,
+    "LONGITUDE":-122.4139692,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"RED SEA GROCERY STORE",
+    "ADDRESS":"483 ELLIS ST",
+    "ZIP":94102,
+    "DATE":"12/15/1997"
+  },
+  {
+    "LATITUDE":37.77649846,
+    "LONGITUDE":-122.4279248,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"HAYES MARKET",
+    "ADDRESS":"698 HAYES ST",
+    "ZIP":94102,
+    "DATE":"06/01/1989"
+  },
+  {
+    "LATITUDE":37.7647,
+    "LONGITUDE":-122.4226895,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"RANDAS MARKET",
+    "ADDRESS":"3131 16TH ST",
+    "ZIP":94103,
+    "DATE":"02/01/2004"
+  },
+  {
+    "LATITUDE":37.7599,
+    "LONGITUDE":-122.3944735,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"HILLTOP GROCERY",
+    "ADDRESS":"1309 20TH ST",
+    "ZIP":94107,
+    "DATE":"10/01/1968"
+  },
+  {
+    "LATITUDE":37.7852,
+    "LONGITUDE":-122.4160882,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ALEXS GROCERY & GIFT",
+    "ADDRESS":"687 OFARRELL ST",
+    "ZIP":94109,
+    "DATE":"05/31/1985"
+  },
+  {
+    "LATITUDE":37.7605,
+    "LONGITUDE":-122.3876,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"JIMS SMOKE SHOP",
+    "ADDRESS":"600 20TH ST",
+    "ZIP":94107,
+    "DATE":"04/01/1989"
+  },
+  {
+    "LATITUDE":37.78933033,
+    "LONGITUDE":-122.4134593,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MARKET MAYFLOWER & DELI",
+    "ADDRESS":"985 BUSH ST",
+    "ZIP":94109,
+    "DATE":"07/20/2006"
+  },
+  {
+    "LATITUDE":37.78292,
+    "LONGITUDE":-122.39076,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LESLIE A. HENNESSY INC",
+    "ADDRESS":"199 BRANNAN ST",
+    "ZIP":94107,
+    "DATE":"01/01/1998"
+  },
+  {
+    "LATITUDE":37.7651044,
+    "LONGITUDE":-122.4189964,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"HWA LEI MARKET",
+    "ADDRESS":"2970 16TH ST A",
+    "ZIP":94103,
+    "DATE":"10/01/1998"
+  },
+  {
+    "LATITUDE":37.7392677,
+    "LONGITUDE":-122.4195925,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"313 ELSIE APTS",
+    "ADDRESS":"313 ELSIE ST",
+    "ZIP":94110,
+    "DATE":"01/01/1980"
+  },
+  {
+    "LATITUDE":37.77476641,
+    "LONGITUDE":-122.4124891,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ASAD MARKET",
+    "ADDRESS":"229 9TH ST",
+    "ZIP":94103,
+    "DATE":"04/01/1986"
+  },
+  {
+    "LATITUDE":37.74856355,
+    "LONGITUDE":-122.4085129,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"K & B MARKET",
+    "ADDRESS":"2887 BRYANT ST",
+    "ZIP":94110,
+    "DATE":"07/01/1988"
+  },
+  {
+    "LATITUDE":37.78454131,
+    "LONGITUDE":-122.4165819,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"TUONG PHONG MARKET",
+    "ADDRESS":"628 ELLIS ST",
+    "ZIP":94109,
+    "DATE":"11/03/2004"
+  },
+  {
+    "LATITUDE":37.79,
+    "LONGITUDE":-122.4025071,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"HENRY'S CONVENIENCE STORE",
+    "ADDRESS":"111 SUTTER ST",
+    "ZIP":94104,
+    "DATE":"06/19/2009"
+  },
+  {
+    "LATITUDE":37.7992,
+    "LONGITUDE":-122.4207,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PEGASUS FOOD SHOP",
+    "ADDRESS":"1298 UNION ST",
+    "ZIP":94109,
+    "DATE":"03/29/1989"
+  },
+  {
+    "LATITUDE":37.7831,
+    "LONGITUDE":-122.4090542,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"OXFORD ST",
+    "ADDRESS":"991 MARKET ST",
+    "ZIP":94103,
+    "DATE":"01/01/1997"
+  },
+  {
+    "LATITUDE":37.7531,
+    "LONGITUDE":-122.40805,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"RICCIS MARKET",
+    "ADDRESS":"2790 24TH ST",
+    "ZIP":94110,
+    "DATE":"02/01/2000"
+  },
+  {
+    "LATITUDE":37.75474799,
+    "LONGITUDE":-122.4021301,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"KANSAS FOOD MARKET",
+    "ADDRESS":"2250 23RD ST",
+    "ZIP":94107,
+    "DATE":"01/01/1980"
+  },
+  {
+    "LATITUDE":37.7659,
+    "LONGITUDE":-122.4333,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NOE VALLEY MARKET",
+    "ADDRESS":"200 NOE ST",
+    "ZIP":94114,
+    "DATE":"07/19/1974"
+  },
+  {
+    "LATITUDE":37.75273248,
+    "LONGITUDE":-122.4133574,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"BASA SEAFOOD EXPRESS",
+    "ADDRESS":"3064 24TH ST",
+    "ZIP":94110,
+    "DATE":"04/15/2009"
+  },
+  {
+    "LATITUDE":37.7527,
+    "LONGITUDE":-122.4141,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"W - K MARKET",
+    "ADDRESS":"3098 24TH ST",
+    "ZIP":94110,
+    "DATE":"05/31/2013"
+  },
+  {
+    "LATITUDE":37.7571,
+    "LONGITUDE":-122.4209,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MAIL CARRIER ETC THE",
+    "ADDRESS":"3288 21ST ST",
+    "ZIP":94110,
+    "DATE":"05/15/1991"
+  },
+  {
+    "LATITUDE":37.75547315,
+    "LONGITUDE":-122.4189107,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"TROPICANA LIQUOR MARKET",
+    "ADDRESS":"2592 MISSION ST",
+    "ZIP":94110,
+    "DATE":"03/20/2008"
+  },
+  {
+    "LATITUDE":37.7216,
+    "LONGITUDE":-122.4372,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"FRANKS MARKET",
+    "ADDRESS":"4799 MISSION ST",
+    "ZIP":94112,
+    "DATE":"08/18/2003"
+  },
+  {
+    "LATITUDE":37.78271327,
+    "LONGITUDE":-122.3928073,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LESLIE A. HENNESSY INC",
+    "ADDRESS":"545 2ND ST",
+    "ZIP":94107,
+    "DATE":"10/04/2004"
+  },
+  {
+    "LATITUDE":37.78652,
+    "LONGITUDE":-122.417172,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"AB JANITORIAL SERVICES",
+    "ADDRESS":"840 GEARY ST 32",
+    "ZIP":94109,
+    "DATE":"04/01/1998"
+  },
+  {
+    "LATITUDE":37.7618,
+    "LONGITUDE":-122.4194,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DUC LOI SUPERMARKET",
+    "ADDRESS":"2200 MISSION ST",
+    "ZIP":94110,
+    "DATE":"06/25/2008"
+  },
+  {
+    "LATITUDE":37.7837382,
+    "LONGITUDE":-122.4142906,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"EMPIRE MARKET",
+    "ADDRESS":"399 EDDY ST",
+    "ZIP":94109,
+    "DATE":"01/01/2000"
+  },
+  {
+    "LATITUDE":37.75400839,
+    "LONGITUDE":-122.4184126,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GMP INTERNATIONAL",
+    "ADDRESS":"2687 MISSION ST",
+    "ZIP":94110,
+    "DATE":"07/01/2004"
+  },
+  {
+    "LATITUDE":37.75168466,
+    "LONGITUDE":-122.4063994,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"POTRERO MARKET",
+    "ADDRESS":"1298 POTRERO AVE",
+    "ZIP":94110,
+    "DATE":"08/29/1997"
+  },
+  {
+    "LATITUDE":37.7233,
+    "LONGITUDE":-122.436,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"7 PERSIA AVENUE APARTMENTS",
+    "ADDRESS":"7 PERSIA AVE",
+    "ZIP":94112,
+    "DATE":"02/24/2005"
+  },
+  {
+    "LATITUDE":37.79011661,
+    "LONGITUDE":-122.4154395,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PINE MARKET",
+    "ADDRESS":"1191 PINE ST",
+    "ZIP":94109,
+    "DATE":"08/09/2006"
+  },
+  {
+    "LATITUDE":37.7805,
+    "LONGITUDE":-122.4321,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"THIRD WORLD MARKET",
+    "ADDRESS":"1200 FILLMORE ST",
+    "ZIP":94115,
+    "DATE":"05/01/1986"
+  },
+  {
+    "LATITUDE":37.7426,
+    "LONGITUDE":-122.4898469,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"7 ELEVEN",
+    "ADDRESS":"2222 TARAVAL ST",
+    "ZIP":94116,
+    "DATE":"04/18/2000"
+  },
+  {
+    "LATITUDE":37.77192041,
+    "LONGITUDE":-122.4319265,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"OLOONEYS MARKET",
+    "ADDRESS":"588 HAIGHT ST",
+    "ZIP":94117,
+    "DATE":"11/23/1982"
+  },
+  {
+    "LATITUDE":37.77169863,
+    "LONGITUDE":-122.4354234,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SANTA CLARA NATURAL ORGN MKT",
+    "ADDRESS":"798 HAIGHT ST",
+    "ZIP":94117,
+    "DATE":"03/28/2012"
+  },
+  {
+    "LATITUDE":37.778,
+    "LONGITUDE":-122.4384,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SAVE MORE MARKET",
+    "ADDRESS":"1598 MCALLISTER ST",
+    "ZIP":94115,
+    "DATE":"03/18/2008"
+  },
+  {
+    "LATITUDE":37.7643,
+    "LONGITUDE":-122.4526,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SUNNY COUNTRY FOODS",
+    "ADDRESS":"1101 STANYAN ST",
+    "ZIP":94117,
+    "DATE":"04/01/2001"
+  },
+  {
+    "LATITUDE":37.787745,
+    "LONGITUDE":-122.4204478,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"AL JAZEER MARKET",
+    "ADDRESS":"1209- 1211 SUTTER ST",
+    "ZIP":94109,
+    "DATE":"04/10/2013"
+  },
+  {
+    "LATITUDE":37.776,
+    "LONGITUDE":-122.4312,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"IN & OUT MARKET & LIQUOR",
+    "ADDRESS":"701 FILLMORE ST",
+    "ZIP":94117,
+    "DATE":"09/05/2003"
+  },
+  {
+    "LATITUDE":37.7802552,
+    "LONGITUDE":-122.4798584,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NEW WORLD MARKET",
+    "ADDRESS":"5641 GEARY BLVD",
+    "ZIP":94121,
+    "DATE":"01/01/2000"
+  },
+  {
+    "LATITUDE":37.7979,
+    "LONGITUDE":-122.4458,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PRESIDIO FOOD MART",
+    "ADDRESS":"2901 BAKER ST",
+    "ZIP":94123,
+    "DATE":"08/15/1999"
+  },
+  {
+    "LATITUDE":37.77308114,
+    "LONGITUDE":-122.4511385,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"HAYES & COLE MARKET",
+    "ADDRESS":"2111 HAYES ST",
+    "ZIP":94117,
+    "DATE":"07/30/2003"
+  },
+  {
+    "LATITUDE":37.73540915,
+    "LONGITUDE":-122.5016366,
+    "MatchType":"KnownAlternateName",
+    "NumMatch":"Exact",
+    "NAME":"GEORGES ZOO LIQ AND DELI",
+    "ADDRESS":"2560 SLOAT BLVD",
+    "ZIP":94116,
+    "DATE":"08/11/1998"
+  },
+  {
+    "LATITUDE":37.7673351,
+    "LONGITUDE":-122.435597,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"COURTNEY PRODUCE",
+    "ADDRESS":"101 CASTRO ST A",
+    "ZIP":94114,
+    "DATE":"01/01/1997"
+  },
+  {
+    "LATITUDE":37.7608,
+    "LONGITUDE":-122.4984,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CHARLIES MARKET",
+    "ADDRESS":"3400 JUDAH ST",
+    "ZIP":94122,
+    "DATE":"11/01/2013"
+  },
+  {
+    "LATITUDE":37.783724,
+    "LONGITUDE":-122.432554,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"WOORI FOOD MARKET",
+    "ADDRESS":"1526-28 WOORI FOOD MARKET",
+    "ZIP":94115,
+    "DATE":"04/01/2008"
+  },
+  {
+    "LATITUDE":37.73862153,
+    "LONGITUDE":-122.4682688,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"WEST PORTAL PRODUCE MARKET",
+    "ADDRESS":"222 WEST PORTAL AVE",
+    "ZIP":94127,
+    "DATE":"01/01/1989"
+  },
+  {
+    "LATITUDE":37.74357519,
+    "LONGITUDE":-122.4290985,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ST PAULS MARKET",
+    "ADDRESS":"1598 SANCHEZ ST",
+    "ZIP":94131,
+    "DATE":"11/05/1973"
+  },
+  {
+    "LATITUDE":37.7615484,
+    "LONGITUDE":-122.4487907,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"SEVENTEENTH & COLE MARKET",
+    "ADDRESS":"1400 COLE ST",
+    "ZIP":94117,
+    "DATE":"01/01/1992"
+  },
+  {
+    "LATITUDE":37.7334,
+    "LONGITUDE":-122.4341,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GLEN PARK MARKET",
+    "ADDRESS":"2900 DIAMOND ST",
+    "ZIP":94131,
+    "DATE":"01/01/2007"
+  },
+  {
+    "LATITUDE":37.7829,
+    "LONGITUDE":-122.4644,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"FOOD 24 HR CONVENIENCE MKT #3",
+    "ADDRESS":"500 CLEMENT ST",
+    "ZIP":94118,
+    "DATE":"11/01/1988"
+  },
+  {
+    "LATITUDE":37.7892,
+    "LONGITUDE":-122.4406,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LONDON MARKET & DELI",
+    "ADDRESS":"2901 SACRAMENTO ST",
+    "ZIP":94115,
+    "DATE":"03/08/2001"
+  },
+  {
+    "LATITUDE":37.79254339,
+    "LONGITUDE":-122.4344048,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MAYFLOWER MARKET",
+    "ADDRESS":"2498 FILLMORE ST",
+    "ZIP":94115,
+    "DATE":"01/01/1997"
+  },
+  {
+    "LATITUDE":37.76529237,
+    "LONGITUDE":-122.4496823,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ALPHA MARKET",
+    "ADDRESS":"960 COLE ST",
+    "ZIP":94117,
+    "DATE":"02/01/1987"
+  },
+  {
+    "LATITUDE":37.7781,
+    "LONGITUDE":-122.4452,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GOLDEN GATE CENTRAL MARKET",
+    "ADDRESS":"2101 GOLDEN GATE AVE",
+    "ZIP":94118,
+    "DATE":"01/01/2000"
+  },
+  {
+    "LATITUDE":37.72667614,
+    "LONGITUDE":-122.4220234,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"VARIETY WHOLESALE",
+    "ADDRESS":"212 GAMBIER ST",
+    "ZIP":94134,
+    "DATE":"05/01/2007"
+  },
+  {
+    "LATITUDE":37.72667614,
+    "LONGITUDE":-122.4220234,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PAYLESS STORE",
+    "ADDRESS":"212 GAMBIER ST",
+    "ZIP":94134,
+    "DATE":"05/01/2007"
+  },
+  {
+    "LATITUDE":37.77285971,
+    "LONGITUDE":-122.4303639,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ABE'S MARKET",
+    "ADDRESS":"378 FILLMORE ST",
+    "ZIP":94117,
+    "DATE":"11/01/1996"
+  },
+  {
+    "LATITUDE":37.7805,
+    "LONGITUDE":-122.4034,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CITY'S CHOICE MARKET",
+    "ADDRESS":"301 5TH ST",
+    "ZIP":94107,
+    "DATE":"05/01/1998"
+  },
+  {
+    "LATITUDE":37.7596,
+    "LONGITUDE":-122.4326,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NOE HILL MARKET",
+    "ADDRESS":"4001 19TH ST",
+    "ZIP":94114,
+    "DATE":"06/01/2001"
+  },
+  {
+    "LATITUDE":37.72667614,
+    "LONGITUDE":-122.4220234,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SAN FRANCISCO AIRPORT LIMO CO",
+    "ADDRESS":"212 GAMBIER ST",
+    "ZIP":94134,
+    "DATE":"09/12/2007"
+  },
+  {
+    "LATITUDE":37.72667614,
+    "LONGITUDE":-122.4220234,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SFO LIMO COMPANY",
+    "ADDRESS":"212 GAMBIER ST",
+    "ZIP":94134,
+    "DATE":"12/13/2007"
+  },
+  {
+    "LATITUDE":37.79777158,
+    "LONGITUDE":-122.4084367,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PANG KEE BARGAIN MARKET",
+    "ADDRESS":"1308 STOCKTON ST",
+    "ZIP":94133,
+    "DATE":"08/01/1988"
+  },
+  {
+    "LATITUDE":37.7733,
+    "LONGITUDE":-122.4358,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"OAK FAIR MARKET",
+    "ADDRESS":"999 OAK ST",
+    "ZIP":94117,
+    "DATE":"04/02/1991"
+  },
+  {
+    "LATITUDE":37.775,
+    "LONGITUDE":-122.4682,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DENHARDS MARKET",
+    "ADDRESS":"701 10TH AVE",
+    "ZIP":94118,
+    "DATE":"01/01/1980"
+  },
+  {
+    "LATITUDE":37.7715,
+    "LONGITUDE":-122.4354,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NEW SANTA CLARA MARKET",
+    "ADDRESS":"799 HAIGHT ST",
+    "ZIP":94117,
+    "DATE":"01/01/1990"
+  },
+  {
+    "LATITUDE":37.72667614,
+    "LONGITUDE":-122.4220234,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PLEASANT TOWNCAR SERVICE",
+    "ADDRESS":"212 GAMBIER ST",
+    "ZIP":94134,
+    "DATE":"05/01/2007"
+  },
+  {
+    "LATITUDE":37.76061481,
+    "LONGITUDE":-122.5057215,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"7-ELEVEN STORE 20450",
+    "ADDRESS":"1388 46TH AVE",
+    "ZIP":94122,
+    "DATE":"01/01/1986"
+  },
+  {
+    "LATITUDE":37.71199728,
+    "LONGITUDE":-122.4155158,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LITTLE VILLAGE MARKET",
+    "ADDRESS":"1450 SUNNYDALE AVE",
+    "ZIP":94134,
+    "DATE":"01/01/2009"
+  },
+  {
+    "LATITUDE":37.7153,
+    "LONGITUDE":-122.399,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"SHUN LEE MARKET",
+    "ADDRESS":"2400 BAYSHORE BLVD",
+    "ZIP":94134,
+    "DATE":"09/01/1998"
+  },
+  {
+    "LATITUDE":37.78434404,
+    "LONGITUDE":-122.453,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"85 HEATHER AV APARTMENTS",
+    "ADDRESS":"85 HEATHER AVE",
+    "ZIP":94118,
+    "DATE":"10/11/1989"
+  },
+  {
+    "LATITUDE":37.7786,
+    "LONGITUDE":-122.4318,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"WHAT A GRIND",
+    "ADDRESS":"1301 FILLMORE ST",
+    "ZIP":94117,
+    "DATE":"02/10/1997"
+  },
+  {
+    "LATITUDE":37.7276,
+    "LONGITUDE":-122.4036,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"BUS STOP GROCERY",
+    "ADDRESS":"2698 SAN BRUNO AVE",
+    "ZIP":94134,
+    "DATE":"01/01/1987"
+  },
+  {
+    "LATITUDE":37.72,
+    "LONGITUDE":-122.48,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"SABRETOOTH DENTAL STUDIO",
+    "ADDRESS":"90 WOODACRE DR 102",
+    "ZIP":94132,
+    "DATE":"01/01/1973"
+  },
+  {
+    "LATITUDE":37.7571,
+    "LONGITUDE":-122.4209,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LA BODEGA DEL SUR",
+    "ADDRESS":"3288 21ST ST",
+    "ZIP":94110,
+    "DATE":"11/30/2007"
+  },
+  {
+    "LATITUDE":37.7632,
+    "LONGITUDE":-122.4805245,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NEW MAY CHEUNG CO",
+    "ADDRESS":"2121 IRVING ST",
+    "ZIP":94122,
+    "DATE":"10/15/2007"
+  },
+  {
+    "LATITUDE":37.798,
+    "LONGITUDE":-122.4071,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NICK'S CORNER",
+    "ADDRESS":"342 COLUMBUS AVE",
+    "ZIP":94133,
+    "DATE":"10/03/1989"
+  },
+  {
+    "LATITUDE":37.79697408,
+    "LONGITUDE":-122.4078956,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LONG HUA'S GROCERY STORE",
+    "ADDRESS":"754 PACIFIC AVE",
+    "ZIP":94133,
+    "DATE":"02/02/2009"
+  },
+  {
+    "LATITUDE":37.72667614,
+    "LONGITUDE":-122.4220234,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"WHOLESALE DRUG DIST",
+    "ADDRESS":"212 GAMBIER ST",
+    "ZIP":94134,
+    "DATE":"05/01/2007"
+  },
+  {
+    "LATITUDE":37.76,
+    "LONGITUDE":-122.48,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"ROYAL FOOD STORE",
+    "ADDRESS":"401 A JUDAH ST",
+    "ZIP":94122,
+    "DATE":"01/01/2001"
+  },
+  {
+    "LATITUDE":37.72667614,
+    "LONGITUDE":-122.4220234,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NANCY KHARSA",
+    "ADDRESS":"212 GAMBIER ST",
+    "ZIP":94134,
+    "DATE":"01/01/2007"
+  },
+  {
+    "LATITUDE":37.7616,
+    "LONGITUDE":-122.4491,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"1400-1402 COLE BUILDING",
+    "ADDRESS":"1400 COLE ST",
+    "ZIP":94117,
+    "DATE":"10/10/1989"
+  },
+  {
+    "LATITUDE":37.7332,
+    "LONGITUDE":-122.3912,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"BIG SAVE MARKET #1",
+    "ADDRESS":"5001 3RD ST",
+    "ZIP":94124,
+    "DATE":"01/01/1984"
+  },
+  {
+    "LATITUDE":37.79958776,
+    "LONGITUDE":-122.4310041,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"1907 GREENWICH APTS",
+    "ADDRESS":"1907 GREENWICH ST",
+    "ZIP":94123,
+    "DATE":"05/01/1971"
+  },
+  {
+    "LATITUDE":37.79419749,
+    "LONGITUDE":-122.4077182,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LONG HUA'S GROCERY STORE",
+    "ADDRESS":"906 STOCKTON ST",
+    "ZIP":94109,
+    "DATE":"01/01/1998"
+  },
+  {
+    "LATITUDE":37.7577,
+    "LONGITUDE":-122.4347,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"RELIANCE MARKET",
+    "ADDRESS":"699 CASTRO ST",
+    "ZIP":94114,
+    "DATE":"09/01/1991"
+  },
+  {
+    "LATITUDE":37.7966,
+    "LONGITUDE":-122.4088,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GREAT WALL GINSENG & HERBS",
+    "ADDRESS":"821 PACIFIC AVE",
+    "ZIP":94133,
+    "DATE":"05/01/1999"
+  },
+  {
+    "LATITUDE":37.7742,
+    "LONGITUDE":-122.4308,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"KEY FOOD MARKET",
+    "ADDRESS":"501 FILLMORE ST",
+    "ZIP":94117,
+    "DATE":"09/01/1998"
+  },
+  {
+    "LATITUDE":37.7635,
+    "LONGITUDE":-122.4826347,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"EASY MONEY",
+    "ADDRESS":"2312 IRVING ST",
+    "ZIP":94122,
+    "DATE":"01/01/2002"
+  },
+  {
+    "LATITUDE":37.79386395,
+    "LONGITUDE":-122.3966329,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LE REGENCY DELI",
+    "ADDRESS":"18 CALIFORNIA ST",
+    "ZIP":94111,
+    "DATE":"03/01/1999"
+  },
+  {
+    "LATITUDE":37.7642,
+    "LONGITUDE":-122.462,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"KJ PRODUCE MARKET",
+    "ADDRESS":"400 IRVING ST",
+    "ZIP":94122,
+    "DATE":"10/09/2012"
+  },
+  {
+    "LATITUDE":37.77546274,
+    "LONGITUDE":-122.4313299,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"TIM'S MARKET",
+    "ADDRESS":"667 FILLMORE ST",
+    "ZIP":94117,
+    "DATE":"06/01/1997"
+  },
+  {
+    "LATITUDE":37.7757,
+    "LONGITUDE":-122.4934714,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CENTRAL GROCERY STORE CO",
+    "ADDRESS":"3243 BALBOA ST",
+    "ZIP":94121,
+    "DATE":"08/16/2011"
+  },
+  {
+    "LATITUDE":37.79,
+    "LONGITUDE":-122.42,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"MON SING NOODLE CO",
+    "ADDRESS":"1950 INNES AVE 3",
+    "ZIP":94109,
+    "DATE":"11/16/1989"
+  },
+  {
+    "LATITUDE":37.7828,
+    "LONGITUDE":-122.4141,
+    "MatchType":"KnownAlternateName",
+    "NumMatch":"Exact",
+    "NAME":"MARYLAND MARKET",
+    "ADDRESS":"300 TURK ST",
+    "ZIP":94102,
+    "DATE":"12/15/2004"
+  },
+  {
+    "LATITUDE":37.7845,
+    "LONGITUDE":-122.4141846,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GREEN VALLEY MARKET",
+    "ADDRESS":"491 ELLIS ST",
+    "ZIP":94102,
+    "DATE":"10/01/2007"
+  },
+  {
+    "LATITUDE":37.78372195,
+    "LONGITUDE":-122.4124119,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DOWNTOWN GROCERY & LIQUOR",
+    "ADDRESS":"289 EDDY ST",
+    "ZIP":94102,
+    "DATE":"01/24/2007"
+  },
+  {
+    "LATITUDE":37.78299832,
+    "LONGITUDE":-122.4143233,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GOLDEN GATE MARKET",
+    "ADDRESS":"225 LEAVENWORTH ST",
+    "ZIP":94102,
+    "DATE":"09/20/2006"
+  },
+  {
+    "LATITUDE":37.78340832,
+    "LONGITUDE":-122.4107509,
+    "MatchType":"KnownAlternateName",
+    "NumMatch":"Exact",
+    "NAME":"KING MARKET AND SMOKE SHOP",
+    "ADDRESS":"94 TURK ST",
+    "ZIP":94102,
+    "DATE":"05/01/2008"
+  },
+  {
+    "LATITUDE":37.78429846,
+    "LONGITUDE":-122.4110248,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DALDA'S MARKET",
+    "ADDRESS":"200 EDDY ST",
+    "ZIP":94102,
+    "DATE":"09/06/2007"
+  },
+  {
+    "LATITUDE":37.76798336,
+    "LONGITUDE":-122.4179495,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LOS YAQUIS",
+    "ADDRESS":"324 SOUTH VAN NESS AVE",
+    "ZIP":94103,
+    "DATE":"08/11/2009"
+  },
+  {
+    "LATITUDE":37.78185359,
+    "LONGITUDE":-122.4153293,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SF PRINCESS MARKET",
+    "ADDRESS":"112 HYDE ST",
+    "ZIP":94102,
+    "DATE":"11/16/2009"
+  },
+  {
+    "LATITUDE":37.7819,
+    "LONGITUDE":-122.4139,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"BIG BOY MARKET",
+    "ADDRESS":"180 GOLDEN GATE AVE",
+    "ZIP":94102,
+    "DATE":"07/01/2006"
+  },
+  {
+    "LATITUDE":37.78745152,
+    "LONGITUDE":-122.403665,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"7 ELEVEN STORE 2231-33434A",
+    "ADDRESS":"711 MARKET ST",
+    "ZIP":94103,
+    "DATE":"08/31/2004"
+  },
+  {
+    "LATITUDE":37.79056136,
+    "LONGITUDE":-122.4058705,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GRAND MINI MARKET",
+    "ADDRESS":"517 BUSH ST",
+    "ZIP":94108,
+    "DATE":"10/01/2009"
+  },
+  {
+    "LATITUDE":37.75891527,
+    "LONGITUDE":-122.4022402,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CHIOTRAS GROCERY",
+    "ADDRESS":"858 RHODE ISLAND ST",
+    "ZIP":94107,
+    "DATE":"08/18/2006"
+  },
+  {
+    "LATITUDE":37.79392219,
+    "LONGITUDE":-122.4044744,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DISCOUNT CIGARETTES & CIGARS",
+    "ADDRESS":"626 KEARNY ST",
+    "ZIP":94108,
+    "DATE":"09/10/2011"
+  },
+  {
+    "LATITUDE":37.7681,
+    "LONGITUDE":-122.4222,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"T AND M MARKET",
+    "ADDRESS":"300 VALENCIA ST",
+    "ZIP":94103,
+    "DATE":"01/06/2010"
+  },
+  {
+    "LATITUDE":37.79904063,
+    "LONGITUDE":-122.4188,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SEARCHLIGHT MARKET",
+    "ADDRESS":"1964 HYDE ST",
+    "ZIP":94109,
+    "DATE":"07/01/2004"
+  },
+  {
+    "LATITUDE":37.78146087,
+    "LONGITUDE":-122.4114163,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PARA BELLUM VERDE",
+    "ADDRESS":"1051 MARKET ST",
+    "ZIP":94103,
+    "DATE":"01/10/2011"
+  },
+  {
+    "LATITUDE":37.75979487,
+    "LONGITUDE":-122.3972413,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ALL STATES BEST FOODS",
+    "ADDRESS":"1607 20TH ST",
+    "ZIP":94107,
+    "DATE":"04/15/2008"
+  },
+  {
+    "LATITUDE":37.79524437,
+    "LONGITUDE":-122.4100258,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NOODLE CITY",
+    "ADDRESS":"1165 POWELL ST",
+    "ZIP":94108,
+    "DATE":"05/01/2010"
+  },
+  {
+    "LATITUDE":37.7835,
+    "LONGITUDE":-122.4159,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CADILLAC MARKET",
+    "ADDRESS":"499 EDDY ST",
+    "ZIP":94109,
+    "DATE":"09/14/2007"
+  },
+  {
+    "LATITUDE":37.7835,
+    "LONGITUDE":-122.4159,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NEW PRINCESS MARKET",
+    "ADDRESS":"500 EDDY ST",
+    "ZIP":94109,
+    "DATE":"01/01/2007"
+  },
+  {
+    "LATITUDE":37.78542703,
+    "LONGITUDE":-122.4176962,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MIREX",
+    "ADDRESS":"784 O'FARRELL ST",
+    "ZIP":94109,
+    "DATE":"06/12/2008"
+  },
+  {
+    "LATITUDE":37.78503012,
+    "LONGITUDE":-122.4176466,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"T & MW MARKET",
+    "ADDRESS":"785 O'FARRELL ST",
+    "ZIP":94109,
+    "DATE":"02/18/2010"
+  },
+  {
+    "LATITUDE":37.7829,
+    "LONGITUDE":-122.4225805,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"USA MARKET",
+    "ADDRESS":"904 EDDY ST",
+    "ZIP":94109,
+    "DATE":"10/02/2009"
+  },
+  {
+    "LATITUDE":37.74751787,
+    "LONGITUDE":-122.4097643,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SAM'S MARKET",
+    "ADDRESS":"580 PRECITA AVE",
+    "ZIP":94110,
+    "DATE":"01/15/2005"
+  },
+  {
+    "LATITUDE":37.79860774,
+    "LONGITUDE":-122.4239923,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"THE SILVER PLATTER",
+    "ADDRESS":"2501 VAN NESS AVE",
+    "ZIP":94109,
+    "DATE":"08/16/2009"
+  },
+  {
+    "LATITUDE":37.75153446,
+    "LONGITUDE":-122.4185588,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LA LOMA PRODUCE #8",
+    "ADDRESS":"2840 MISSION ST",
+    "ZIP":94110,
+    "DATE":"06/11/2002"
+  },
+  {
+    "LATITUDE":37.7498,
+    "LONGITUDE":-122.4088,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ABC MARKET",
+    "ADDRESS":"2801 BRYANT ST",
+    "ZIP":94110,
+    "DATE":"01/01/2003"
+  },
+  {
+    "LATITUDE":37.788,
+    "LONGITUDE":-122.4185,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"JERUSALEM MARKET",
+    "ADDRESS":"1100 SUTTER ST",
+    "ZIP":94109,
+    "DATE":"11/01/2010"
+  },
+  {
+    "LATITUDE":37.7393,
+    "LONGITUDE":-122.4171,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DISCOUNT CLUB",
+    "ADDRESS":"439 CORTLAND AVE",
+    "ZIP":94110,
+    "DATE":"01/21/2008"
+  },
+  {
+    "LATITUDE":37.7572,
+    "LONGITUDE":-122.4134,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"EL PORVENIR",
+    "ADDRESS":"2950 21ST ST",
+    "ZIP":94110,
+    "DATE":"03/07/2007"
+  },
+  {
+    "LATITUDE":37.73508707,
+    "LONGITUDE":-122.4161059,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NASSER MARKET",
+    "ADDRESS":"511 CRESCENT AVE",
+    "ZIP":94110,
+    "DATE":"03/26/2009"
+  },
+  {
+    "LATITUDE":37.7361,
+    "LONGITUDE":-122.4245,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"SUPER LOW MARKET",
+    "ADDRESS":"4515 MISSION ST",
+    "ZIP":94110,
+    "DATE":"07/26/2002"
+  },
+  {
+    "LATITUDE":37.7532,
+    "LONGITUDE":-122.4063419,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"N&V LIQUOR & GROCERY",
+    "ADDRESS":"2702 24TH ST",
+    "ZIP":94110,
+    "DATE":"07/01/2005"
+  },
+  {
+    "LATITUDE":37.75185329,
+    "LONGITUDE":-122.4181779,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MISTER POLLO",
+    "ADDRESS":"2823 MISSION ST",
+    "ZIP":94110,
+    "DATE":"01/01/2006"
+  },
+  {
+    "LATITUDE":37.7489,
+    "LONGITUDE":-122.41706,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SAVE WAY MARKET",
+    "ADDRESS":"3353 26TH ST",
+    "ZIP":94110,
+    "DATE":"10/01/2008"
+  },
+  {
+    "LATITUDE":37.79,
+    "LONGITUDE":-122.42,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"SAM CHUN GROCERY",
+    "ADDRESS":"1555 HYDE ST A",
+    "ZIP":94109,
+    "DATE":"07/01/2009"
+  },
+  {
+    "LATITUDE":37.7525,
+    "LONGITUDE":-122.4141,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"G & M LIQUORS",
+    "ADDRESS":"3100 24TH ST",
+    "ZIP":94110,
+    "DATE":"08/23/2009"
+  },
+  {
+    "LATITUDE":37.7905,
+    "LONGITUDE":-122.4139,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PINE JONES MARKET",
+    "ADDRESS":"1100 PINE ST",
+    "ZIP":94109,
+    "DATE":"01/01/2008"
+  },
+  {
+    "LATITUDE":37.7571,
+    "LONGITUDE":-122.4209,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"QUALITY SNACKS",
+    "ADDRESS":"3288 21ST ST #66",
+    "ZIP":94110,
+    "DATE":"08/03/2007"
+  },
+  {
+    "LATITUDE":37.7634,
+    "LONGITUDE":-122.4195,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"SAS DISCOUNT STORE",
+    "ADDRESS":"2141C MISSION ST",
+    "ZIP":94110,
+    "DATE":"05/25/2006"
+  },
+  {
+    "LATITUDE":37.75274875,
+    "LONGITUDE":-122.4143159,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"2782 FOLSOM ST APTS",
+    "ADDRESS":"2782 FOLSOM ST",
+    "ZIP":94110,
+    "DATE":"11/02/2007"
+  },
+  {
+    "LATITUDE":37.74439387,
+    "LONGITUDE":-122.4208846,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DJ LIQUOR & GROCERY STORE",
+    "ADDRESS":"3278 MISSION ST",
+    "ZIP":94110,
+    "DATE":"03/18/2010"
+  },
+  {
+    "LATITUDE":37.75312966,
+    "LONGITUDE":-122.4070752,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DAGWOOD & SCOOPS",
+    "ADDRESS":"2736 24TH ST",
+    "ZIP":94110,
+    "DATE":"12/01/2009"
+  },
+  {
+    "LATITUDE":37.71110724,
+    "LONGITUDE":-122.4465218,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PHILIPPINE DELICACIES",
+    "ADDRESS":"5609 MISSION ST",
+    "ZIP":94112,
+    "DATE":"10/09/2004"
+  },
+  {
+    "LATITUDE":37.79408438,
+    "LONGITUDE":-122.3964854,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"7-ELEVEN STORE 2231-33429A",
+    "ADDRESS":"43 DRUMM ST",
+    "ZIP":94111,
+    "DATE":"10/11/2004"
+  },
+  {
+    "LATITUDE":37.713,
+    "LONGITUDE":-122.4562184,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ANAS MARKET",
+    "ADDRESS":"105 BROAD ST",
+    "ZIP":94112,
+    "DATE":"12/20/2010"
+  },
+  {
+    "LATITUDE":37.72433034,
+    "LONGITUDE":-122.4584365,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"POWER TRADING CO",
+    "ADDRESS":"1524 OCEAN AVE",
+    "ZIP":94112,
+    "DATE":"02/11/2011"
+  },
+  {
+    "LATITUDE":37.71396632,
+    "LONGITUDE":-122.4356658,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"STATE MARKET LIQUOR #6",
+    "ADDRESS":"1231 GENEVA AVE",
+    "ZIP":94112,
+    "DATE":"12/01/2011"
+  },
+  {
+    "LATITUDE":37.72432355,
+    "LONGITUDE":-122.458406,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"A & N LIQUORS",
+    "ADDRESS":"1521 OCEAN AVE",
+    "ZIP":94112,
+    "DATE":"07/31/2004"
+  },
+  {
+    "LATITUDE":37.7437,
+    "LONGITUDE":-122.5037,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MANU PRODUCE",
+    "ADDRESS":"2300 45TH AVE",
+    "ZIP":94116,
+    "DATE":"12/04/2006"
+  },
+  {
+    "LATITUDE":37.72434843,
+    "LONGITUDE":-122.458518,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"WINSON SUPER MARKET",
+    "ADDRESS":"1532 OCEAN AVE",
+    "ZIP":94112,
+    "DATE":"07/01/2010"
+  },
+  {
+    "LATITUDE":37.74720152,
+    "LONGITUDE":-122.459502,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"M & J MARKET DELI/LIQUOR STORE",
+    "ADDRESS":"404 DEWEY BLVD",
+    "ZIP":94116,
+    "DATE":"02/04/2009"
+  },
+  {
+    "LATITUDE":37.76,
+    "LONGITUDE":-122.4236,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GUERRERO MARKET",
+    "ADDRESS":"701 GUERRERO ST",
+    "ZIP":94110,
+    "DATE":"04/04/2009"
+  },
+  {
+    "LATITUDE":37.7526,
+    "LONGITUDE":-122.4386,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SUNSHINE MARKET",
+    "ADDRESS":"4300 23RD ST",
+    "ZIP":94114,
+    "DATE":"11/14/2008"
+  },
+  {
+    "LATITUDE":37.7428,
+    "LONGITUDE":-122.4772286,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"JOJO'S SHOP",
+    "ADDRESS":"1043 TARAVAL ST",
+    "ZIP":94116,
+    "DATE":"01/14/2011"
+  },
+  {
+    "LATITUDE":37.7391,
+    "LONGITUDE":-122.4146,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PAY LITTLE MARKET",
+    "ADDRESS":"801 CORTLAND AVE",
+    "ZIP":94110,
+    "DATE":"07/01/2010"
+  },
+  {
+    "LATITUDE":37.7661,
+    "LONGITUDE":-122.4288,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CHURCH ST",
+    "ADDRESS":"300 CHURCH ST",
+    "ZIP":94114,
+    "DATE":"04/01/2005"
+  },
+  {
+    "LATITUDE":37.7768622,
+    "LONGITUDE":-122.4381622,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"FOOD 24 HR CONVENIENCE MARKET",
+    "ADDRESS":"793 DIVISADERO ST",
+    "ZIP":94117,
+    "DATE":"11/15/2002"
+  },
+  {
+    "LATITUDE":37.7724,
+    "LONGITUDE":-122.4372,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MICHAELS PIT STOP",
+    "ADDRESS":"1001 PAGE ST",
+    "ZIP":94117,
+    "DATE":"06/15/2005"
+  },
+  {
+    "LATITUDE":37.77628404,
+    "LONGITUDE":-122.4399661,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"AA MARKET",
+    "ADDRESS":"667 BRODERICK ST",
+    "ZIP":94117,
+    "DATE":"05/07/2007"
+  },
+  {
+    "LATITUDE":37.7241,
+    "LONGITUDE":-122.4573,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"EL PORVENIR #3",
+    "ADDRESS":"1400 OCEAN AVE",
+    "ZIP":94112,
+    "DATE":"11/28/2008"
+  },
+  {
+    "LATITUDE":37.7559,
+    "LONGITUDE":-122.4144,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ISAAC'S MARKET",
+    "ADDRESS":"2601 FOLSOM ST",
+    "ZIP":94110,
+    "DATE":"02/14/2011"
+  },
+  {
+    "LATITUDE":37.7715,
+    "LONGITUDE":-122.437,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SUPERETTE MARKET",
+    "ADDRESS":"901 HAIGHT ST",
+    "ZIP":94117,
+    "DATE":"11/01/2010"
+  },
+  {
+    "LATITUDE":37.7706,
+    "LONGITUDE":-122.4436,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CENTRAL HAIGHT MARKET",
+    "ADDRESS":"1301 HAIGHT ST",
+    "ZIP":94117,
+    "DATE":"03/08/2004"
+  },
+  {
+    "LATITUDE":37.76474174,
+    "LONGITUDE":-122.4194565,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MI TIERRA MARKET",
+    "ADDRESS":"2023 MISSION ST",
+    "ZIP":94110,
+    "DATE":"08/10/2004"
+  },
+  {
+    "LATITUDE":37.74645148,
+    "LONGITUDE":-122.4223,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GUERRERO FOOD MARKET",
+    "ADDRESS":"1546 GUERRERO ST",
+    "ZIP":94110,
+    "DATE":"12/09/2005"
+  },
+  {
+    "LATITUDE":37.78224622,
+    "LONGITUDE":-122.4756729,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"HOT SAUCE AND PANKO",
+    "ADDRESS":"1545 CLEMENT ST",
+    "ZIP":94118,
+    "DATE":"04/01/2011"
+  },
+  {
+    "LATITUDE":37.7984,
+    "LONGITUDE":-122.4324,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"VALENTINO MARKET",
+    "ADDRESS":"2000 FILBERT ST",
+    "ZIP":94123,
+    "DATE":"08/01/2003"
+  },
+  {
+    "LATITUDE":37.75928752,
+    "LONGITUDE":-122.4350996,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"BUFFALO WHOLE FOOD AND GRAIN C",
+    "ADDRESS":"598 CASTRO ST",
+    "ZIP":94114,
+    "DATE":"05/22/2010"
+  },
+  {
+    "LATITUDE":37.7364,
+    "LONGITUDE":-122.3986,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MIKES MARKET",
+    "ADDRESS":"2200 SILVER AVE",
+    "ZIP":94124,
+    "DATE":"10/01/2005"
+  },
+  {
+    "LATITUDE":37.7633,
+    "LONGITUDE":-122.4217,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"SAM 76",
+    "ADDRESS":"1298A VALENCIA ST",
+    "ZIP":94110,
+    "DATE":"06/01/2012"
+  },
+  {
+    "LATITUDE":37.7539,
+    "LONGITUDE":-122.4343,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"1001 CASTRO STREET",
+    "ADDRESS":"1001 CASTRO ST",
+    "ZIP":94114,
+    "DATE":"11/15/2011"
+  },
+  {
+    "LATITUDE":37.7309,
+    "LONGITUDE":-122.3936522,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CANDIDO'S JANITORIAL SERVICE",
+    "ADDRESS":"115 THORNTON AV",
+    "ZIP":94124,
+    "DATE":"04/15/2012"
+  },
+  {
+    "LATITUDE":37.7793,
+    "LONGITUDE":-122.4599,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"2ND AVENUE MINI MARKET",
+    "ADDRESS":"500 2ND AVE",
+    "ZIP":94118,
+    "DATE":"02/12/2008"
+  },
+  {
+    "LATITUDE":37.7735272,
+    "LONGITUDE":-122.4507805,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CINDYS MARKET",
+    "ADDRESS":"2084 HAYES ST",
+    "ZIP":94117,
+    "DATE":"11/19/2008"
+  },
+  {
+    "LATITUDE":37.7294,
+    "LONGITUDE":-122.3894,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"FRIENDLY LIQUOR",
+    "ADDRESS":"1499 THOMAS AVE",
+    "ZIP":94124,
+    "DATE":"06/01/2003"
+  },
+  {
+    "LATITUDE":37.79609799,
+    "LONGITUDE":-122.4150283,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NEW RUSSIAN HILL MARKET",
+    "ADDRESS":"1198 PACIFIC AVE",
+    "ZIP":94133,
+    "DATE":"01/01/2003"
+  },
+  {
+    "LATITUDE":37.7793,
+    "LONGITUDE":-122.4599,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"JAVA SOURCE MARKET",
+    "ADDRESS":"500 2ND AVE",
+    "ZIP":94118,
+    "DATE":"04/14/2013"
+  },
+  {
+    "LATITUDE":37.7768,
+    "LONGITUDE":-122.477,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"G H MARKET",
+    "ADDRESS":"1701 BALBOA ST",
+    "ZIP":94121,
+    "DATE":"12/01/2009"
+  },
+  {
+    "LATITUDE":37.7312,
+    "LONGITUDE":-122.4289,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"MISSION-SILVER MARKET",
+    "ADDRESS":"4304 MISSION ST",
+    "ZIP":94121,
+    "DATE":"03/27/2006"
+  },
+  {
+    "LATITUDE":37.76801565,
+    "LONGITUDE":-122.4283628,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"BAY LIQUORS",
+    "ADDRESS":"2077 MARKET ST",
+    "ZIP":94114,
+    "DATE":"06/15/2007"
+  },
+  {
+    "LATITUDE":37.7343,
+    "LONGITUDE":-122.4296,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"7 ELEVEN STORE 2230 23342E",
+    "ADDRESS":"3080 SAN JOSE AVE",
+    "ZIP":94111,
+    "DATE":"03/24/2003"
+  },
+  {
+    "LATITUDE":37.71454082,
+    "LONGITUDE":-122.4588,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NORA'S MARKET",
+    "ADDRESS":"454 CAPITOL AVE",
+    "ZIP":94112,
+    "DATE":"09/11/2003"
+  },
+  {
+    "LATITUDE":37.72095391,
+    "LONGITUDE":-122.3963461,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"UPPER 3RD ST BOUTIQUE & MARKET",
+    "ADDRESS":"6275 3RD ST",
+    "ZIP":94124,
+    "DATE":"03/01/2009"
+  },
+  {
+    "LATITUDE":37.764,
+    "LONGITUDE":-122.4674,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ROOM SERVICE FINE FOOD & LIQUO",
+    "ADDRESS":"900 IRVING ST",
+    "ZIP":94122,
+    "DATE":"12/15/2011"
+  },
+  {
+    "LATITUDE":37.80428066,
+    "LONGITUDE":-122.4022591,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PAULS MART",
+    "ADDRESS":"20 LOMBARD ST",
+    "ZIP":94111,
+    "DATE":"02/13/2004"
+  },
+  {
+    "LATITUDE":37.81,
+    "LONGITUDE":-122.36,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"TREASURE ISLAND MINI MART/DELI",
+    "ADDRESS":"363 9TH ST 363",
+    "ZIP":94130,
+    "DATE":"11/19/2003"
+  },
+  {
+    "LATITUDE":37.72158379,
+    "LONGITUDE":-122.3960097,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"THE HOLLISTER STORE",
+    "ADDRESS":"6239 3RD ST",
+    "ZIP":94124,
+    "DATE":"03/01/2009"
+  },
+  {
+    "LATITUDE":37.79753288,
+    "LONGITUDE":-122.4067027,
+    "MatchType":"KnownAlternateName",
+    "NumMatch":"Exact",
+    "NAME":"IVY'S FOOD COMPANY",
+    "ADDRESS":"1142 GRANT ST",
+    "ZIP":94133,
+    "DATE":"03/02/2012"
+  },
+  {
+    "LATITUDE":37.72204799,
+    "LONGITUDE":-122.4546301,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"HOLLOWAY MARKET",
+    "ADDRESS":"150 HOLLOWAY AVE",
+    "ZIP":94112,
+    "DATE":"04/15/2005"
+  },
+  {
+    "LATITUDE":37.78,
+    "LONGITUDE":-122.46,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"GEARY 76",
+    "ADDRESS":"3501 GEARY ST A",
+    "ZIP":94118,
+    "DATE":"06/01/2010"
+  },
+  {
+    "LATITUDE":37.7364,
+    "LONGITUDE":-122.3901,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"KENNEDY LIQUOR AND MARKET",
+    "ADDRESS":"4600 3RD ST",
+    "ZIP":94124,
+    "DATE":"10/12/2011"
+  },
+  {
+    "LATITUDE":37.7306,
+    "LONGITUDE":-122.3921143,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"EL AGUILA DE ORO",
+    "ADDRESS":"5201 3RD ST",
+    "ZIP":94124,
+    "DATE":"07/18/2013"
+  },
+  {
+    "LATITUDE":37.7324,
+    "LONGITUDE":-122.4056,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NASER MINI MART",
+    "ADDRESS":"2400 SAN BRUNO AVE",
+    "ZIP":94134,
+    "DATE":"02/01/2010"
+  },
+  {
+    "LATITUDE":37.72397557,
+    "LONGITUDE":-122.4293592,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DON CHUYS MEXI-MERCADO",
+    "ADDRESS":"544 EXCELSIOR AVE",
+    "ZIP":94112,
+    "DATE":"05/31/2005"
+  },
+  {
+    "LATITUDE":37.7317,
+    "LONGITUDE":-122.3902,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SAABIS GROCERIES",
+    "ADDRESS":"1599 REVERE AVE",
+    "ZIP":94124,
+    "DATE":"08/01/2011"
+  },
+  {
+    "LATITUDE":37.74057868,
+    "LONGITUDE":-122.466066,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"EEZY FREEZY GOURMET & HEALTH F",
+    "ADDRESS":"25 WEST PORTAL AVE",
+    "ZIP":94127,
+    "DATE":"07/23/2004"
+  },
+  {
+    "LATITUDE":37.7376,
+    "LONGITUDE":-122.424,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"49ERS LIQUORS & GROCERIES",
+    "ADDRESS":"3701 MISSION ST",
+    "ZIP":94110,
+    "DATE":"01/01/2002"
+  },
+  {
+    "LATITUDE":37.783,
+    "LONGITUDE":-122.4141,
+    "MatchType":"KnownAlternateName",
+    "NumMatch":"Exact",
+    "NAME":"TL TOBACCO & MARKET",
+    "ADDRESS":"301 TURK ST",
+    "ZIP":94102,
+    "DATE":"02/14/2012"
+  },
+  {
+    "LATITUDE":37.7831527,
+    "LONGITUDE":-122.413938,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"METRO MARKET",
+    "ADDRESS":"236 LEAVENWORTH ST",
+    "ZIP":94102,
+    "DATE":"09/01/2013"
+  },
+  {
+    "LATITUDE":37.7828,
+    "LONGITUDE":-122.4141,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"TENDERLOIN MARKET & DELI",
+    "ADDRESS":"200 LEAVENWORTH ST",
+    "ZIP":94102,
+    "DATE":"09/03/2013"
+  },
+  {
+    "LATITUDE":37.77535357,
+    "LONGITUDE":-122.4191107,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"VARIETY CONVENIENCE STORE",
+    "ADDRESS":"1546 MARKET ST",
+    "ZIP":94102,
+    "DATE":"02/20/2002"
+  },
+  {
+    "LATITUDE":37.7851,
+    "LONGITUDE":-122.4128,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"YOUNG ELLIS PRODUCE MKT",
+    "ADDRESS":"398 ELLIS ST",
+    "ZIP":94102,
+    "DATE":"01/01/1992"
+  },
+  {
+    "LATITUDE":37.77,
+    "LONGITUDE":-122.41,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"CHARLES GROCERY STORE",
+    "ADDRESS":"555 JONES ST 402",
+    "ZIP":94102,
+    "DATE":"10/01/2013"
+  },
+  {
+    "LATITUDE":37.77752744,
+    "LONGITUDE":-122.4161651,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CIVIC CENTER MARKET",
+    "ADDRESS":"1292 MARKET ST",
+    "ZIP":94102,
+    "DATE":"02/09/1995"
+  },
+  {
+    "LATITUDE":37.7649093,
+    "LONGITUDE":-122.3879424,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GLUTEN FREE GROCERY",
+    "ADDRESS":"600 ILLINOIS ST",
+    "ZIP":94107,
+    "DATE":"12/05/2011"
+  },
+  {
+    "LATITUDE":37.7664,
+    "LONGITUDE":-122.4243,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SPOTLITE MARKET",
+    "ADDRESS":"298 GUERRERO ST",
+    "ZIP":94103,
+    "DATE":"04/01/1992"
+  },
+  {
+    "LATITUDE":37.77752744,
+    "LONGITUDE":-122.4161651,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CIVIC CENTER LIQUORS",
+    "ADDRESS":"1292 MARKET ST",
+    "ZIP":94102,
+    "DATE":"10/01/2008"
+  },
+  {
+    "LATITUDE":37.7649093,
+    "LONGITUDE":-122.3879424,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SEAM",
+    "ADDRESS":"600 ILLINOIS ST",
+    "ZIP":94107,
+    "DATE":"02/02/2003"
+  },
+  {
+    "LATITUDE":37.7649093,
+    "LONGITUDE":-122.3879424,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GLUTEN FREE REVIEWER STORE",
+    "ADDRESS":"600 ILLINOIS ST",
+    "ZIP":94107,
+    "DATE":"03/21/2011"
+  },
+  {
+    "LATITUDE":37.7649093,
+    "LONGITUDE":-122.3879424,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GLUTEN FREE STORE RS+CC",
+    "ADDRESS":"600 ILLINOIS ST",
+    "ZIP":94107,
+    "DATE":"10/06/2010"
+  },
+  {
+    "LATITUDE":37.7649093,
+    "LONGITUDE":-122.3879424,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GLUTEN FREE GROCERY LLC",
+    "ADDRESS":"600 ILLINOIS ST",
+    "ZIP":94107,
+    "DATE":"04/01/2012"
+  },
+  {
+    "LATITUDE":37.7649093,
+    "LONGITUDE":-122.3879424,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GLUTEN FREE REVIEWER GROCERY",
+    "ADDRESS":"600 ILLINOIS ST",
+    "ZIP":94107,
+    "DATE":"05/01/2011"
+  },
+  {
+    "LATITUDE":37.7835,
+    "LONGITUDE":-122.4144,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"T & L FOOD MARKET",
+    "ADDRESS":"405 EDDY ST",
+    "ZIP":94109,
+    "DATE":"05/01/2013"
+  },
+  {
+    "LATITUDE":37.77813333,
+    "LONGITUDE":-122.3936333,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GLUETEN FREE GROCERY, LLC",
+    "ADDRESS":"234 TOWNSEND ST",
+    "ZIP":94107,
+    "DATE":"09/19/2012"
+  },
+  {
+    "LATITUDE":37.78695373,
+    "LONGITUDE":-122.420305,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MEXICO MARKET",
+    "ADDRESS":"1122 POST ST",
+    "ZIP":94109,
+    "DATE":"07/19/2012"
+  },
+  {
+    "LATITUDE":37.7548,
+    "LONGITUDE":-122.3977,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"M & W MARKET",
+    "ADDRESS":"1800 23RD ST",
+    "ZIP":94107,
+    "DATE":"01/01/1995"
+  },
+  {
+    "LATITUDE":37.79172502,
+    "LONGITUDE":-122.4190007,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LARKIN CORNER MARKET",
+    "ADDRESS":"1496 LARKIN ST",
+    "ZIP":94109,
+    "DATE":"01/01/1993"
+  },
+  {
+    "LATITUDE":37.79394339,
+    "LONGITUDE":-122.4161048,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"L W GROCERY",
+    "ADDRESS":"1398 LEAVENWORTH ST",
+    "ZIP":94109,
+    "DATE":"06/05/2001"
+  },
+  {
+    "LATITUDE":37.7865374,
+    "LONGITUDE":-122.4196282,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GREEN APPLE MARKET",
+    "ADDRESS":"1042 POLK ST",
+    "ZIP":94109,
+    "DATE":"06/18/2014"
+  },
+  {
+    "LATITUDE":37.7616,
+    "LONGITUDE":-122.4238,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PAY N SAVE GROCERY",
+    "ADDRESS":"599 GUERRERO ST",
+    "ZIP":94110,
+    "DATE":"11/02/2012"
+  },
+  {
+    "LATITUDE":37.78779594,
+    "LONGITUDE":-122.4203051,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DISCOUNT GROCERS",
+    "ADDRESS":"1203 POLK ST",
+    "ZIP":94109,
+    "DATE":"07/17/1992"
+  },
+  {
+    "LATITUDE":37.74934513,
+    "LONGITUDE":-122.4136024,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"RUBINS MARKET",
+    "ADDRESS":"2997 FOLSOM ST",
+    "ZIP":94110,
+    "DATE":"06/20/2014"
+  },
+  {
+    "LATITUDE":37.7494,
+    "LONGITUDE":-122.4116,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"BOB'S GRILL & GROCERY",
+    "ADDRESS":"2999 HARRISON ST",
+    "ZIP":94110,
+    "DATE":"01/15/2012"
+  },
+  {
+    "LATITUDE":37.7469,
+    "LONGITUDE":-122.4106,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"RITEWAY MARKET",
+    "ADDRESS":"500 PRECITA AVE",
+    "ZIP":94110,
+    "DATE":"10/23/1996"
+  },
+  {
+    "LATITUDE":37.76,
+    "LONGITUDE":-122.4197176,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"JORDAN CABEEAR",
+    "ADDRESS":"3423 19TH ST",
+    "ZIP":94110,
+    "DATE":"08/22/2012"
+  },
+  {
+    "LATITUDE":37.7528,
+    "LONGITUDE":-122.41295,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MAURICES CORNER",
+    "ADDRESS":"3046 24TH ST",
+    "ZIP":94110,
+    "DATE":"12/05/2013"
+  },
+  {
+    "LATITUDE":37.77,
+    "LONGITUDE":-122.41,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"LION'S DEN SMOKE SHOP",
+    "ADDRESS":"1000 HOWARD ST A",
+    "ZIP":94103,
+    "DATE":"01/07/2014"
+  },
+  {
+    "LATITUDE":37.752,
+    "LONGITUDE":-122.4193789,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ZAYD'S MARKET",
+    "ADDRESS":"3347 24TH ST",
+    "ZIP":94110,
+    "DATE":"02/01/2014"
+  },
+  {
+    "LATITUDE":37.76472969,
+    "LONGITUDE":-122.4198578,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"APPLE MARKET",
+    "ADDRESS":"2020 MISSION ST",
+    "ZIP":94110,
+    "DATE":"10/01/2013"
+  },
+  {
+    "LATITUDE":37.74238667,
+    "LONGITUDE":-122.42176,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"BERNAL HEIGHTS MARKET",
+    "ADDRESS":"3391 MISSION ST",
+    "ZIP":94110,
+    "DATE":"06/24/2013"
+  },
+  {
+    "LATITUDE":37.7948,
+    "LONGITUDE":-122.4077,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"TAI SHING CO",
+    "ADDRESS":"867 WASHINGTON ST",
+    "ZIP":94108,
+    "DATE":"10/01/1994"
+  },
+  {
+    "LATITUDE":37.71,
+    "LONGITUDE":-122.4455,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LOWELL MARKET",
+    "ADDRESS":"601 BRUNSWICK ST",
+    "ZIP":94112,
+    "DATE":"05/13/1994"
+  },
+  {
+    "LATITUDE":37.721765,
+    "LONGITUDE":-122.4370717,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"LA LOMA #6 CULIACAN",
+    "ADDRESS":"4788 MISSION ST",
+    "ZIP":94112,
+    "DATE":"02/04/2013"
+  },
+  {
+    "LATITUDE":37.72434843,
+    "LONGITUDE":-122.458518,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"USA POWER MARKET",
+    "ADDRESS":"1532 OCEAN AVE",
+    "ZIP":94112,
+    "DATE":"06/24/2013"
+  },
+  {
+    "LATITUDE":37.72658438,
+    "LONGITUDE":-122.433816,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"B N J CONSTRUCTION COMPANY",
+    "ADDRESS":"17 FRANCIS ST",
+    "ZIP":94112,
+    "DATE":"10/05/1994"
+  },
+  {
+    "LATITUDE":37.74853297,
+    "LONGITUDE":-122.4336526,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ANGEL'S MARKET",
+    "ADDRESS":"1649 CASTRO ST",
+    "ZIP":94114,
+    "DATE":"09/01/1999"
+  },
+  {
+    "LATITUDE":37.785574,
+    "LONGITUDE":-122.4329782,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"RICK GROCERY",
+    "ADDRESS":"1736 FILLMORE ST",
+    "ZIP":94115,
+    "DATE":"02/01/2012"
+  },
+  {
+    "LATITUDE":37.76222055,
+    "LONGITUDE":-122.4352885,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"ROSSIS DELI",
+    "ADDRESS":"426 CASTRO ST",
+    "ZIP":94114,
+    "DATE":"08/01/1992"
+  },
+  {
+    "LATITUDE":37.74,
+    "LONGITUDE":-122.41,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"NIEVES CINCO DE MAYO",
+    "ADDRESS":"2590 MISSION ST 8",
+    "ZIP":94110,
+    "DATE":"04/16/2013"
+  },
+  {
+    "LATITUDE":37.7631,
+    "LONGITUDE":-122.4825898,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"IRVING HEALTH FOOD",
+    "ADDRESS":"2309 IRVING ST",
+    "ZIP":94122,
+    "DATE":"03/14/1994"
+  },
+  {
+    "LATITUDE":37.7622,
+    "LONGITUDE":-122.4662,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"JUDAH NINTH AVE LIQUORS",
+    "ADDRESS":"1400 9TH AVE",
+    "ZIP":94122,
+    "DATE":"06/28/1994"
+  },
+  {
+    "LATITUDE":37.72678625,
+    "LONGITUDE":-122.3886178,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CMM FOODS",
+    "ADDRESS":"2115 JENNINGS ST",
+    "ZIP":94124,
+    "DATE":"12/12/2013"
+  },
+  {
+    "LATITUDE":37.79598739,
+    "LONGITUDE":-122.4081196,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"D&T MARKET",
+    "ADDRESS":"1118 STOCKTON ST",
+    "ZIP":94133,
+    "DATE":"02/14/2014"
+  },
+  {
+    "LATITUDE":37.7828,
+    "LONGITUDE":-122.4445,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"EXPRESS LIQUOR AND DELI",
+    "ADDRESS":"4715 GEARY BLVD",
+    "ZIP":94124,
+    "DATE":"11/04/2012"
+  },
+  {
+    "LATITUDE":37.7299,
+    "LONGITUDE":-122.38,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"R AND A GROCERY",
+    "ADDRESS":"5172 3RD ST 3",
+    "ZIP":94124,
+    "DATE":"08/13/2012"
+  },
+  {
+    "LATITUDE":37.7427,
+    "LONGITUDE":-122.4790571,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"GOOD LUCK MARKET",
+    "ADDRESS":"1215 TARAVAL ST",
+    "ZIP":94116,
+    "DATE":"06/22/2010"
+  },
+  {
+    "LATITUDE":37.7528,
+    "LONGITUDE":-122.5047939,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"BROTHERS MINI MARKET",
+    "ADDRESS":"3845 NORIEGA ST",
+    "ZIP":94122,
+    "DATE":"03/01/1995"
+  },
+  {
+    "LATITUDE":37.7957,
+    "LONGITUDE":-122.4091333,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NEW OCEAN SEAFOOD & PRODUCE",
+    "ADDRESS":"838 JACKSON ST",
+    "ZIP":94133,
+    "DATE":"01/01/2013"
+  },
+  {
+    "LATITUDE":37.79786412,
+    "LONGITUDE":-122.4011154,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SILVER STAR CAFE & DELI",
+    "ADDRESS":"316 PACIFIC AVE",
+    "ZIP":94111,
+    "DATE":"07/01/1993"
+  },
+  {
+    "LATITUDE":37.75,
+    "LONGITUDE":-122.43,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"CHURCH STREET MARKET",
+    "ADDRESS":"301 CHURCH ST A",
+    "ZIP":94114,
+    "DATE":"04/29/2014"
+  },
+  {
+    "LATITUDE":37.79772101,
+    "LONGITUDE":-122.4095671,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"KING POULTRY & PRODUCE",
+    "ADDRESS":"758 BROADWAY",
+    "ZIP":94133,
+    "DATE":"03/28/2013"
+  },
+  {
+    "LATITUDE":37.78804383,
+    "LONGITUDE":-122.4001749,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SAMMY'S ON 2ND",
+    "ADDRESS":"84 2ND ST",
+    "ZIP":94105,
+    "DATE":"03/01/2010"
+  },
+  {
+    "LATITUDE":37.7956,
+    "LONGITUDE":-122.4115,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"C & Z GROCERY",
+    "ADDRESS":"1301 MASON ST",
+    "ZIP":94133,
+    "DATE":"04/14/2014"
+  },
+  {
+    "LATITUDE":37.78090532,
+    "LONGITUDE":-122.4664106,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"MODERA LIQUOR & WINE",
+    "ADDRESS":"4401 GEARY BLVD",
+    "ZIP":94118,
+    "DATE":"12/14/2010"
+  },
+  {
+    "LATITUDE":37.70851477,
+    "LONGITUDE":-122.4205443,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"M&M SHORT STOP",
+    "ADDRESS":"2145 GENEVA AVE",
+    "ZIP":94134,
+    "DATE":"01/01/1992"
+  },
+  {
+    "LATITUDE":37.7764,
+    "LONGITUDE":-122.4431,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NIMER'S MARKET",
+    "ADDRESS":"1601 FULTON ST",
+    "ZIP":94117,
+    "DATE":"06/01/2004"
+  },
+  {
+    "LATITUDE":37.7083,
+    "LONGITUDE":-122.4201,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Approx",
+    "NAME":"E-Z STOP MARKET",
+    "ADDRESS":"2203 GENEVA AVE",
+    "ZIP":94134,
+    "DATE":"02/16/1994"
+  },
+  {
+    "LATITUDE":37.79608846,
+    "LONGITUDE":-122.4064346,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"VALUE KING",
+    "ADDRESS":"675 JACKSON ST",
+    "ZIP":94133,
+    "DATE":"03/20/2014"
+  },
+  {
+    "LATITUDE":37.79599043,
+    "LONGITUDE":-122.4051641,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"PEOPLE'S GROCERY",
+    "ADDRESS":"605 JACKSON ST",
+    "ZIP":94133,
+    "DATE":"01/16/2013"
+  },
+  {
+    "LATITUDE":37.72155775,
+    "LONGITUDE":-122.3910251,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DOUBLE ROCK GROCERY",
+    "ADDRESS":"2830 INGALLS ST",
+    "ZIP":94124,
+    "DATE":"10/16/2012"
+  },
+  {
+    "LATITUDE":37.7999,
+    "LONGITUDE":-122.4058,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"FOG HILL MARKET",
+    "ADDRESS":"1300 KEARNY ST",
+    "ZIP":94133,
+    "DATE":"10/15/1997"
+  },
+  {
+    "LATITUDE":37.71183727,
+    "LONGITUDE":-122.4048631,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"NEW CASA MARIA #2",
+    "ADDRESS":"58 LELAND AVE",
+    "ZIP":94134,
+    "DATE":"04/01/2012"
+  },
+  {
+    "LATITUDE":37.79723897,
+    "LONGITUDE":-122.4058249,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"KIN FAI PRODUCE",
+    "ADDRESS":"628 PACIFIC AVE",
+    "ZIP":94133,
+    "DATE":"07/01/1995"
+  },
+  {
+    "LATITUDE":37.7299,
+    "LONGITUDE":-122.45,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"JOAQUIN OSORIO JANITORIAL SERV",
+    "ADDRESS":"675 MONTEREY BLVD. 12",
+    "ZIP":94127,
+    "DATE":"04/15/1992"
+  },
+  {
+    "LATITUDE":37.734,
+    "LONGITUDE":-122.391,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"DOLLAR STORE AND MORE",
+    "ADDRESS":"4900 3RD ST",
+    "ZIP":94124,
+    "DATE":"04/05/2013"
+  },
+  {
+    "LATITUDE":37.8,
+    "LONGITUDE":-122.41,
+    "MatchType":"MatchToZip",
+    "NumMatch":"NoMatch",
+    "NAME":"JAMIE SUPEMARKET",
+    "ADDRESS":"1135 STOCKTON ST 9",
+    "ZIP":94133,
+    "DATE":"04/30/1992"
+  },
+  {
+    "LATITUDE":37.738,
+    "LONGITUDE":-122.3896,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"STAR MARKET & LIQUOR",
+    "ADDRESS":"4400 3RD ST",
+    "ZIP":94124,
+    "DATE":"11/03/1995"
+  },
+  {
+    "LATITUDE":37.7372,
+    "LONGITUDE":-122.3899,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SAVE MORE MART",
+    "ADDRESS":"4500 3RD ST",
+    "ZIP":94124,
+    "DATE":"01/01/1998"
+  },
+  {
+    "LATITUDE":37.7632,
+    "LONGITUDE":-122.4810184,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"WAH FA PRODUCE COMPANY",
+    "ADDRESS":"2165 IRVING ST",
+    "ZIP":94122,
+    "DATE":"08/01/1999"
+  },
+  {
+    "LATITUDE":37.7741,
+    "LONGITUDE":-122.4444,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"HOME SERVICE MARKET",
+    "ADDRESS":"1700 HAYES ST",
+    "ZIP":94117,
+    "DATE":"01/02/2012"
+  },
+  {
+    "LATITUDE":37.7826396,
+    "LONGITUDE":-122.4661554,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"YIN XING FOOD COMAPNY",
+    "ADDRESS":"661 CLEMENT ST",
+    "ZIP":94118,
+    "DATE":"08/16/2012"
+  },
+  {
+    "LATITUDE":38.0039,
+    "LONGITUDE":-122.134,
+    "MatchType":"WeakName",
+    "NumMatch":"Approx",
+    "NAME":"D & H DELIVERY",
+    "ADDRESS":"100 GENEVA ST",
+    "ZIP":94112,
+    "DATE":"04/01/2014"
+  },
+  {
+    "LATITUDE":37.7737,
+    "LONGITUDE":-122.4477,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"CENTRAL PARK LIQUORS",
+    "ADDRESS":"1900 HAYES ST",
+    "ZIP":94117,
+    "DATE":"06/01/2012"
+  },
+  {
+    "LATITUDE":37.75346817,
+    "LONGITUDE":-122.4896411,
+    "MatchType":"ExactMatch",
+    "NumMatch":"Exact",
+    "NAME":"SUPERB GARDEN GROCERY",
+    "ADDRESS":"2433 NORIEGA ST",
+    "ZIP":94122,
+    "DATE":"02/01/2013"
+  }
+]

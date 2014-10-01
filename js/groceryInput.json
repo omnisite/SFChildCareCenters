@@ -1,0 +1,1385 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "sfdn-328a",
+      "name" : "Businesses - GROCERY STORES (PBC 3210)",
+      "attribution" : "City and County of San Francisco",
+      "attributionLink" : "http://www.sfgov.org",
+      "averageRating" : 0,
+      "category" : "Economy and Community",
+      "createdAt" : 1409779217,
+      "description" : "Active registered business locations in San Francisco maintained by the Office of Treasurer-Tax Collector.\r\nNote: a new business tax system has been put in place as of July 1, 2014; the Class and PBC Codes have been retained from previous system, and new additions to the system will not have business codes until March 2015.  At that time,  all codes will be replaced with the proper NAICS code for each business location.",
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "indexUpdatedAt" : 1412117492,
+      "licenseId" : "CC0_10",
+      "moderationStatus" : true,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8977797,
+      "publicationAppendEnabled" : true,
+      "publicationDate" : 1412017249,
+      "publicationGroup" : 1442833,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1412117469,
+      "rowsUpdatedBy" : "3i4b-bknh",
+      "state" : "normal",
+      "tableId" : 1739559,
+      "totalTimesRated" : 0,
+      "viewCount" : 29,
+      "viewLastModified" : 1410368993,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 168982343,
+        "name" : "Location_ID",
+        "dataTypeName" : "text",
+        "description" : "Unique identifier that combines certificate number, business number and location number.",
+        "fieldName" : "ttxid",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19315036,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "0012854-01-001",
+          "null" : 0,
+          "largest" : "0957395-01-001",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0922022-01-001"
+          }, {
+            "count" : 19,
+            "item" : "0922022-04-001"
+          }, {
+            "count" : 18,
+            "item" : "0927552-01-001"
+          }, {
+            "count" : 17,
+            "item" : "0927552-02-001"
+          }, {
+            "count" : 16,
+            "item" : "0928007-01-001"
+          }, {
+            "count" : 15,
+            "item" : "0928007-04-001"
+          }, {
+            "count" : 14,
+            "item" : "0928508-01-001"
+          }, {
+            "count" : 13,
+            "item" : "0930608-01-001"
+          }, {
+            "count" : 12,
+            "item" : "0932084-01-001"
+          }, {
+            "count" : 11,
+            "item" : "0932460-02-001"
+          }, {
+            "count" : 10,
+            "item" : "0932974-03-001"
+          }, {
+            "count" : 9,
+            "item" : "0934922-01-001"
+          }, {
+            "count" : 8,
+            "item" : "0936538-01-001"
+          }, {
+            "count" : 7,
+            "item" : "0936720-01-001"
+          }, {
+            "count" : 6,
+            "item" : "0938446-01-001"
+          }, {
+            "count" : 5,
+            "item" : "0938446-02-001"
+          }, {
+            "count" : 4,
+            "item" : "0939338-01-001"
+          }, {
+            "count" : 3,
+            "item" : "0940867-03-001"
+          }, {
+            "count" : 2,
+            "item" : "0943129-01-001"
+          }, {
+            "count" : 1,
+            "item" : "0946140-02-001"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 168982344,
+        "name" : "Business_Account_Number",
+        "dataTypeName" : "text",
+        "fieldName" : "certificate_number",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17617460,
+        "width" : 144,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "0012854",
+          "null" : 0,
+          "largest" : "1000085",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0338412"
+          }, {
+            "count" : 19,
+            "item" : "0918614"
+          }, {
+            "count" : 18,
+            "item" : "0922022"
+          }, {
+            "count" : 17,
+            "item" : "0927552"
+          }, {
+            "count" : 16,
+            "item" : "0928007"
+          }, {
+            "count" : 15,
+            "item" : "0934922"
+          }, {
+            "count" : 14,
+            "item" : "0936538"
+          }, {
+            "count" : 13,
+            "item" : "0936720"
+          }, {
+            "count" : 12,
+            "item" : "0938446"
+          }, {
+            "count" : 11,
+            "item" : "0939338"
+          }, {
+            "count" : 10,
+            "item" : "0940867"
+          }, {
+            "count" : 9,
+            "item" : "0943129"
+          }, {
+            "count" : 8,
+            "item" : "0946140"
+          }, {
+            "count" : 7,
+            "item" : "0946597"
+          }, {
+            "count" : 6,
+            "item" : "0954745"
+          }, {
+            "count" : 5,
+            "item" : "0954894"
+          }, {
+            "count" : 4,
+            "item" : "0956824"
+          }, {
+            "count" : 3,
+            "item" : "0957395"
+          }, {
+            "count" : 2,
+            "item" : "1000085"
+          }, {
+            "count" : 1,
+            "item" : "0490669"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 168982345,
+        "name" : "Ownership_Name",
+        "dataTypeName" : "text",
+        "fieldName" : "ownership_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17617462,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "ABBUSHI MOHAMMED S",
+          "null" : 0,
+          "largest" : "ZUGHAYIR NASSIR A & TAMMY",
+          "top" : [ {
+            "count" : 20,
+            "item" : "KHARSA NANCY S"
+          }, {
+            "count" : 19,
+            "item" : "DELANEY CHRISTOPHER"
+          }, {
+            "count" : 18,
+            "item" : "LEI YAN WEN"
+          }, {
+            "count" : 17,
+            "item" : "MAHMOUD EL-MIAARI"
+          }, {
+            "count" : 16,
+            "item" : "ISSA DABAI"
+          }, {
+            "count" : 15,
+            "item" : "NGAI BILL"
+          }, {
+            "count" : 14,
+            "item" : "CHAM YUK S"
+          }, {
+            "count" : 13,
+            "item" : "NASSER MOHAMED"
+          }, {
+            "count" : 12,
+            "item" : "KUBEIN EDMOND C"
+          }, {
+            "count" : 11,
+            "item" : "OSORIO DUBLAS"
+          }, {
+            "count" : 10,
+            "item" : "ZUGHAYIR NASSIR A & TAMMY"
+          }, {
+            "count" : 9,
+            "item" : "CHAN KIN F"
+          }, {
+            "count" : 8,
+            "item" : "LEE JOHN KYOYOON & LEE MARIA I"
+          }, {
+            "count" : 7,
+            "item" : "IBRAHIM RABAH"
+          }, {
+            "count" : 6,
+            "item" : "HANHAN GEORGE I"
+          }, {
+            "count" : 5,
+            "item" : "SACCA ALICE J"
+          }, {
+            "count" : 4,
+            "item" : "HISHAN MUNIEEB T S"
+          }, {
+            "count" : 3,
+            "item" : "ALEMU ABAI J/BELETE ZAFU"
+          }, {
+            "count" : 2,
+            "item" : "FARA NABIL AHMED"
+          }, {
+            "count" : 1,
+            "item" : "ALHUZAIBI NAJI NOMANMOHSEN"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168982346,
+        "name" : "DBA Name",
+        "dataTypeName" : "text",
+        "fieldName" : "dba_name",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17617464,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "1001 CASTRO STREET",
+          "null" : 0,
+          "largest" : "ZAYD'S MARKET",
+          "top" : [ {
+            "count" : 20,
+            "item" : "SILVER STAR CAFE & DELI"
+          }, {
+            "count" : 19,
+            "item" : "GOOD LUCK MARKET"
+          }, {
+            "count" : 18,
+            "item" : "E-Z STOP MARKET"
+          }, {
+            "count" : 17,
+            "item" : "M&M SHORT STOP"
+          }, {
+            "count" : 16,
+            "item" : "SPOTLITE MARKET"
+          }, {
+            "count" : 15,
+            "item" : "BERNAL HEIGHTS MARKET"
+          }, {
+            "count" : 14,
+            "item" : "IRVING HEALTH FOOD"
+          }, {
+            "count" : 13,
+            "item" : "LOWELL MARKET"
+          }, {
+            "count" : 12,
+            "item" : "JUDAH NINTH AVE LIQUORS"
+          }, {
+            "count" : 11,
+            "item" : "SAVE MORE MART"
+          }, {
+            "count" : 10,
+            "item" : "VARIETY CONVENIENCE STORE"
+          }, {
+            "count" : 9,
+            "item" : "B N J CONSTRUCTION COMPANY"
+          }, {
+            "count" : 8,
+            "item" : "TAI SHING CO"
+          }, {
+            "count" : 7,
+            "item" : "M & W MARKET"
+          }, {
+            "count" : 6,
+            "item" : "CIVIC CENTER MARKET"
+          }, {
+            "count" : 5,
+            "item" : "CIVIC CENTER LIQUORS"
+          }, {
+            "count" : 4,
+            "item" : "BROTHERS MINI MARKET"
+          }, {
+            "count" : 3,
+            "item" : "SAMMY'S ON 2ND"
+          }, {
+            "count" : 2,
+            "item" : "KIN FAI PRODUCE"
+          }, {
+            "count" : 1,
+            "item" : "MODERA LIQUOR & WINE"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168982347,
+        "name" : "Street_Address",
+        "dataTypeName" : "text",
+        "fieldName" : "full_business_address",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17617469,
+        "width" : 174,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "1000 HOWARD ST A",
+          "null" : 0,
+          "largest" : "999 OAK ST",
+          "top" : [ {
+            "count" : 20,
+            "item" : "212 GAMBIER ST"
+          }, {
+            "count" : 19,
+            "item" : "600 ILLINOIS ST"
+          }, {
+            "count" : 18,
+            "item" : "1400 9TH AVE"
+          }, {
+            "count" : 17,
+            "item" : "4500 3RD ST"
+          }, {
+            "count" : 16,
+            "item" : "1546 MARKET ST"
+          }, {
+            "count" : 15,
+            "item" : "17 FRANCIS ST"
+          }, {
+            "count" : 14,
+            "item" : "867 WASHINGTON ST"
+          }, {
+            "count" : 13,
+            "item" : "1800 23RD ST"
+          }, {
+            "count" : 12,
+            "item" : "1292 MARKET ST"
+          }, {
+            "count" : 11,
+            "item" : "3845 NORIEGA ST"
+          }, {
+            "count" : 10,
+            "item" : "84 2ND ST"
+          }, {
+            "count" : 9,
+            "item" : "628 PACIFIC AVE"
+          }, {
+            "count" : 8,
+            "item" : "4401 GEARY BLVD"
+          }, {
+            "count" : 7,
+            "item" : "4400 3RD ST"
+          }, {
+            "count" : 6,
+            "item" : "1700 HAYES ST"
+          }, {
+            "count" : 5,
+            "item" : "1649 CASTRO ST"
+          }, {
+            "count" : 4,
+            "item" : "1601 FULTON ST"
+          }, {
+            "count" : 3,
+            "item" : "500 PRECITA AVE"
+          }, {
+            "count" : 2,
+            "item" : "1042 POLK ST"
+          }, {
+            "count" : 1,
+            "item" : "2997 FOLSOM ST"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 168982348,
+        "name" : "City",
+        "dataTypeName" : "text",
+        "description" : "Business Address - City",
+        "fieldName" : "city",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21752809,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "San Francisco",
+          "null" : 0,
+          "largest" : "SAN FRANCISCO",
+          "top" : [ {
+            "count" : 20,
+            "item" : "San Francisco"
+          }, {
+            "count" : 19,
+            "item" : "SAN FRANCISCO"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168982349,
+        "name" : "State",
+        "dataTypeName" : "text",
+        "description" : "Business Address - State",
+        "fieldName" : "state",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21752816,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "CA",
+          "null" : 0,
+          "largest" : "CA",
+          "top" : [ {
+            "count" : 20,
+            "item" : "CA"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168982350,
+        "name" : "Zip_Code",
+        "dataTypeName" : "text",
+        "fieldName" : "business_zip",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17617473,
+        "width" : 109,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "94102",
+          "null" : 0,
+          "largest" : "94134",
+          "top" : [ {
+            "count" : 20,
+            "item" : "94115"
+          }, {
+            "count" : 19,
+            "item" : "94109"
+          }, {
+            "count" : 18,
+            "item" : "94110"
+          }, {
+            "count" : 17,
+            "item" : "94107"
+          }, {
+            "count" : 16,
+            "item" : "94122"
+          }, {
+            "count" : 15,
+            "item" : "94123"
+          }, {
+            "count" : 14,
+            "item" : "94132"
+          }, {
+            "count" : 13,
+            "item" : "94121"
+          }, {
+            "count" : 12,
+            "item" : "94131"
+          }, {
+            "count" : 11,
+            "item" : "94114"
+          }, {
+            "count" : 10,
+            "item" : "94118"
+          }, {
+            "count" : 9,
+            "item" : "94134"
+          }, {
+            "count" : 8,
+            "item" : "94117"
+          }, {
+            "count" : 7,
+            "item" : "94102"
+          }, {
+            "count" : 6,
+            "item" : "94124"
+          }, {
+            "count" : 5,
+            "item" : "94103"
+          }, {
+            "count" : 4,
+            "item" : "94116"
+          }, {
+            "count" : 3,
+            "item" : "94133"
+          }, {
+            "count" : 2,
+            "item" : "94127"
+          }, {
+            "count" : 1,
+            "item" : "94112"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 168982351,
+        "name" : "Business_Start_Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "dba_start_date",
+        "position" : 9,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 17617484,
+        "width" : 137,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "1968-10-01T00:00:00",
+          "null" : 0,
+          "largest" : "2014-06-20T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2007-01-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-10-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2003-02-02T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "1993-07-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "1991-05-20T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "1992-04-01T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "1995-01-01T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "1995-02-09T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "1995-03-01T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "1995-04-20T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "1995-07-01T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2010-12-14T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "1995-11-03T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2012-01-02T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "1999-09-01T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2004-06-01T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "1996-10-23T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-06-18T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-06-20T00:00:00"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 168982352,
+        "name" : "Location Start Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "location_start_date",
+        "position" : 10,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 17617486,
+        "width" : 170,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "1968-10-01T00:00:00",
+          "null" : 0,
+          "largest" : "2014-06-20T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-10-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2010-06-22T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "1994-02-16T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "1992-01-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "1992-04-01T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-06-24T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "1994-03-14T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "1994-05-13T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "1994-06-28T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "1998-01-01T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2002-02-20T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "1994-10-05T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "1994-10-01T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "1995-01-01T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "1995-02-09T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2008-10-01T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "1995-03-01T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2010-03-01T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "1995-07-01T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2010-12-14T00:00:00"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 168982353,
+        "name" : "Mail_Address",
+        "dataTypeName" : "text",
+        "fieldName" : "mailing_address_1",
+        "position" : 11,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17617489,
+        "width" : 181,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "1000 HOWARD ST #A",
+          "null" : 0,
+          "largest" : "PO BOX 641674",
+          "top" : [ {
+            "count" : 20,
+            "item" : "212 GAMBIER ST"
+          }, {
+            "count" : 19,
+            "item" : "600 ILLINOIS ST"
+          }, {
+            "count" : 18,
+            "item" : "316 PACIFIC AVE"
+          }, {
+            "count" : 17,
+            "item" : "2145 GENEVA AVE"
+          }, {
+            "count" : 16,
+            "item" : "298 GUERRERO ST"
+          }, {
+            "count" : 15,
+            "item" : "17 FRANCIS ST"
+          }, {
+            "count" : 14,
+            "item" : "867 WASHINGTON ST"
+          }, {
+            "count" : 13,
+            "item" : "1800 23RD ST"
+          }, {
+            "count" : 12,
+            "item" : "1292 MARKET ST"
+          }, {
+            "count" : 11,
+            "item" : "3845 NORIEGA ST"
+          }, {
+            "count" : 10,
+            "item" : "84 2ND ST"
+          }, {
+            "count" : 9,
+            "item" : "628 PACIFIC AVE"
+          }, {
+            "count" : 8,
+            "item" : "4401 GEARY BLVD"
+          }, {
+            "count" : 7,
+            "item" : "4400 3RD ST"
+          }, {
+            "count" : 6,
+            "item" : "1700 HAYES ST"
+          }, {
+            "count" : 5,
+            "item" : "1649 CASTRO ST"
+          }, {
+            "count" : 4,
+            "item" : "1601 FULTON ST"
+          }, {
+            "count" : 3,
+            "item" : "PO BOX 410451"
+          }, {
+            "count" : 2,
+            "item" : "1042 POLK ST"
+          }, {
+            "count" : 1,
+            "item" : "2997 FOLSOM ST"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 168982354,
+        "name" : "Mail_City_State_Zip",
+        "dataTypeName" : "text",
+        "fieldName" : "mailing_city_state_zip_code",
+        "position" : 12,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17617493,
+        "width" : 275,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "DALLAS TX 75221-0000",
+          "null" : 0,
+          "largest" : "SAN MATEO CA 94401-4118",
+          "top" : [ {
+            "count" : 20,
+            "item" : "SAN FRANCISCO CA 94134-1340"
+          }, {
+            "count" : 19,
+            "item" : "SAN FRANCISCO CA 94122-0000"
+          }, {
+            "count" : 18,
+            "item" : "SAN FRANCISCO CA 94134-0000"
+          }, {
+            "count" : 17,
+            "item" : "SAN FRANCISCO CA 94109-0000"
+          }, {
+            "count" : 16,
+            "item" : "SAN FRANCISCO CA 94110-0000"
+          }, {
+            "count" : 15,
+            "item" : "SAN FRANCISCO CA 94118-0000"
+          }, {
+            "count" : 14,
+            "item" : "SAN FRANCISCO CA 94133-0000"
+          }, {
+            "count" : 13,
+            "item" : "SAN FRANCISCO CA 94107-3129"
+          }, {
+            "count" : 12,
+            "item" : "SAN FRANCISCO CA 94111-1702"
+          }, {
+            "count" : 11,
+            "item" : "SAN FRANCISCO CA 94134-3118"
+          }, {
+            "count" : 10,
+            "item" : "SAN FRANCISCO CA 94103-2313"
+          }, {
+            "count" : 9,
+            "item" : "SAN FRANCISCO CA 94102-4801"
+          }, {
+            "count" : 8,
+            "item" : "SAN FRANCISCO CA 94141-0000"
+          }, {
+            "count" : 7,
+            "item" : "SAN FRANCISCO CA 94109-"
+          }, {
+            "count" : 6,
+            "item" : "SAN FRANCISCO CA 94110-"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 168982355,
+        "name" : "Class Code",
+        "dataTypeName" : "text",
+        "fieldName" : "class_code",
+        "position" : 13,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17617480,
+        "width" : 89,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "08",
+          "null" : 0,
+          "largest" : "08",
+          "top" : [ {
+            "count" : 20,
+            "item" : "08"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168982356,
+        "name" : "PBC Code",
+        "dataTypeName" : "text",
+        "fieldName" : "pbc_code",
+        "position" : 14,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17617482,
+        "width" : 102,
+        "cachedContents" : {
+          "non_null" : 273,
+          "smallest" : "3210",
+          "null" : 0,
+          "largest" : "3210",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3210"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : true,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Creative Commons 1.0 Universal",
+        "logoUrl" : "images/licenses/ccZero.png",
+        "termsLink" : "http://creativecommons.org/publicdomain/zero/1.0/legalcode"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department Metrics" : {
+            "Publishing Department" : "Treasurer-Tax Collector",
+            "Frequency" : "Weekly"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "ttxid"
+          } ],
+          "where" : {
+            "value" : "3210",
+            "operator" : "CONTAINS",
+            "columnFieldName" : "pbc_code",
+            "metadata" : {
+              "freeform" : true,
+              "unifiedVersion" : 2,
+              "tableColumnId" : {
+                "1442833" : 17617482
+              },
+              "operator" : "CONTAINS"
+            }
+          }
+        },
+        "thumbnail" : {
+          "page" : {
+            "created" : true
+          }
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "3i4b-bknh",
+        "displayName" : "Jeff Johnson",
+        "profileImageUrlLarge" : "/images/profile/0344/5696/dt_circle_logo_large.gif",
+        "profileImageUrlMedium" : "/images/profile/0344/5696/dt_circle_logo_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/0344/5696/dt_circle_logo_tiny.gif",
+        "roleName" : "administrator",
+        "screenName" : "Jeff Johnson",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+        "filterCondition" : {
+          "type" : "operator",
+          "value" : "AND",
+          "children" : [ {
+            "type" : "operator",
+            "value" : "OR",
+            "children" : [ {
+              "type" : "operator",
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 168982356,
+                "type" : "column"
+              }, {
+                "type" : "literal",
+                "value" : "3210"
+              } ],
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "metadata" : {
+              "operator" : "CONTAINS",
+              "tableColumnId" : {
+                "1442833" : 17617482
+              }
+            }
+          } ],
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        },
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 168982343,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 168982343,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "zhvw-4ft9",
+        "displayName" : "TTX-DataSF",
+        "roleName" : "editor",
+        "screenName" : "TTX-DataSF",
+        "rights" : [ "create_datasets", "view_domain", "short_session", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "business" ],
+      "viewFilters" : {
+        "type" : "operator",
+        "value" : "AND",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "OR",
+          "children" : [ {
+            "type" : "operator",
+            "value" : "CONTAINS",
+            "children" : [ {
+              "columnId" : 168982356,
+              "type" : "column"
+            }, {
+              "type" : "literal",
+              "value" : "3210"
+            } ],
+            "metadata" : {
+              "freeform" : true
+            }
+          } ],
+          "metadata" : {
+            "operator" : "CONTAINS",
+            "tableColumnId" : {
+              "1442833" : 17617482
+            }
+          }
+        } ],
+        "metadata" : {
+          "unifiedVersion" : 2
+        }
+      }
+    }
+  },
+  "data" : [ [ 383418, "EB1B5E89-1A33-436F-9519-45E48D5110A8", 383418, 1412009875, "400501", 1412116978, "400501", null, "0012854-01-001", "0012854", "WONG LINDA", "HILLTOP GROCERY", "1309 20TH ST", "San Francisco", "CA", "94107", "1968-10-01T00:00:00", "1968-10-01T00:00:00", "1309 20TH ST", "SAN FRANCISCO CA 94107-2909", "08", "3210" ]
+, [ 383647, "82791182-5F27-4A9B-B9DD-E636A3D852BF", 383647, 1412009876, "400501", 1412116983, "400501", null, "0017623-03-001", "0017623", "KHARSA SALWA J", "CHARLIES MARKET", "3400 JUDAH ST", "San Francisco", "CA", "94122", "2013-11-01T00:00:00", "2013-11-01T00:00:00", "1327 39TH AVENUE", "SAN FRANCISCO CA 94122-1340", "08", "3210" ]
+, [ 387930, "EB5F6C1E-F47B-42C9-B226-BC86F6E18853", 387930, 1412009895, "400501", 1412117017, "400501", null, "0069798-01-001", "0069798", "YEE DAMONE & ANGIE", "1907 GREENWICH APTS", "1907 GREENWICH ST", "San Francisco", "CA", "94123", "1971-05-01T00:00:00", "1971-05-01T00:00:00", "157 BERKELEY WY", "SAN FRANCISCO CA 94131-2519", "08", "3210" ]
+, [ 388454, "390A27E3-A224-45B0-8FD8-05092264BBC7", 388454, 1412009897, "400501", 1412117019, "400501", null, "0077693-01-001", "0077693", "GIN DAVID", "SABRETOOTH DENTAL STUDIO", "90 WOODACRE DR 102", "San Francisco", "CA", "94132", "1973-01-01T00:00:00", "1973-01-01T00:00:00", "90 WOODACRE DR #102", "SAN FRANCISCO CA 94132-1658", "08", "3210" ]
+, [ 388455, "59E44FD8-515A-4C26-A8B6-C236B9A7A39D", 388455, 1412009897, "400501", 1412117019, "400501", null, "0077693-03-001", "0077693", "GIN DAVID", "CENTRAL GROCERY STORE CO", "3243 BALBOA ST", "San Francisco", "CA", "94121", "1973-01-01T00:00:00", "2011-08-16T00:00:00", "90 WOODACRE DR #102", "SAN FRANCISCO CA 94132-1658", "08", "3210" ]
+, [ 388602, "2B181F4E-5B6F-4E79-B572-D6185C0414DF", 388602, 1412009897, "400501", 1412117020, "400501", null, "0080389-02-001", "0080389", "LAMA SHUKRY ANTON", "313 ELSIE APTS", "313 ELSIE ST", "San Francisco", "CA", "94110", "1990-11-17T00:00:00", "1980-01-01T00:00:00", "249 CORTLAND AVENUE", "SAN FRANCISCO CA 94110-5556", "08", "3210" ]
+, [ 388698, "2C1E7B71-090C-4542-966D-8D9D8E266472", 388698, 1412009898, "400501", 1412117020, "400501", null, "0081621-01-001", "0081621", "LOUH YOUSEF & ELIAS", "ST PAULS MARKET", "1598 SANCHEZ ST", "San Francisco", "CA", "94131", "1973-11-05T00:00:00", "1973-11-05T00:00:00", "1598 SANCHEZ ST", "SAN FRANCISCO CA 94131-2328", "08", "3210" ]
+, [ 388794, "484355AC-E06C-4E5F-A6BA-503D58AC11A9", 388794, 1412009898, "400501", 1412117020, "400501", null, "0082644-04-001", "0082644", "AZAR SIMON", "MARKET MAYFLOWER & DELI", "985 BUSH ST", "San Francisco", "CA", "94109", "2006-07-20T00:00:00", "2006-07-20T00:00:00", "985 BUSH ST", "SAN FRANCISCO CA 94109-6313", "08", "3210" ]
+, [ 388853, "A42A763C-AB29-47A0-9171-0DFF5D59D20B", 388853, 1412009898, "400501", 1412117021, "400501", null, "0083388-01-001", "0083388", "SHATARA JAKE J", "NOE VALLEY MARKET", "200 NOE ST", "San Francisco", "CA", "94114", "1974-07-19T00:00:00", "1974-07-19T00:00:00", "200 NOE ST", "SAN FRANCISCO CA 94114-1523", "08", "3210" ]
+, [ 390600, "8951B0EA-9F7A-4924-9F88-BD7153D821B1", 390600, 1412009906, "400501", 1412117028, "400501", null, "0112731-01-001", "0112731", "LESLIE A. HENNESSY INC", "LESLIE A. HENNESSY INC", "199 BRANNAN ST", "San Francisco", "CA", "94107", "1978-06-01T00:00:00", "1998-01-01T00:00:00", "545 2ND ST", "SAN FRANCISCO CA 94107-1411", "08", "3210" ]
+, [ 390601, "8E05A8F3-3F52-4C77-8A06-168594A3D659", 390601, 1412009906, "400501", 1412117028, "400501", null, "0112731-01-002", "0112731", "LESLIE A. HENNESSY INC", "LESLIE A. HENNESSY INC", "545 2ND ST", "San Francisco", "CA", "94107", "1978-06-01T00:00:00", "2004-10-04T00:00:00", "545 2ND ST", "SAN FRANCISCO CA 94107-1411", "08", "3210" ]
+, [ 391151, "BE6FF3CB-EF59-4A2C-BACB-B20338FE9801", 391151, 1412009908, "400501", 1412117031, "400501", null, "0121610-02-001", "0121610", "NASSER AHMAD", "KANSAS FOOD MARKET", "2250 23RD ST", "San Francisco", "CA", "94107", "1980-01-01T00:00:00", "1980-01-01T00:00:00", "2250 23RD ST", "SAN FRANCISCO CA 94107-3207", "08", "3210" ]
+, [ 391153, "E914A0C4-8607-4383-A58C-9838C6D45A7A", 391153, 1412009908, "400501", 1412117031, "400501", null, "0121628-01-001", "0121628", "HALTEH ANTON & NIMET", "DENHARDS MARKET", "701 10TH AVE", "San Francisco", "CA", "94118", "1980-01-01T00:00:00", "1980-01-01T00:00:00", "701 10TH AV", "SAN FRANCISCO CA 94118-3610", "08", "3210" ]
+, [ 392109, "3C6FB774-789A-41BE-B17C-82DD85A4FD5A", 392109, 1412009912, "400501", 1412117036, "400501", null, "0136184-02-001", "0136184", "KIM SUNNY", "LITTLE VILLAGE MARKET", "1450 SUNNYDALE AVE", "San Francisco", "CA", "94134", "2009-01-01T00:00:00", "2009-01-01T00:00:00", "1450 SUNNYDALE AV", "SAN FRANCISCO CA 94134-2723", "08", "3210" ]
+, [ 392221, "832FB6DA-DCF8-466A-B9B4-15FD04E83BBE", 392221, 1412009912, "400501", 1412117036, "400501", null, "0138160-02-001", "0138160", "DABIT ESAM S & SAMAR", "EASY MONEY", "2312 IRVING ST", "San Francisco", "CA", "94122", "1982-11-15T00:00:00", "2002-01-01T00:00:00", "2312 IRVING STREET", "SAN FRANCISCO CA 94122-1621", "08", "3210" ]
+, [ 392222, "40833E84-A55B-4B48-B783-9B3BB9B90402", 392222, 1412009912, "400501", 1412117036, "400501", null, "0138164-01-001", "0138164", "SUKHOVITSKY MIKHAIL & NONNA", "NEW WORLD MARKET", "5641 GEARY BLVD", "San Francisco", "CA", "94121", "1982-11-01T00:00:00", "2000-01-01T00:00:00", "5641 GEARY BLVD", "SAN FRANCISCO CA 94121-2214", "08", "3210" ]
+, [ 392247, "316DA6BB-6817-4E39-865B-B2D367C73F11", 392247, 1412009912, "400501", 1412117036, "400501", null, "0138640-01-001", "0138640", "RIBHI MOHAMMAD", "OLOONEYS MARKET", "588 HAIGHT ST", "San Francisco", "CA", "94117", "1982-11-23T00:00:00", "1982-11-23T00:00:00", "588 HAIGHT ST", "SAN FRANCISCO CA 94117-3407", "08", "3210" ]
+, [ 392620, "30901701-0BE1-4362-BD8E-1B7192E33CAF", 392620, 1412009914, "400501", 1412117038, "400501", null, "0144186-01-001", "0144186", "CHEUNG CHIU YAU-TONG J K ETAL", "CENTRAL TOWERS MARKET", "352 TURK ST", "San Francisco", "CA", "94102", "1983-05-08T00:00:00", "1983-05-08T00:00:00", "352 TURK STREET", "SAN FRANCISCO CA 94102-3704", "08", "3210" ]
+, [ 392698, "CF6C45DB-CBA4-4986-8240-07970F347631", 392698, 1412009914, "400501", 1412117038, "400501", null, "0145359-01-001", "0145359", "EDAIS MOHAMMED", "BIG SAVE MARKET #1", "5001 3RD ST", "San Francisco", "CA", "94124", "1984-01-01T00:00:00", "1984-01-01T00:00:00", "5001 3RD ST", "SAN FRANCISCO CA 94124-2390", "08", "3210" ]
+, [ 392755, "4C8EA466-EDCD-40B0-8B92-0C0D51233C4C", 392755, 1412009914, "400501", 1412117039, "400501", null, "0146173-02-001", "0146173", "RAYMOND & ANNIE TSANG", "TUONG PHONG MARKET", "628 ELLIS ST", "San Francisco", "CA", "94109", "1984-04-01T00:00:00", "2004-11-03T00:00:00", "628 ELLIS ST", "SAN FRANCISCO CA 94109-8028", "08", "3210" ]
+, [ 392840, "02716B37-4DD8-4C31-83AE-1238EAE75C80", 392840, 1412009915, "400501", 1412117039, "400501", null, "0146960-03-001", "0146960", "MEFTAH AHMED M", "RED SEA GROCERY STORE", "483 ELLIS ST", "San Francisco", "CA", "94102", "1984-06-12T00:00:00", "1997-12-15T00:00:00", "483 ELLIS ST", "SAN FRANCISCO CA 94102-1927", "08", "3210" ]
+, [ 392911, "B7B1BAE8-321D-40F0-92A8-BF2608B1376C", 392911, 1412009915, "400501", 1412117039, "400501", null, "0148205-02-001", "0148205", "LEE JUNG HOON", "GLEN PARK MARKET", "2900 DIAMOND ST", "San Francisco", "CA", "94131", "2007-01-01T00:00:00", "2007-01-01T00:00:00", "1423 BACON ST", "SAN FRANCISCO CA 94134-1640", "08", "3210" ]
+, [ 393032, "BB108415-2E96-42CC-A8A4-07FED70AB461", 393032, 1412009915, "400501", 1412117040, "400501", null, "0149453-03-001", "0149453", "TOM MARTIN", "FOOD 24 HR CONVENIENCE MKT #3", "500 CLEMENT ST", "San Francisco", "CA", "94118", "1985-01-01T00:00:00", "1988-11-01T00:00:00", "500 CLEMENT ST", "SAN FRANCISCO CA 94118-2324", "08", "3210" ]
+, [ 393179, "A46B4EFF-243C-4A30-B77D-765F2A36E93F", 393179, 1412009916, "400501", 1412117040, "400501", null, "0151252-01-001", "0151252", "TRAN HUY HAN", "ALEXS GROCERY & GIFT", "687 OFARRELL ST", "San Francisco", "CA", "94109", "1985-05-31T00:00:00", "1985-05-31T00:00:00", "687 OFARRELL ST", "SAN FRANCISCO CA 94109-7403", "08", "3210" ]
+, [ 393181, "60A7CC4D-5A07-4353-9703-EEC870CF85E3", 393181, 1412009916, "400501", 1412117040, "400501", null, "0151355-02-001", "0151355", "JO KUK Y", "KJ PRODUCE MARKET", "400 IRVING ST", "San Francisco", "CA", "94122", "1985-06-01T00:00:00", "2012-10-09T00:00:00", "400 IRVING ST", "SAN FRANCISCO CA 94122-2512", "08", "3210" ]
+, [ 393623, "CE4EF7AC-929C-4438-B5CD-6D9AD85B1251", 393623, 1412009918, "400501", 1412117042, "400501", null, "0156732-01-001", "0156732", "ABDELHALIM SUHAIL A", "ASAD MARKET", "229 9TH ST", "San Francisco", "CA", "94103", "1986-04-01T00:00:00", "1986-04-01T00:00:00", "229 9TH ST", "SAN FRANCISCO CA 94103-3806", "08", "3210" ]
+, [ 394019, "E602E5A8-7AFF-4B42-9510-A87506773A40", 394019, 1412009919, "400501", 1412117044, "400501", null, "0160468-01-001", "0160468", "ISBETH MOHAMMAD & NAYFRA", "THIRD WORLD MARKET", "1200 FILLMORE ST", "San Francisco", "CA", "94115", "1986-05-01T00:00:00", "1986-05-01T00:00:00", "1200 FILLMORE ST", "SAN FRANCISCO CA 94115-4111", "08", "3210" ]
+, [ 394042, "ACE45F6F-DF9B-4F48-A065-E503FF42B8EB", 394042, 1412009919, "400501", 1412117044, "400501", null, "0160830-01-001", "0160830", "SABA IBRAHIM O", "ALPHA MARKET", "960 COLE ST", "San Francisco", "CA", "94117", "1987-02-01T00:00:00", "1987-02-01T00:00:00", "960 COLE ST", "SAN FRANCISCO CA 94117-4316", "08", "3210" ]
+, [ 394221, "82DDAA1B-D2F7-4792-B7A4-BE5DD7E4A458", 394221, 1412009920, "400501", 1412117045, "400501", null, "0161879-01-001", "0161879", "FONG TERRY & BETSY", "7-ELEVEN STORE 20450", "1388 46TH AVE", "San Francisco", "CA", "94122", "1986-01-01T00:00:00", "1986-01-01T00:00:00", "PO BOX 219088", "DALLAS TX 75221-9088", "08", "3210" ]
+, [ 394222, "9F3BB7AA-C1B6-4F47-B4A5-6E7096FA976C", 394222, 1412009920, "400501", 1412117045, "400501", null, "0161879-02-001", "0161879", "FONG TERRY & BETSY", "7 ELEVEN", "2222 TARAVAL ST", "San Francisco", "CA", "94116", "1986-01-01T00:00:00", "2000-04-18T00:00:00", "PO BOX 219088", "DALLAS TX 75221-9088", "08", "3210" ]
+, [ 394419, "1B983EEB-23E3-429A-B259-0BEA56485749", 394419, 1412009921, "400501", 1412117046, "400501", null, "0163658-03-001", "0163658", "NGO HOWARD & VUONG DZUNG MY", "DUC LOI SUPERMARKET", "2200 MISSION ST", "San Francisco", "CA", "94110", "2008-06-25T00:00:00", "2008-06-25T00:00:00", "2200 MISSION ST", "SAN FRANCISCO CA 94110-1812", "08", "3210" ]
+, [ 394532, "DE744201-AC61-4EB4-A91A-F6DF1EB14BD9", 394532, 1412009921, "400501", 1412117046, "400501", null, "0164923-01-001", "0164923", "GHATTAS LOTFI NABBEH & MARY", "BUS STOP GROCERY", "2698 SAN BRUNO AVE", "San Francisco", "CA", "94134", "1987-01-01T00:00:00", "1987-01-01T00:00:00", "2698 SAN BRUNO AV", "SAN FRANCISCO CA 94134-1507", "08", "3210" ]
+, [ 395536, "6297BB5A-7258-4A09-ACED-E4B84112C992", 395536, 1412009926, "400501", 1412117050, "400501", null, "0172404-01-001", "0172404", "TSUI DAVID", "PANG KEE BARGAIN MARKET", "1308 STOCKTON ST", "San Francisco", "CA", "94133", "1988-08-01T00:00:00", "1988-08-01T00:00:00", "1308 STOCKTON ST", "SAN FRANCISCO CA 94133-3807", "08", "3210" ]
+, [ 395857, "44AC4851-869B-4C2A-897A-F37F03D07166", 395857, 1412009927, "400501", 1412117052, "400501", null, "0180861-01-001", "0180861", "ILENA I PERICH", "K & B MARKET", "2887 BRYANT ST", "San Francisco", "CA", "94110", "1988-07-01T00:00:00", "1988-07-01T00:00:00", "2887 BRYANT ST", "SAN FRANCISCO CA 94110-4809", "08", "3210" ]
+, [ 396584, "8397EC0C-8763-4674-9B5F-3A2793952B62", 396584, 1412009930, "400501", 1412117055, "400501", null, "0184883-01-001", "0184883", "ABDELMANNAN SAID M", "GROVE ST MARKET", "500 GROVE ST", "San Francisco", "CA", "94102", "1988-09-06T00:00:00", "1988-09-06T00:00:00", "500 GROVE ST", "SAN FRANCISCO CA 94102-4206", "08", "3210" ]
+, [ 397109, "AC406EA7-DAFF-40C5-B4C1-AB0C366BDBF3", 397109, 1412009932, "400501", 1412117057, "400501", null, "0188024-01-001", "0188024", "LEE KYU-HO", "JIMS SMOKE SHOP", "600 20TH ST", "San Francisco", "CA", "94107", "1989-04-01T00:00:00", "1989-04-01T00:00:00", "600 20TH ST", "SAN FRANCISCO CA 94107-3117", "08", "3210" ]
+, [ 397199, "3C7E1EA5-D500-40BC-9FDB-C668A3BB9481", 397199, 1412009932, "400501", 1412117057, "400501", null, "0188588-01-001", "0188588", "WONG DAVID", "PEGASUS FOOD SHOP", "1298 UNION ST", "San Francisco", "CA", "94109", "1989-03-29T00:00:00", "1989-03-29T00:00:00", "1298 UNION ST", "SAN FRANCISCO CA 94109-1968", "08", "3210" ]
+, [ 397576, "9A3E6FD1-B130-4781-AD46-6C4BD14211C5", 397576, 1412009934, "400501", 1412117059, "400501", null, "0190331-01-001", "0190331", "SHALABI ADEL M", "1400-1402 COLE BUILDING", "1400 COLE ST", "San Francisco", "CA", "94117", "1989-10-10T00:00:00", "1989-10-10T00:00:00", "1400 COLE ST", "SAN FRANCISCO CA 94117-4337", "08", "3210" ]
+, [ 397577, "8B92C55C-772B-488C-ADB4-FF218F0FA7CC", 397577, 1412009934, "400501", 1412117059, "400501", null, "0190331-02-001", "0190331", "SHALABI ADEL M", "SEVENTEENTH & COLE MARKET", "1400 COLE ST", "San Francisco", "CA", "94117", "1989-10-10T00:00:00", "1992-01-01T00:00:00", "1400 COLE ST", "SAN FRANCISCO CA 94117-4337", "08", "3210" ]
+, [ 397856, "A23AA86C-0F2A-40A4-9551-68C759F335FF", 397856, 1412009935, "400501", 1412117060, "400501", null, "0191957-01-001", "0191957", "EOM KI H", "NICK'S CORNER", "342 COLUMBUS AVE", "San Francisco", "CA", "94133", "1989-10-03T00:00:00", "1989-10-03T00:00:00", "342 COLUMBUS AV", "SAN FRANCISCO CA 94133-3915", "08", "3210" ]
+, [ 397976, "4382EE0A-9124-43CC-B5F0-C1BD6671C496", 397976, 1412009935, "400501", 1412117060, "400501", null, "0192955-01-001", "0192955", "KONG AARON & CONNIE", "MON SING NOODLE CO", "1950 INNES AVE 3", "San Francisco", "CA", "94109", "1989-11-16T00:00:00", "1989-11-16T00:00:00", "1950 INNES AVE #3", "SAN FRANCISCO CA 94124-1627", "08", "3210" ]
+, [ 397982, "2FD01D1C-FF7B-4197-B41E-CB5A07923E90", 397982, 1412009935, "400501", 1412117060, "400501", null, "0193058-01-001", "0193058", "SWALIM FAWZI", "NEW SANTA CLARA MARKET", "799 HAIGHT ST", "San Francisco", "CA", "94117", "1990-01-01T00:00:00", "1990-01-01T00:00:00", "799 HAIGHT ST", "SAN FRANCISCO CA 94117-3316", "08", "3210" ]
+, [ 397983, "3153B7E6-A1EC-4370-AA7A-410E656420C4", 397983, 1412009935, "400501", 1412117060, "400501", null, "0193058-03-001", "0193058", "SWALIM FAWZI", "SANTA CLARA NATURAL ORGN MKT", "798 HAIGHT ST", "San Francisco", "CA", "94117", "1990-01-01T00:00:00", "2012-03-28T00:00:00", "799 HAIGHT ST", "SAN FRANCISCO CA 94117-3316", "08", "3210" ]
+, [ 381430, "582CE6A3-5EE8-450F-867A-13E28563EF4F", 381430, 1412008254, "400501", 1412117067, "400501", null, "0194740-02-001", "0194740", "LEE SUNG W", "WOORI FOOD MARKET", "1526-28 WOORI FOOD MARKET", "San Francisco", "CA", "94115", "1995-07-15T00:00:00", "2008-04-01T00:00:00", "1528 FILLMORE ST", "SAN FRANCISCO CA 94115-3516", "08", "3210" ]
+, [ 398376, "092739F2-FB1B-4374-8163-A00BB70EBE8F", 398376, 1412009937, "400501", 1412117068, "400501", null, "0195607-01-001", "0195607", "SHOMAN NEDAL", "HAYES MARKET", "698 HAYES ST", "San Francisco", "CA", "94102", "1989-06-01T00:00:00", "1989-06-01T00:00:00", "698 HAYES ST", "SAN FRANCISCO CA 94102-4130", "08", "3210" ]
+, [ 398389, "D65342E6-2B98-4AFB-A438-EF7961503A1C", 398389, 1412009937, "400501", 1412117068, "400501", null, "0195649-01-001", "0195649", "WEST PORTAL PRODUCE MARKET", "WEST PORTAL PRODUCE MARKET", "222 WEST PORTAL AVE", "San Francisco", "CA", "94127", "1989-01-01T00:00:00", "1989-01-01T00:00:00", "222 WEST PORTAL AV", "SAN FRANCISCO CA 94127-1423", "08", "3210" ]
+, [ 398442, "4AAB67CA-33B7-42CC-B1F8-6145F9DF4EA7", 398442, 1412009937, "400501", 1412117068, "400501", null, "0195970-01-001", "0195970", "RAJNINGER LEON & TONI", "85 HEATHER AV APARTMENTS", "85 HEATHER AVE", "San Francisco", "CA", "94118", "1989-10-11T00:00:00", "1989-10-11T00:00:00", "141 SAN PABLO AVE", "SAN FRANCISCO CA 94127-1535", "08", "3210" ]
+, [ 398721, "E7D6487D-1C6A-414F-8972-86E739237B2B", 398721, 1412009938, "400501", 1412117069, "400501", null, "0198084-05-001", "0198084", "ZEIDAN MAJED B", "RANDAS MARKET", "3131 16TH ST", "San Francisco", "CA", "94103", "2001-10-01T00:00:00", "2004-02-01T00:00:00", "3131 16TH ST", "SAN FRANCISCO CA 94103-3327", "08", "3210" ]
+, [ 399431, "45FB6C3B-48F3-46A0-88DD-B59270637D60", 399431, 1412009941, "400501", 1412117072, "400501", null, "0204115-01-001", "0204115", "SHEHADEH WAKEEM S", "OAK FAIR MARKET", "999 OAK ST", "San Francisco", "CA", "94117", "1991-04-02T00:00:00", "1991-04-02T00:00:00", "999 OAK ST", "SAN FRANCISCO CA 94117-2310", "08", "3210" ]
+, [ 399454, "59972AFB-C379-4B03-9B9B-B07E2CF37AD4", 399454, 1412009941, "400501", 1412117072, "400501", null, "0204315-01-001", "0204315", "IBARRA VICTOR ANDRES", "MAIL CARRIER ETC THE", "3288 21ST ST", "San Francisco", "CA", "94110", "1991-05-15T00:00:00", "1991-05-15T00:00:00", "3288 21ST ST", "SAN FRANCISCO CA 94110-2423", "08", "3210" ]
+, [ 399455, "B77DE407-5425-4F63-B50F-CD7FC5D5C9B0", 399455, 1412009941, "400501", 1412117072, "400501", null, "0204315-02-001", "0204315", "IBARRA VICTOR ANDRES", "LA BODEGA DEL SUR", "3288 21ST ST", "San Francisco", "CA", "94110", "1991-05-15T00:00:00", "2007-11-30T00:00:00", "3288 21ST ST", "SAN FRANCISCO CA 94110-2423", "08", "3210" ]
+, [ 399943, "67B16C65-0622-40A9-8A87-C0A0E2D46894", 399943, 1412009944, "400501", 1412117074, "400501", null, "0207814-01-001", "0207814", "WAHHAB SAMI F", "RELIANCE MARKET", "699 CASTRO ST", "San Francisco", "CA", "94114", "1991-09-01T00:00:00", "1991-09-01T00:00:00", "699 CASTRO ST", "SAN FRANCISCO CA 94114-2517", "08", "3210" ]
+, [ 399944, "C9A76EC7-D328-4897-AF8D-3481232278BD", 399944, 1412009944, "400501", 1412117074, "400501", null, "0207816-01-001", "0207816", "FATTAH ATA S", "ABE'S MARKET", "378 FILLMORE ST", "San Francisco", "CA", "94117", "1996-11-01T00:00:00", "1996-11-01T00:00:00", "378 FILLMORE ST", "SAN FRANCISCO CA 94117-3403", "08", "3210" ]
+, [ 400577, "D18C985D-4424-43ED-B5AA-44587542F438", 400577, 1412009947, "400501", 1412117078, "400501", null, "0301732-01-001", "0301732", "HANHAN ELIAS", "OXFORD ST", "991 MARKET ST", "San Francisco", "CA", "94103", "1997-01-01T00:00:00", "1997-01-01T00:00:00", "1301 18TH ST", "SAN FRANCISCO CA 94107-2822", "08", "3210" ]
+, [ 401009, "0F9E2166-35AD-47D2-969B-91B5A9833754", 401009, 1412009948, "400501", 1412117080, "400501", null, "0303472-01-001", "0303472", "PRONGOS PAT & PETER", "MAYFLOWER MARKET", "2498 FILLMORE ST", "San Francisco", "CA", "94115", "1997-01-01T00:00:00", "1997-01-01T00:00:00", "2498 FILLMORE ST", "SAN FRANCISCO CA 94115-1815", "08", "3210" ]
+, [ 401331, "122E2B28-DDB1-41A9-BCB3-3C693C5A5480", 401331, 1412009950, "400501", 1412117081, "400501", null, "0304358-01-001", "0304358", "SHAHEEN IMAD A", "WHAT A GRIND", "1301 FILLMORE ST", "San Francisco", "CA", "94117", "1997-02-10T00:00:00", "1997-02-10T00:00:00", "501 FILLMORE ST", "SAN FRANCISCO CA 94117-2619", "08", "3210" ]
+, [ 401332, "BC73AEB1-E696-43BA-82A3-C7DF09FC42F1", 401332, 1412009950, "400501", 1412117081, "400501", null, "0304358-02-001", "0304358", "SHAHEEN IMAD A", "KEY FOOD MARKET", "501 FILLMORE ST", "San Francisco", "CA", "94117", "1997-02-10T00:00:00", "1998-09-01T00:00:00", "501 FILLMORE ST", "SAN FRANCISCO CA 94117-2619", "08", "3210" ]
+, [ 401460, "4975A3A8-650B-436E-A427-B15CA395616C", 401460, 1412009950, "400501", 1412117081, "400501", null, "0304977-01-001", "0304977", "COURTNEY LOLA L", "COURTNEY PRODUCE", "101 CASTRO ST A", "San Francisco", "CA", "94114", "1997-01-01T00:00:00", "1997-01-01T00:00:00", "101 CASTRO ST #A", "SAN FRANCISCO CA 94114-1229", "08", "3210" ]
+, [ 401850, "19F0AD7F-0932-4207-AC9D-56BB34A93552", 401850, 1412009952, "400501", 1412117083, "400501", null, "0306665-01-001", "0306665", "NATOUR SARI", "TIM'S MARKET", "667 FILLMORE ST", "San Francisco", "CA", "94117", "1997-06-01T00:00:00", "1997-06-01T00:00:00", "667 FILLMORE ST", "SAN FRANCISCO CA 94117-2610", "08", "3210" ]
+, [ 402187, "A11B160B-0966-4A92-8CA6-3573E2862D6D", 402187, 1412009953, "400501", 1412117084, "400501", null, "0308344-02-001", "0308344", "LAI HUNG DAT", "GMP INTERNATIONAL", "2687 MISSION ST", "San Francisco", "CA", "94110", "2004-07-01T00:00:00", "2004-07-01T00:00:00", "2687 MISSION ST", "SAN FRANCISCO CA 94110-3101", "08", "3210" ]
+, [ 402188, "45CC040E-A282-4D4B-B8D4-17D3B0172242", 402188, 1412009953, "400501", 1412117084, "400501", null, "0308344-03-001", "0308344", "LAI HUNG DAT", "BASA SEAFOOD EXPRESS", "3064 24TH ST", "San Francisco", "CA", "94110", "2004-07-01T00:00:00", "2009-04-15T00:00:00", "2687 MISSION ST", "SAN FRANCISCO CA 94110-3101", "08", "3210" ]
+, [ 402317, "952233AC-ED70-43BA-B6CD-B9D098376403", 402317, 1412009954, "400501", 1412117084, "400501", null, "0309089-01-001", "0309089", "ALGAZZALI ABDO A", "POTRERO MARKET", "1298 POTRERO AVE", "San Francisco", "CA", "94110", "1997-08-29T00:00:00", "1997-08-29T00:00:00", "1298 POTRERO AVE", "SAN FRANCISCO CA 94110-3523", "08", "3210" ]
+, [ 402529, "6790FD2B-3FD7-41CE-9354-EBBE8C28B646", 402529, 1412009955, "400501", 1412117085, "400501", null, "0310085-01-001", "0310085", "MOHAMED ZAHER ABULLA", "W - K MARKET", "3098 24TH ST", "San Francisco", "CA", "94110", "2013-05-31T00:00:00", "2013-05-31T00:00:00", "3098 24TH ST", "SAN FRANCISCO CA 94110-4130", "08", "3210" ]
+, [ 402772, "BACAB9A8-CFF8-4F83-8C3C-163C99E28F5B", 402772, 1412009956, "400501", 1412117086, "400501", null, "0311004-03-001", "0311004", "SWEITI OSAMA A", "PINE MARKET", "1191 PINE ST", "San Francisco", "CA", "94109", "1997-11-14T00:00:00", "2006-08-09T00:00:00", "1191 PINE ST", "SAN FRANCISCO CA 94109-5104", "08", "3210" ]
+, [ 402948, "ACAF8028-72D0-47D6-BE62-920E0CF0C9C2", 402948, 1412009956, "400501", 1412117087, "400501", null, "0311808-02-001", "0311808", "GHANEM ADEL A", "FRANKS MARKET", "4799 MISSION ST", "San Francisco", "CA", "94112", "2003-08-18T00:00:00", "2003-08-18T00:00:00", "4799 MISSION ST", "SAN FRANCISCO CA 94112-2729", "08", "3210" ]
+, [ 402984, "FF06E131-E7D4-42C9-9A04-510D36C0F86E", 402984, 1412009956, "400501", 1412117087, "400501", null, "0312000-01-001", "0312000", "HUANG BI XIN", "LONG HUA'S GROCERY STORE", "754 PACIFIC AVE", "San Francisco", "CA", "94133", "1998-01-01T00:00:00", "2009-02-02T00:00:00", "906 STOCKTON ST", "SAN FRANCISCO CA 94108-1608", "08", "3210" ]
+, [ 402985, "5C8CCD89-1E8B-4A95-A14D-C9389FD9EE36", 402985, 1412009956, "400501", 1412117087, "400501", null, "0312000-01-002", "0312000", "HUANG BI XIN", "LONG HUA'S GROCERY STORE", "906 STOCKTON ST", "San Francisco", "CA", "94109", "1998-01-01T00:00:00", "1998-01-01T00:00:00", "906 STOCKTON ST", "SAN FRANCISCO CA 94108-1608", "08", "3210" ]
+, [ 403081, "F32193E4-5700-4931-9C95-028854499228", 403081, 1412009957, "400501", 1412117087, "400501", null, "0312439-03-001", "0312439", "KWON YUN SUK", "HENRY'S CONVENIENCE STORE", "111 SUTTER ST", "San Francisco", "CA", "94104", "2009-06-19T00:00:00", "2009-06-19T00:00:00", "745 GOUGH STREET #G", "SAN FRANCISCO CA 94102-3149", "08", "3210" ]
+, [ 403241, "B2E22090-0543-42A7-A337-F21F538B5FF5", 403241, 1412009957, "400501", 1412117088, "400501", null, "0313042-06-001", "0313042", "FUNG KIN YEUNG", "NEW MAY CHEUNG CO", "2121 IRVING ST", "San Francisco", "CA", "94122", "2007-10-01T00:00:00", "2007-10-15T00:00:00", "2121 IRVING ST", "SAN FRANCISCO CA 94122-2206", "08", "3210" ]
+, [ 403730, "C2D16FB9-6C35-463D-9865-DC5DB1C9D93F", 403730, 1412009959, "400501", 1412117089, "400501", null, "0315040-01-001", "0315040", "ABDULLAH MOHAMED A", "AB JANITORIAL SERVICES", "840 GEARY ST 32", "San Francisco", "CA", "94109", "1998-04-01T00:00:00", "1998-04-01T00:00:00", "840 GEARY ST #32", "SAN FRANCISCO CA 94109-7250", "08", "3210" ]
+, [ 381488, "A1DA45C6-F23B-4A05-936F-AAA3905722C9", 381488, 1412008255, "400501", 1412117089, "400501", null, "0315040-02-001", "0315040", "ABDULLAH MOHAMED A", "AL JAZEER MARKET", "1209- 1211 SUTTER ST", "San Francisco", "CA", "94109", "1998-04-01T00:00:00", "2013-04-10T00:00:00", "840 GEARY ST #32", "SAN FRANCISCO CA 94109-7250", "08", "3210" ]
+, [ 403877, "E2E30F3E-0F9E-439B-A7C2-2A59B9201D26", 403877, 1412009960, "400501", 1412117090, "400501", null, "0315787-01-001", "0315787", "YANG DE XI", "CITY'S CHOICE MARKET", "301 5TH ST", "San Francisco", "CA", "94107", "1998-05-01T00:00:00", "1998-05-01T00:00:00", "301 5TH ST", "SAN FRANCISCO CA 94107-1001", "08", "3210" ]
+, [ 404181, "560A08C3-BE88-499B-B427-9A098F52B8D2", 404181, 1412009961, "400501", 1412117091, "400501", null, "0316968-01-001", "0316968", "DASOVIC DIANE C", "HAYES & COLE MARKET", "2111 HAYES ST", "San Francisco", "CA", "94117", "2003-07-30T00:00:00", "2003-07-30T00:00:00", "65 E 3RD ST", "MORGAN HILL CA 95037-3630", "08", "3210" ]
+, [ 404381, "EA780DC2-71A4-4CA4-A934-C15A9A0324CF", 404381, 1412009962, "400501", 1412117091, "400501", null, "0318063-01-001", "0318063", "PATEL CHETAN J/PATEL DIPIKA", "IMPERIAL SQUARE LIQUOR", "251 ELLIS ST", "San Francisco", "CA", "94102", "1998-08-01T00:00:00", "1998-08-01T00:00:00", "251 ELLIS ST", "SAN FRANCISCO CA 94102-2111", "08", "3210" ]
+, [ 404699, "B80020CA-93E7-485D-AC42-B78A688DA29B", 404699, 1412009963, "400501", 1412117093, "400501", null, "0319402-01-001", "0319402", "WEN HUI CHU", "SHUN LEE MARKET", "2400 BAYSHORE BLVD", "San Francisco", "CA", "94134", "1998-09-01T00:00:00", "1998-09-01T00:00:00", "2400 BAY SHORE BLVD", "SAN FRANCISCO CA 94134-2902", "08", "3210" ]
+, [ 404711, "4ACA3C0F-2A86-4F7B-9994-8D95333AF559", 404711, 1412009963, "400501", 1412117093, "400501", null, "0319446-01-001", "0319446", "DUDUM PHILIP S", "GEORGES ZOO LIQ AND DELI", "2560 SLOAT BLVD", "San Francisco", "CA", "94116", "1998-08-11T00:00:00", "1998-08-11T00:00:00", "2560 SLOAT BLVD", "SAN FRANCISCO CA 94116-2737", "08", "3210" ]
+, [ 405551, "44930B74-1C07-4E65-A759-A22BB4201754", 405551, 1412009967, "400501", 1412117096, "400501", null, "0322653-01-001", "0322653", "CUNG DUONG", "HWA LEI MARKET", "2970 16TH ST A", "San Francisco", "CA", "94103", "1998-10-01T00:00:00", "1998-10-01T00:00:00", "2970 16TH ST #A", "SAN FRANCISCO CA 94103-3632", "08", "3210" ]
+, [ 406465, "D79225E8-C3FC-45DC-BF4E-57FBD2C6E65E", 406465, 1412009970, "400501", 1412117099, "400501", null, "0326434-01-001", "0326434", "WONG SEAN S Y/AGATHA F Y", "GREAT WALL GINSENG & HERBS", "821 PACIFIC AVE", "San Francisco", "CA", "94133", "1999-05-01T00:00:00", "1999-05-01T00:00:00", "821 PACIFIC AVE", "SAN FRANCISCO CA 94133-4301", "08", "3210" ]
+, [ 407307, "4E66DB9B-DE42-4650-A70F-1B0F5E9C04BA", 407307, 1412009974, "400501", 1412117102, "400501", null, "0330157-01-001", "0330157", "STEPHAN GEORGE & ISABELLE", "PRESIDIO FOOD MART", "2901 BAKER ST", "San Francisco", "CA", "94123", "1999-08-15T00:00:00", "1999-08-15T00:00:00", "2901 BAKER ST", "SAN FRANCISCO CA 94123-3209", "08", "3210" ]
+, [ 407499, "F9286B52-A787-44A8-A10D-BD3B8C4F9952", 407499, 1412009974, "400501", 1412117103, "400501", null, "0330928-01-001", "0330928", "AYANIAN ZENOP", "LE REGENCY DELI", "18 CALIFORNIA ST", "San Francisco", "CA", "94111", "1999-03-01T00:00:00", "1999-03-01T00:00:00", "18 CALIFORNIA ST", "SAN FRANCISCO CA 94111-4803", "08", "3210" ]
+, [ 407977, "D837B8D2-F020-4156-828C-21CE0962270C", 407977, 1412009976, "400501", 1412117104, "400501", null, "0332568-04-001", "0332568", "RANTISI DAWUD F & HUDA I", "7 PERSIA AVENUE APARTMENTS", "7 PERSIA AVE", "San Francisco", "CA", "94112", "2000-01-15T00:00:00", "2005-02-24T00:00:00", "333 CYPRESS AVE", "SAN BRUNO CA 94066-4825", "08", "3210" ]
+, [ 407978, "6DE43B85-2AC0-4E52-9CC6-1D632A7D7F07", 407978, 1412009976, "400501", 1412117104, "400501", null, "0332568-06-001", "0332568", "RANTISI DAWUD F & HUDA I", "TROPICANA LIQUOR MARKET", "2592 MISSION ST", "San Francisco", "CA", "94110", "2000-01-15T00:00:00", "2008-03-20T00:00:00", "333 CYPRESS AVE", "SAN BRUNO CA 94066-4825", "08", "3210" ]
+, [ 408264, "6FA7A725-E87D-4631-9709-18283BB1692C", 408264, 1412009977, "400501", 1412117105, "400501", null, "0333620-01-001", "0333620", "ABDULLAH AHMED A", "RICCIS MARKET", "2790 24TH ST", "San Francisco", "CA", "94110", "2000-02-01T00:00:00", "2000-02-01T00:00:00", "2790 24TH ST", "SAN FRANCISCO CA 94110-4263", "08", "3210" ]
+, [ 409250, "69DAF8DA-A013-419A-B3C2-104143EEFFBE", 409250, 1412009980, "400501", 1412117109, "400501", null, "0337209-01-001", "0337209", "KIDANE OGBAI H", "GOLDEN GATE CENTRAL MARKET", "2101 GOLDEN GATE AVE", "San Francisco", "CA", "94118", "2000-01-01T00:00:00", "2000-01-01T00:00:00", "2101 GOLDEN GATE AVE", "SAN FRANCISCO CA 94118-4412", "08", "3210" ]
+, [ 409488, "7163EAC7-B0FC-4415-B534-77393AAC1965", 409488, 1412009981, "400501", 1412117110, "400501", null, "0338258-01-001", "0338258", "ALHAJ MOHAMED M", "EMPIRE MARKET", "399 EDDY ST", "San Francisco", "CA", "94109", "2000-01-01T00:00:00", "2000-01-01T00:00:00", "399 EDDY ST", "SAN FRANCISCO CA 94102-2606", "08", "3210" ]
+, [ 409517, "B60D54AB-94F4-47C6-A2A7-0ECCBD88CB27", 409517, 1412009981, "400501", 1412117110, "400501", null, "0338412-03-001", "0338412", "KHARSA NANCY S", "VARIETY WHOLESALE", "212 GAMBIER ST", "San Francisco", "CA", "94134", "2007-01-01T00:00:00", "2007-05-01T00:00:00", "212 GAMBIER ST", "SAN FRANCISCO CA 94134-1340", "08", "3210" ]
+, [ 409518, "EB463266-21D6-452F-826D-614A27E87D11", 409518, 1412009981, "400501", 1412117110, "400501", null, "0338412-04-001", "0338412", "KHARSA NANCY S", "PAYLESS STORE", "212 GAMBIER ST", "San Francisco", "CA", "94134", "2007-01-01T00:00:00", "2007-05-01T00:00:00", "212 GAMBIER ST", "SAN FRANCISCO CA 94134-1340", "08", "3210" ]
+, [ 409519, "3A2E16D6-974E-494C-8F5E-4070C4C9CC7F", 409519, 1412009981, "400501", 1412117110, "400501", null, "0338412-05-001", "0338412", "KHARSA NANCY S", "WHOLESALE DRUG DIST", "212 GAMBIER ST", "San Francisco", "CA", "94134", "2007-01-01T00:00:00", "2007-05-01T00:00:00", "212 GAMBIER ST", "SAN FRANCISCO CA 94134-1340", "08", "3210" ]
+, [ 409520, "9519BEE0-BC8C-455B-9158-72E1EB972624", 409520, 1412009981, "400501", 1412117110, "400501", null, "0338412-06-001", "0338412", "KHARSA NANCY S", "PLEASANT TOWNCAR SERVICE", "212 GAMBIER ST", "San Francisco", "CA", "94134", "2007-01-01T00:00:00", "2007-05-01T00:00:00", "212 GAMBIER ST", "SAN FRANCISCO CA 94134-1340", "08", "3210" ]
+, [ 409521, "E9606994-6408-42AA-9260-54BC81E2B002", 409521, 1412009981, "400501", 1412117110, "400501", null, "0338412-07-001", "0338412", "KHARSA NANCY S", "SAN FRANCISCO AIRPORT LIMO CO", "212 GAMBIER ST", "San Francisco", "CA", "94134", "2007-01-01T00:00:00", "2007-09-12T00:00:00", "212 GAMBIER ST", "SAN FRANCISCO CA 94134-1340", "08", "3210" ]
+, [ 409522, "F2AD748C-CBFF-4969-AAD2-71B247C59646", 409522, 1412009981, "400501", 1412117110, "400501", null, "0338412-08-001", "0338412", "KHARSA NANCY S", "SFO LIMO COMPANY", "212 GAMBIER ST", "San Francisco", "CA", "94134", "2007-01-01T00:00:00", "2007-12-13T00:00:00", "212 GAMBIER ST", "SAN FRANCISCO CA 94134-1340", "08", "3210" ]
+, [ 409523, "E466E861-C41A-49FF-A28E-96E5CBEA43EC", 409523, 1412009981, "400501", 1412117110, "400501", null, "0338412-09-001", "0338412", "KHARSA NANCY S", "NANCY KHARSA", "212 GAMBIER ST", "San Francisco", "CA", "94134", "2007-01-01T00:00:00", "2007-01-01T00:00:00", "212 GAMBIER ST", "SAN FRANCISCO CA 94134-1340", "08", "3210" ]
+, [ 409547, "AEC08DE7-B320-4DAD-A840-425A2FEF7CD9", 409547, 1412009981, "400501", 1412117111, "400501", null, "0338535-02-001", "0338535", "QARE FAIROUZ N", "SUNNY COUNTRY FOODS", "1101 STANYAN ST", "San Francisco", "CA", "94117", "2000-07-01T00:00:00", "2001-04-01T00:00:00", "1101 STANYAN ST", "SAN FRANCISCO CA 94117-3812", "08", "3210" ]
+, [ 409707, "F33CDAEE-E9CD-48E3-9A74-65E4BA648E61", 409707, 1412009982, "400501", 1412117111, "400501", null, "0339124-02-001", "0339124", "SALFITI OSAMA", "SAVE MORE MARKET", "1598 MCALLISTER ST", "San Francisco", "CA", "94115", "2008-03-18T00:00:00", "2008-03-18T00:00:00", "1598 MCALLISTER ST", "SAN FRANCISCO CA 94115-4412", "08", "3210" ]
+, [ 409814, "324DDF55-110D-44A8-900E-138DCB1F0E52", 409814, 1412009982, "400501", 1412117112, "400501", null, "0339565-02-001", "0339565", "DIRAR TEKIE W", "IN & OUT MARKET & LIQUOR", "701 FILLMORE ST", "San Francisco", "CA", "94117", "2000-09-15T00:00:00", "2003-09-05T00:00:00", "825 DIVISADERO ST #5", "SAN FRANCISCO CA 94117-1584", "08", "3210" ]
+, [ 410162, "1D22DCDC-62CD-4879-8755-C82747D50EE5", 410162, 1412009984, "400501", 1412117113, "400501", null, "0340910-01-001", "0340910", "HUYNH KIM M", "ROYAL FOOD STORE", "401 A JUDAH ST", "San Francisco", "CA", "94122", "2001-01-01T00:00:00", "2001-01-01T00:00:00", "2062 44TH AVE", "SAN FRANCISCO CA 94116-1037", "08", "3210" ]
+, [ 411032, "CC80132A-809E-4F8B-854D-ED41F74DD985", 411032, 1412009987, "400501", 1412117116, "400501", null, "0343983-01-001", "0343983", "HABASH HUSAM G", "LONDON MARKET & DELI", "2901 SACRAMENTO ST", "San Francisco", "CA", "94115", "2001-03-08T00:00:00", "2001-03-08T00:00:00", "2901 SACRAMENTO ST", "SAN FRANCISCO CA 94115-2116", "08", "3210" ]
+, [ 411768, "3613A653-BBDB-4970-9EFC-0612E2069A11", 411768, 1412009989, "400501", 1412117119, "400501", null, "0346613-01-001", "0346613", "BSISSO KETAM A", "NOE HILL MARKET", "4001 19TH ST", "San Francisco", "CA", "94114", "2001-06-01T00:00:00", "2001-06-01T00:00:00", "4001 19TH ST", "SAN FRANCISCO CA 94114-2523", "08", "3210" ]
+, [ 413178, "667365BF-4610-4813-9AE2-0531E6375FDD", 413178, 1412009994, "400501", 1412117124, "400501", null, "0351460-01-001", "0351460", "RHEE SANG KUN", "49ERS LIQUORS & GROCERIES", "3701 MISSION ST", "San Francisco", "CA", "94110", "2002-01-01T00:00:00", "2002-01-01T00:00:00", "3701 MISSION ST", "SAN FRANCISCO CA 94110-5829", "08", "3210" ]
+, [ 414800, "98062653-8DB8-46C3-97E6-711D4A5F95C6", 414800, 1412010000, "400501", 1412117130, "400501", null, "0356594-01-001", "0356594", "MARTINEZ SAMUEL P", "LA LOMA PRODUCE #8", "2840 MISSION ST", "San Francisco", "CA", "94110", "2002-06-11T00:00:00", "2002-06-11T00:00:00", "2840 MISSION ST", "SAN FRANCISCO CA 94110-3908", "08", "3210" ]
+, [ 415198, "82D6A6A6-FC9C-426F-8829-3DC895D57D8F", 415198, 1412010002, "400501", 1412117131, "400501", null, "0357908-02-001", "0357908", "MO NORMAN BOHENG", "SUPER LOW MARKET", "4515 MISSION ST", "San Francisco", "CA", "94110", "2002-07-25T00:00:00", "2002-07-26T00:00:00", "2607 37TH AVE", "SAN FRANCISCO CA 94116-2852", "08", "3210" ]
+, [ 416184, "DAD538F0-6821-4E1B-A222-36E749E9C0E1", 416184, 1412010009, "400501", 1412117135, "400501", null, "0361096-01-001", "0361096", "CHO HYUNG S/LEE SEON YI", "FOOD 24 HR CONVENIENCE MARKET", "793 DIVISADERO ST", "San Francisco", "CA", "94117", "2002-11-15T00:00:00", "2002-11-15T00:00:00", "793 DIVISADERO ST", "SAN FRANCISCO CA 94117-1503", "08", "3210" ]
+, [ 416628, "62590700-CB8F-4FC6-9A9B-15EEA85303F4", 416628, 1412010012, "400501", 1412117137, "400501", null, "0362379-01-001", "0362379", "SHEHADEH NIZAR A", "ABC MARKET", "2801 BRYANT ST", "San Francisco", "CA", "94110", "2003-01-01T00:00:00", "2003-01-01T00:00:00", "2801 BRYANT ST", "SAN FRANCISCO CA 94110-4809", "08", "3210" ]
+, [ 417567, "E12E884A-D6B8-48A1-9E40-381F95C5A3D0", 417567, 1412010015, "400501", 1412117140, "400501", null, "0364954-01-001", "0364954", "WU WAYNE Y", "7 ELEVEN STORE 2230 23342E", "3080 SAN JOSE AVE", "San Francisco", "CA", "94111", "2003-03-24T00:00:00", "2003-03-24T00:00:00", "3080 SAN JOSE AVE % 7 ELEVEN INC", "SAN FRANCISCO CA 94112-3933", "08", "3210" ]
+, [ 417568, "2CB0CE7A-ACEE-4647-B424-48855E2ED345", 417568, 1412010015, "400501", 1412117140, "400501", null, "0364954-02-001", "0364954", "WU WAYNE Y", "7 ELEVEN STORE 2231-33434A", "711 MARKET ST", "San Francisco", "CA", "94103", "2003-03-24T00:00:00", "2004-08-31T00:00:00", "3080 SAN JOSE AVE % 7 ELEVEN INC", "SAN FRANCISCO CA 94112-3933", "08", "3210" ]
+, [ 418309, "E07EF1AC-2773-4B3C-9C22-605FB228184C", 418309, 1412010018, "400501", 1412117142, "400501", null, "0367066-01-001", "0367066", "HINN SAMIR A", "NEW RUSSIAN HILL MARKET", "1198 PACIFIC AVE", "San Francisco", "CA", "94133", "2003-01-01T00:00:00", "2003-01-01T00:00:00", "1198 PACIFIC AVE", "SAN FRANCISCO CA 94133-4212", "08", "3210" ]
+, [ 418422, "B8CB6F23-B379-4624-8480-54978DC8D294", 418422, 1412010018, "400501", 1412117143, "400501", null, "0367464-01-001", "0367464", "MOHSEN TAWFIK NAGI", "FRIENDLY LIQUOR", "1499 THOMAS AVE", "San Francisco", "CA", "94124", "2003-06-01T00:00:00", "2003-06-01T00:00:00", "1499 THOMAS AVE", "SAN FRANCISCO CA 94124-2741", "08", "3210" ]
+, [ 418778, "9816ED5A-4CD6-40F0-B27F-D6BE80A2BECA", 418778, 1412010019, "400501", 1412117144, "400501", null, "0368509-01-001", "0368509", "CHAHWAN ELIAS S", "VALENTINO MARKET", "2000 FILBERT ST", "San Francisco", "CA", "94123", "2003-08-01T00:00:00", "2003-08-01T00:00:00", "2000 FILBERT ST", "SAN FRANCISCO CA 94123-3506", "08", "3210" ]
+, [ 419331, "6C6E7231-3BCB-4807-9AC0-3ACE7494942B", 419331, 1412010021, "400501", 1412117146, "400501", null, "0370126-01-001", "0370126", "ABBUSHI MOHAMMED S", "NORA'S MARKET", "454 CAPITOL AVE", "San Francisco", "CA", "94112", "2003-09-11T00:00:00", "2003-09-11T00:00:00", "454 CAPITOL AVE", "SAN FRANCISCO CA 94112-2935", "08", "3210" ]
+, [ 419979, "48DCC993-754A-4393-B813-94902163099E", 419979, 1412010024, "400501", 1412117148, "400501", null, "0372110-01-001", "0372110", "VAZHAPPALLY GEORGE A", "TREASURE ISLAND MINI MART/DELI", "363 9TH ST 363", "San Francisco", "CA", "94130", "2003-11-19T00:00:00", "2003-11-19T00:00:00", "301 MACALLA CT UNIT G", "SAN FRANCISCO CA 94130-1522", "08", "3210" ]
+, [ 420099, "001506EA-C3D9-4801-A355-DEA3155627C0", 420099, 1412010024, "400501", 1412117149, "400501", null, "0372475-04-001", "0372475", "YANG CHU MEI", "JAVA SOURCE MARKET", "500 2ND AVE", "San Francisco", "CA", "94118", "2006-04-01T00:00:00", "2013-04-14T00:00:00", "500 2ND AVE", "SAN FRANCISCO CA 94118-4006", "08", "3210" ]
+, [ 420207, "952C05EF-CC32-43BF-9C14-9D4E7DD7F0E9", 420207, 1412010024, "400501", 1412117149, "400501", null, "0372886-02-001", "0372886", "LI XIN GUANG", "G H MARKET", "1701 BALBOA ST", "San Francisco", "CA", "94121", "2009-12-01T00:00:00", "2009-12-01T00:00:00", "1701 BALBOA ST", "SAN FRANCISCO CA 94121-3128", "08", "3210" ]
+, [ 420639, "7E50E61C-3996-444A-A96D-913C1D294F93", 420639, 1412010026, "400501", 1412117150, "400501", null, "0374224-02-001", "0374224", "ALGHAZALI ADEL A", "MI TIERRA MARKET", "2023 MISSION ST", "San Francisco", "CA", "94110", "2003-10-01T00:00:00", "2004-08-10T00:00:00", "3008 16TH ST", "SAN FRANCISCO CA 94103-3403", "08", "3210" ]
+, [ 420701, "0D92092C-873F-4D29-B9B8-87460AA2EA5D", 420701, 1412010026, "400501", 1412117151, "400501", null, "0374367-01-001", "0374367", "KIM SANDY & YOUN YOUNG", "PAULS MART", "20 LOMBARD ST", "San Francisco", "CA", "94111", "2004-02-13T00:00:00", "2004-02-13T00:00:00", "2091 20TH AVE", "SAN FRANCISCO CA 94116-1204", "08", "3210" ]
+, [ 421108, "E57CD9D1-F8EF-45B2-9C6C-BBBFD7C7145E", 421108, 1412010027, "400501", 1412117152, "400501", null, "0375327-01-001", "0375327", "ZOUBI ADNAN M", "CENTRAL HAIGHT MARKET", "1301 HAIGHT ST", "San Francisco", "CA", "94117", "2004-03-08T00:00:00", "2004-03-08T00:00:00", "1301 HAIGHT ST", "SAN FRANCISCO CA 94117-2908", "08", "3210" ]
+, [ 422166, "429A1A8A-75EE-4C48-A7CC-AC00699DBBC6", 422166, 1412010031, "400501", 1412117155, "400501", null, "0377925-01-001", "0377925", "MOON CHANG N", "SEARCHLIGHT MARKET", "1964 HYDE ST", "San Francisco", "CA", "94109", "2004-07-01T00:00:00", "2004-07-01T00:00:00", "1964 HYDE ST", "SAN FRANCISCO CA 94109-2039", "08", "3210" ]
+, [ 422706, "3234B995-6A59-46E5-ADDD-2DB399DCD149", 422706, 1412010033, "400501", 1412117157, "400501", null, "0379395-02-001", "0379395", "ALI IRFAN B", "CADILLAC MARKET", "499 EDDY ST", "San Francisco", "CA", "94109", "2004-07-30T00:00:00", "2007-09-14T00:00:00", "499 EDDY ST", "SAN FRANCISCO CA 94109-8104", "08", "3210" ]
+, [ 422755, "E554FB78-724F-49B9-A055-919CFB8FDBBD", 422755, 1412010033, "400501", 1412117157, "400501", null, "0379531-01-001", "0379531", "KONG SHAUNTI S", "A & N LIQUORS", "1521 OCEAN AVE", "San Francisco", "CA", "94112", "2004-07-31T00:00:00", "2004-07-31T00:00:00", "1521 OCEAN AV", "SAN FRANCISCO CA 94112-1715", "08", "3210" ]
+, [ 423583, "2F1C9748-4D7B-445A-A1BA-EEC2135BAFEB", 423583, 1412010036, "400501", 1412117162, "400501", null, "0381622-02-001", "0381622", "MUBAREZ NAGI A", "BUFFALO WHOLE FOOD AND GRAIN C", "598 CASTRO ST", "San Francisco", "CA", "94114", "2010-05-22T00:00:00", "2010-05-22T00:00:00", "PO BOX 423588", "SAN FRANCISCO CA 94142-3588", "08", "3210" ]
+, [ 423606, "925CE322-AFC3-4DFF-A492-4E539455BC30", 423606, 1412010036, "400501", 1412117162, "400501", null, "0381692-01-001", "0381692", "QUIAMBAO LEODEGARIO", "PHILIPPINE DELICACIES", "5609 MISSION ST", "San Francisco", "CA", "94112", "2004-10-09T00:00:00", "2004-10-09T00:00:00", "286 ALTA VISTA WAY", "DALY CITY CA 94014-0000", "08", "3210" ]
+, [ 423664, "7E598FF1-A6B9-48A5-BF7F-73B427E08F97", 423664, 1412010036, "400501", 1412117163, "400501", null, "0381861-01-001", "0381861", "JOSAN MONESHPAL S", "7-ELEVEN STORE 2231-33429A", "43 DRUMM ST", "San Francisco", "CA", "94111", "2004-10-11T00:00:00", "2004-10-11T00:00:00", "PO BOX 219088", "DALLAS TX 75221-0000", "08", "3210" ]
+, [ 423853, "EDDD2F0A-1063-4831-A122-B0AB0FD458F3", 423853, 1412010037, "400501", 1412117163, "400501", null, "0382214-02-001", "0382214", "ABUYAGHI HANI", "PINE JONES MARKET", "1100 PINE ST", "San Francisco", "CA", "94109", "2008-01-01T00:00:00", "2008-01-01T00:00:00", "1100 PINE ST", "SAN FRANCISCO CA 94109-5117", "08", "3210" ]
+, [ 424326, "AC78E9C8-3F4A-4B9D-B8C2-549A09110AD5", 424326, 1412010038, "400501", 1412117165, "400501", null, "0383507-01-001", "0383507", "KUMAR SURINDER", "MARYLAND MARKET", "300 TURK ST", "San Francisco", "CA", "94102", "2004-12-15T00:00:00", "2004-12-15T00:00:00", "300 TURK ST", "SAN FRANCISCO CA 94102-3704", "08", "3210" ]
+, [ 424337, "00B0806E-7416-4759-A6F7-042D0BD2D1CB", 424337, 1412010038, "400501", 1412117165, "400501", null, "0383548-01-001", "0383548", "ABU AL SHAER NARIMAN A", "SAM'S MARKET", "580 PRECITA AVE", "San Francisco", "CA", "94110", "2005-01-15T00:00:00", "2005-01-15T00:00:00", "580 PRECITA AVE", "SAN FRANCISCO CA 94110-4720", "08", "3210" ]
+, [ 425229, "B5159696-9241-459E-BCBE-3C46CDC20F34", 425229, 1412010042, "400501", 1412117168, "400501", null, "0385752-01-001", "0385752", "ALKHALIDI RAJAI", "EEZY FREEZY GOURMET & HEALTH F", "25 WEST PORTAL AVE", "San Francisco", "CA", "94127", "2004-07-23T00:00:00", "2004-07-23T00:00:00", "436 43RD AV", "SAN FRANCISCO CA 94121-1516", "08", "3210" ]
+, [ 425283, "F95D7894-3AF9-47E8-969F-9EE02E8A805A", 425283, 1412010042, "400501", 1412117168, "400501", null, "0385893-01-001", "0385893", "BAQAIN HANNA A T", "CHURCH ST", "300 CHURCH ST", "San Francisco", "CA", "94114", "2005-04-01T00:00:00", "2005-04-01T00:00:00", "300 CHURCH ST", "SAN FRANCISCO CA 94114-1719", "08", "3210" ]
+, [ 425621, "79E6AEC2-50B4-400B-8E7F-7E63B05E789D", 425621, 1412010043, "400501", 1412117169, "400501", null, "0386629-01-001", "0386629", "WAHAB MILAN DOAD", "HOLLOWAY MARKET", "150 HOLLOWAY AVE", "San Francisco", "CA", "94112", "2005-04-15T00:00:00", "2005-04-15T00:00:00", "84 ATLANTIC AVE", "SAN BRUNO CA 94066-1502", "08", "3210" ]
+, [ 426139, "98FB161A-6526-494F-875D-C865DBA2F164", 426139, 1412010045, "400501", 1412117171, "400501", null, "0387815-02-001", "0387815", "VACA ANGEL G", "MISTER POLLO", "2823 MISSION ST", "San Francisco", "CA", "94110", "2005-05-04T00:00:00", "2006-01-01T00:00:00", "5201 3RD ST", "SAN FRANCISCO CA 94124-2601", "08", "3210" ]
+, [ 426407, "11CC59E8-C948-46D0-B721-97B959AF2021", 426407, 1412010046, "400501", 1412117172, "400501", null, "0388544-01-001", "0388544", "MUGATASH FADIA I", "MICHAELS PIT STOP", "1001 PAGE ST", "San Francisco", "CA", "94117", "2005-06-15T00:00:00", "2005-06-15T00:00:00", "1001 PAGE ST", "SAN FRANCISCO CA 94117-2218", "08", "3210" ]
+, [ 426415, "FA0D5DF5-1FE4-494C-9A03-4C62E0172361", 426415, 1412010046, "400501", 1412117172, "400501", null, "0388574-01-001", "0388574", "FIGUEROA GIL A", "DON CHUYS MEXI-MERCADO", "544 EXCELSIOR AVE", "San Francisco", "CA", "94112", "2005-05-31T00:00:00", "2005-05-31T00:00:00", "544 EXCELSIOR AVE", "SAN FRANCISCO CA 94112-2049", "08", "3210" ]
+, [ 426590, "B4D4201D-3BD4-44D3-A892-92E6B4B958C7", 426590, 1412010047, "400501", 1412117173, "400501", null, "0389026-01-001", "0389026", "SHAIBI MOHAMED M", "N&V LIQUOR & GROCERY", "2702 24TH ST", "San Francisco", "CA", "94110", "2005-07-01T00:00:00", "2005-07-01T00:00:00", "3046 24TH ST", "SAN FRANCISCO CA 94110-4129", "08", "3210" ]
+, [ 426862, "32BAEAEA-50C7-4CD2-B965-468B8C286FA5", 426862, 1412010048, "400501", 1412117174, "400501", null, "0389722-03-001", "0389722", "ROBINSON BENJAMIN F", "2ND AVENUE MINI MARKET", "500 2ND AVE", "San Francisco", "CA", "94118", "2005-07-14T00:00:00", "2008-02-12T00:00:00", "PO BOX 20487", "OAKLAND CA 94620-0000", "08", "3210" ]
+, [ 427723, "EE26BAF9-3960-4CF2-9D9C-C486696D2B84", 427723, 1412010052, "400501", 1412117177, "400501", null, "0391715-01-001", "0391715", "MIN AUNG/OO KHIN M", "GUERRERO FOOD MARKET", "1546 GUERRERO ST", "San Francisco", "CA", "94110", "2005-12-09T00:00:00", "2005-12-09T00:00:00", "1546 GUERRERO ST", "SAN FRANCISCO CA 94110-4327", "08", "3210" ]
+, [ 427778, "C9D1D423-0205-494D-B844-1473CB38EBF2", 427778, 1412010053, "400501", 1412117177, "400501", null, "0391823-01-001", "0391823", "PANH PHAYNARITH", "MIKES MARKET", "2200 SILVER AVE", "San Francisco", "CA", "94124", "2005-10-01T00:00:00", "2005-10-01T00:00:00", "2200 SILVER AVE", "SAN FRANCISCO CA 94124-2035", "08", "3210" ]
+, [ 430164, "3A1C0256-41FC-486E-AAD1-9B95FF44F329", 430164, 1412010061, "400501", 1412117186, "400501", null, "0397137-01-001", "0397137", "JARIWALA JESIS J & SHEILA J", "MISSION-SILVER MARKET", "4304 MISSION ST", "San Francisco", "CA", "94121", "2006-03-27T00:00:00", "2006-03-27T00:00:00", "4304 MISSION ST", "SAN FRANCISCO CA 94112-1521", "08", "3210" ]
+, [ 381735, "7CB13A11-5078-4B37-AFA6-5151DEEB6877", 381735, 1412008256, "400501", 1412117188, "400501", null, "0398937-01-001", "0398937", "ARMAN SHABANA", "SAS DISCOUNT STORE", "2141C MISSION ST", "San Francisco", "CA", "94110", "2006-05-25T00:00:00", "2006-05-25T00:00:00", "1180 PALADIN WAY", "PLEASANTON CA 94566-2210", "08", "3210" ]
+, [ 431244, "D895F3FB-5C39-43C9-9DFE-CE27336D42D2", 431244, 1412010065, "400501", 1412117189, "400501", null, "0399366-01-001", "0399366", "ALGAHIM SAM A", "BIG BOY MARKET", "180 GOLDEN GATE AVE", "San Francisco", "CA", "94102", "2006-07-01T00:00:00", "2006-07-01T00:00:00", "1330 GENEVA AVE", "SAN FRANCISCO CA 94112-3835", "08", "3210" ]
+, [ 431916, "D34C4086-10B2-4C3B-8BF0-7BB839D0F01B", 431916, 1412010067, "400501", 1412117191, "400501", null, "0400784-02-001", "0400784", "MEFTAH WALID A", "GREEN VALLEY MARKET", "491 ELLIS ST", "San Francisco", "CA", "94102", "2007-10-01T00:00:00", "2007-10-01T00:00:00", "491 ELLIS ST", "SAN FRANCISCO CA 94102-1927", "08", "3210" ]
+, [ 432103, "6C0B9344-3752-42F2-917E-317CD450D575", 432103, 1412010068, "400501", 1412117192, "400501", null, "0401253-03-001", "0401253", "RODRIGUEZ CANDIDO & QUEVEDO D", "CANDIDO'S JANITORIAL SERVICE", "115 THORNTON AV", "San Francisco", "CA", "94124", "2004-08-16T00:00:00", "2012-04-15T00:00:00", "5201 3RD ST", "SAN FRANCISCO CA 94124-0000", "08", "3210" ]
+, [ 432104, "FAA8E935-E20B-4610-BCBA-8FAB197AF97C", 432104, 1412010068, "400501", 1412117192, "400501", null, "0401253-05-001", "0401253", "RODRIGUEZ CANDIDO & QUEVEDO D", "EL AGUILA DE ORO", "5201 3RD ST", "San Francisco", "CA", "94124", "2004-08-16T00:00:00", "2013-07-18T00:00:00", "5201 3RD ST", "SAN FRANCISCO CA 94124-0000", "08", "3210" ]
+, [ 432143, "D9B9742B-1F14-4073-AD90-3D956A5C80C4", 432143, 1412010069, "400501", 1412117192, "400501", null, "0401324-01-001", "0401324", "BULLARD ELIZABETH H", "CHIOTRAS GROCERY", "858 RHODE ISLAND ST", "San Francisco", "CA", "94107", "2006-08-18T00:00:00", "2006-08-18T00:00:00", "858 RHODE ISLAND", "SAN FRANCISCO CA 94107-2611", "08", "3210" ]
+, [ 432493, "7E7BE415-2DE6-4935-98D0-A2674B428BA6", 432493, 1412010070, "400501", 1412117193, "400501", null, "0402027-02-001", "0402027", "ALGAHEIM MOHAMED M", "GOLDEN GATE MARKET", "225 LEAVENWORTH ST", "San Francisco", "CA", "94102", "2006-09-14T00:00:00", "2006-09-20T00:00:00", "PO BOX 424621", "SAN FRANCISCO CA 94142-0000", "08", "3210" ]
+, [ 432597, "0D282A53-2536-476F-9528-FE162D42D1E5", 432597, 1412010071, "400501", 1412117193, "400501", null, "0402224-02-001", "0402224", "YIU YAT MING", "POWER TRADING CO", "1524 OCEAN AVE", "San Francisco", "CA", "94112", "2011-01-12T00:00:00", "2011-02-11T00:00:00", "1524 OCEAN AVE", "SAN FRANCISCO CA 94112-1716", "08", "3210" ]
+, [ 432635, "9A0798C0-457B-42D1-9790-535EEE9CAD2D", 432635, 1412010071, "400501", 1412117193, "400501", null, "0402323-02-001", "0402323", "MALAK SUHEIL", "GUERRERO MARKET", "701 GUERRERO ST", "San Francisco", "CA", "94110", "2006-09-25T00:00:00", "2009-04-04T00:00:00", "701 GUERRERO ST", "SAN FRANCISCO CA 94110-1613", "08", "3210" ]
+, [ 433534, "EFA1C178-66C0-4A92-BEDA-C72550345C55", 433534, 1412010075, "400501", 1412117197, "400501", null, "0404166-01-001", "0404166", "AFUHAAMANGO MANU", "MANU PRODUCE", "2300 45TH AVE", "San Francisco", "CA", "94116", "2006-12-04T00:00:00", "2006-12-04T00:00:00", "2300 45TH AVE", "SAN FRANCISCO CA 94116-2001", "08", "3210" ]
+, [ 433871, "877FCD95-1320-4F5F-80C9-5B72D8E8DF03", 433871, 1412010076, "400501", 1412117198, "400501", null, "0404887-01-001", "0404887", "MASARWEH WAEL MOHAMMAD", "NEW PRINCESS MARKET", "500 EDDY ST", "San Francisco", "CA", "94109", "2007-01-01T00:00:00", "2007-01-01T00:00:00", "500 EDDY ST", "SAN FRANCISCO CA 94109-8026", "08", "3210" ]
+, [ 438337, "4CD84988-A995-4CED-8532-4C16DB4D2D27", 438337, 1412010093, "400501", 1412117212, "400501", null, "0412863-01-001", "0412863", "SAMUJH PREMILA D", "DOWNTOWN GROCERY & LIQUOR", "289 EDDY ST", "San Francisco", "CA", "94102", "2007-01-24T00:00:00", "2007-01-24T00:00:00", "289 EDDY ST", "SAN FRANCISCO CA 94102-2715", "08", "3210" ]
+, [ 439210, "6BA2212E-EA07-4A08-BD24-D99E053E9C90", 439210, 1412010096, "400501", 1412117215, "400501", null, "0414430-01-001", "0414430", "SOLORZANO JAIME N", "EL PORVENIR", "2950 21ST ST", "San Francisco", "CA", "94110", "2007-03-07T00:00:00", "2007-03-07T00:00:00", "2950 21ST STREET", "SAN FRANCISCO CA 94110-2740", "08", "3210" ]
+, [ 439211, "03BD4FED-8D3B-4098-BF15-D33D51758FDA", 439211, 1412010096, "400501", 1412117215, "400501", null, "0414430-02-001", "0414430", "SOLORZANO JAIME N", "EL PORVENIR #3", "1400 OCEAN AVE", "San Francisco", "CA", "94112", "2007-03-07T00:00:00", "2008-11-28T00:00:00", "2950 21ST STREET", "SAN FRANCISCO CA 94110-2740", "08", "3210" ]
+, [ 440120, "D6A01771-0858-4EEA-8B78-61F371DD08D1", 440120, 1412010099, "400501", 1412117218, "400501", null, "0415802-05-001", "0415802", "HUSSAIN FAROOQ", "SAABIS GROCERIES", "1599 REVERE AVE", "San Francisco", "CA", "94124", "2007-03-29T00:00:00", "2011-08-01T00:00:00", "1701 LANE ST #B", "SAN FRANCISCO CA 94124-2734", "08", "3210" ]
+, [ 440295, "CC9E5264-A05A-4CCD-82DD-6C17B0BCD631", 440295, 1412010100, "400501", 1412117219, "400501", null, "0416040-01-001", "0416040", "YU ZI LI ZHEN XIU QUN", "2782 FOLSOM ST APTS", "2782 FOLSOM ST", "San Francisco", "CA", "94110", "2007-11-02T00:00:00", "2007-11-02T00:00:00", "2782 FOLSOM ST #6", "SAN FRANCISCO CA 94110-3355", "08", "3210" ]
+, [ 441805, "050CBFC2-8B67-4192-A980-A352D9B80A6C", 441805, 1412010106, "400501", 1412117224, "400501", null, "0418613-01-001", "0418613", "SUNG BUM JE", "BAY LIQUORS", "2077 MARKET ST", "San Francisco", "CA", "94114", "2007-06-15T00:00:00", "2007-06-15T00:00:00", "2077 MARKET ST", "SAN FRANCISCO CA 94114-1315", "08", "3210" ]
+, [ 441893, "151BFFCC-44BA-4CC7-AD9A-0DA853982F3A", 441893, 1412010106, "400501", 1412117224, "400501", null, "0418781-01-001", "0418781", "ABU DAMOUS DAWOUD M", "AA MARKET", "667 BRODERICK ST", "San Francisco", "CA", "94117", "2007-05-07T00:00:00", "2007-05-07T00:00:00", "667 BRODERICK ST", "SAN FRANCISCO CA 94117-1411", "08", "3210" ]
+, [ 442780, "94935026-C946-44C4-A452-36FC852F8C03", 442780, 1412010110, "400501", 1412117227, "400501", null, "0420441-01-001", "0420441", "ARNITA HANNA G", "QUALITY SNACKS", "3288 21ST ST #66", "San Francisco", "CA", "94110", "2007-08-03T00:00:00", "2007-08-03T00:00:00", "316 NORTH CLAREMONT STREET", "SAN MATEO CA 94401-4118", "08", "3210" ]
+, [ 443197, "47ED65CB-4B7F-484A-9076-1E64290BBE72", 443197, 1412010111, "400501", 1412117229, "400501", null, "0421272-01-001", "0421272", "MULTANI SATWINDER SINGH", "DALDA'S MARKET", "200 EDDY ST", "San Francisco", "CA", "94102", "2007-09-06T00:00:00", "2007-09-06T00:00:00", "200 EDDY ST", "SAN FRANCISCO CA 94102-2716", "08", "3210" ]
+, [ 443431, "57A1FCD1-432B-4736-B583-144FEF63D5DD", 443431, 1412010112, "400501", 1412117230, "400501", null, "0421758-02-001", "0421758", "MOHAMMED JABIR & MYRNA", "M & J MARKET DELI/LIQUOR STORE", "404 DEWEY BLVD", "San Francisco", "CA", "94116", "2007-09-20T00:00:00", "2009-02-04T00:00:00", "404 DEWEY BLVD", "SAN FRANCISCO CA 94116-1425", "08", "3210" ]
+, [ 444328, "C34A4E03-A49C-4669-8982-9F87E5C367A3", 444328, 1412010116, "400501", 1412117233, "400501", null, "0423466-02-001", "0423466", "YU JOANNA C", "JOJO'S SHOP", "1043 TARAVAL ST", "San Francisco", "CA", "94116", "2011-01-14T00:00:00", "2011-01-14T00:00:00", "503 33RD AVE", "SAN FRANCISCO CA 94121-2715", "08", "3210" ]
+, [ 444933, "B75D30AB-AE49-403A-AD67-59AAAE7E9DCA", 444933, 1412010118, "400501", 1412117235, "400501", null, "0424571-01-001", "0424571", "SHAH NILESH M", "DISCOUNT CLUB", "439 CORTLAND AVE", "San Francisco", "CA", "94110", "2008-01-21T00:00:00", "2008-01-21T00:00:00", "439 CORTLAND AVE", "SAN FRANCISCO CA 94110-7761", "08", "3210" ]
+, [ 445321, "93935F2C-F649-4C0F-B383-DD4A302DBA4D", 445321, 1412010119, "400501", 1412117237, "400501", null, "0425265-03-001", "0425265", "AVILA EVARISTO", "PARA BELLUM VERDE", "1051 MARKET ST", "San Francisco", "CA", "94103", "2008-02-01T00:00:00", "2011-01-10T00:00:00", "1738 NEWCOMB AVENUE", "SAN FRANCISCO CA 94124-2348", "08", "3210" ]
+, [ 446402, "BBC8DBA0-54A4-476D-AC0B-19D1D9E538BE", 446402, 1412010128, "400501", 1412117241, "400501", null, "0426989-02-001", "0426989", "HUMRAN MOHAMED", "KING MARKET AND SMOKE SHOP", "94 TURK ST", "San Francisco", "CA", "94102", "2008-04-15T00:00:00", "2008-05-01T00:00:00", "94 TURK ST", "SAN FRANCISCO CA 94102-2808", "08", "3210" ]
+, [ 446940, "D21E9179-6841-49A5-9529-3D2E607AA74F", 446940, 1412010130, "400501", 1412117243, "400501", null, "0428067-01-001", "0428067", "GHANMA KHALED I", "ALL STATES BEST FOODS", "1607 20TH ST", "San Francisco", "CA", "94107", "2008-04-15T00:00:00", "2008-04-15T00:00:00", "1607 20TH ST", "SAN FRANCISCO CA 94107-2810", "08", "3210" ]
+, [ 447646, "21212C60-D6B0-48D2-80E5-E54579120F34", 447646, 1412010133, "400501", 1412117246, "400501", null, "0429218-01-001", "0429218", "MAJETIC MIRO", "MIREX", "784 O'FARRELL ST", "San Francisco", "CA", "94109", "2008-06-12T00:00:00", "2008-06-12T00:00:00", "784 O'FARRELL", "SAN FRANCISCO CA 94109-7115", "08", "3210" ]
+, [ 449581, "1E9B2B6D-484A-4BF3-9510-E464692E92ED", 449581, 1412010139, "400501", 1412117253, "400501", null, "0432628-01-001", "0432628", "SOU, CHRISTINA & KE, SAMNANG", "SAVE WAY MARKET", "3353 26TH ST", "San Francisco", "CA", "94110", "2008-10-01T00:00:00", "2008-10-01T00:00:00", "3353 26TH ST", "SAN FRANCISCO CA 94110-4635", "08", "3210" ]
+, [ 450366, "71317647-B909-4C72-8865-8A483567B438", 450366, 1412010147, "400501", 1412117256, "400501", null, "0433976-01-001", "0433976", "HABASH ANTONE K", "CINDYS MARKET", "2084 HAYES ST", "San Francisco", "CA", "94117", "2008-11-19T00:00:00", "2008-11-19T00:00:00", "2084 HAYES STREET", "SAN FRANCISCO CA 94117-1128", "08", "3210" ]
+, [ 451551, "5906A323-C13B-400B-A412-815C6149950E", 451551, 1412010152, "400501", 1412117259, "400501", null, "0436108-01-001", "0436108", "ABBUSHI RASMIEH K", "THE HOLLISTER STORE", "6239 3RD ST", "San Francisco", "CA", "94124", "2009-03-01T00:00:00", "2009-03-01T00:00:00", "6239 3RD ST", "SAN FRANCISCO CA 94124-3109", "08", "3210" ]
+, [ 451708, "E858BC26-7862-48EA-8172-EB2B85015592", 451708, 1412010152, "400501", 1412117260, "400501", null, "0436406-01-001", "0436406", "JOHNSON JR EMANUEL", "UPPER 3RD ST BOUTIQUE & MARKET", "6275 3RD ST", "San Francisco", "CA", "94124", "2009-03-01T00:00:00", "2009-03-01T00:00:00", "637 PALM AVE", "MARTINEZ CA 94553-3429", "08", "3210" ]
+, [ 452309, "B6D97D92-540F-46D9-B611-AC55A7C0EA92", 452309, 1412010154, "400501", 1412117262, "400501", null, "0437436-01-001", "0437436", "NASSER ALAA M", "NASSER MARKET", "511 CRESCENT AVE", "San Francisco", "CA", "94110", "2009-03-26T00:00:00", "2009-03-26T00:00:00", "511 CRESCENT AVENUE", "SAN FRANCISCO CA 94110-6021", "08", "3210" ]
+, [ 453064, "A7503B32-C13A-4138-BF66-E461D31F39DE", 453064, 1412010157, "400501", 1412117264, "400501", null, "0438771-01-001", "0438771", "BAQAIN ELHAM", "SUNSHINE MARKET", "4300 23RD ST", "San Francisco", "CA", "94114", "2008-11-14T00:00:00", "2008-11-14T00:00:00", "4300 23RD ST", "SAN FRANCISCO CA 94114-3112", "08", "3210" ]
+, [ 453580, "27E9450D-1145-4E2A-8D25-34F30190B973", 453580, 1412010159, "400501", 1412117266, "400501", null, "0439628-01-001", "0439628", "YAN LI", "SAM CHUN GROCERY", "1555 HYDE ST A", "San Francisco", "CA", "94109", "2009-07-01T00:00:00", "2009-07-01T00:00:00", "330 11TH AVE APT 1", "SAN FRANCISCO CA 94118-0000", "08", "3210" ]
+, [ 454699, "55592B0F-A075-4F0C-8524-3AB34D2BA4CF", 454699, 1412010162, "400501", 1412117271, "400501", null, "0441483-01-001", "0441483", "KIM KWANG H", "THE SILVER PLATTER", "2501 VAN NESS AVE", "San Francisco", "CA", "94109", "2009-08-16T00:00:00", "2009-08-16T00:00:00", "2501 VAN NESS AVENUE", "SAN FRANCISCO CA 94109-1608", "08", "3210" ]
+, [ 454707, "F72F9D6B-6ABD-4DEA-BD9F-022D3EF90BB5", 454707, 1412010162, "400501", 1412117271, "400501", null, "0441506-01-001", "0441506", "FLORES DANIEL", "LOS YAQUIS", "324 SOUTH VAN NESS AVE", "San Francisco", "CA", "94103", "2009-08-11T00:00:00", "2009-08-11T00:00:00", "900 IRVING ST", "SAN FRANCISCO CA 94122-0000", "08", "3210" ]
+, [ 454708, "89414B45-ACE7-480B-A8FA-E051A16DECC7", 454708, 1412010162, "400501", 1412117271, "400501", null, "0441506-02-001", "0441506", "FLORES DANIEL", "ROOM SERVICE FINE FOOD & LIQUO", "900 IRVING ST", "San Francisco", "CA", "94122", "2009-08-11T00:00:00", "2011-12-15T00:00:00", "900 IRVING ST", "SAN FRANCISCO CA 94122-0000", "08", "3210" ]
+, [ 454777, "65F5FCB5-D6D9-470E-B5D5-845EDBD8D8D1", 454777, 1412010163, "400501", 1412117271, "400501", null, "0441621-02-001", "0441621", "LAI IVY Y", "IVY'S FOOD COMPANY", "1142 GRANT ST", "San Francisco", "CA", "94133", "2009-08-15T00:00:00", "2012-03-02T00:00:00", "1142 GRANT ST", "SAN FRANCISCO CA 94133-4414", "08", "3210" ]
+, [ 454872, "389A6AF5-16C0-4084-8B69-FE946B388C5D", 454872, 1412010163, "400501", 1412117272, "400501", null, "0441783-01-001", "0441783", "MSALAM JAMILEH", "G & M LIQUORS", "3100 24TH ST", "San Francisco", "CA", "94110", "2009-08-23T00:00:00", "2009-08-23T00:00:00", "3100 24TH STREET", "SAN FRANCISCO CA 94110-4012", "08", "3210" ]
+, [ 455362, "27EDF973-9B31-4396-AF53-73FA7D31D49D", 455362, 1412010165, "400501", 1412117273, "400501", null, "0442668-01-001", "0442668", "NIMRI EMAD & RUBA NIMRI", "GRAND MINI MARKET", "517 BUSH ST", "San Francisco", "CA", "94108", "2009-10-01T00:00:00", "2009-10-01T00:00:00", "517 BUSH ST", "SAN FRANCISCO CA 94108-3603", "08", "3210" ]
+, [ 455966, "F162100F-9D24-44C1-8046-EAF7C09F358C", 455966, 1412010167, "400501", 1412117275, "400501", null, "0443725-01-001", "0443725", "ARAJ PAUL B", "DAGWOOD & SCOOPS", "2736 24TH ST", "San Francisco", "CA", "94110", "2009-12-01T00:00:00", "2009-12-01T00:00:00", "2736 24TH STREET", "SAN FRANCISCO CA 94110-4212", "08", "3210" ]
+, [ 456138, "ACBCFC45-FBFC-475A-BE99-EEA5FC12260B", 456138, 1412010168, "400501", 1412117276, "400501", null, "0444038-01-001", "0444038", "MOHAMED SALEH A", "SF PRINCESS MARKET", "112 HYDE ST", "San Francisco", "CA", "94102", "2009-11-16T00:00:00", "2009-11-16T00:00:00", "PO BOX 641674", "SAN FRANCISCO CA 94142-0000", "08", "3210" ]
+, [ 456859, "2579614F-2332-4677-BA2F-731E19897E3E", 456859, 1412010171, "400501", 1412117279, "400501", null, "0445216-01-001", "0445216", "ASSAD RAFIK M", "T AND M MARKET", "300 VALENCIA ST", "San Francisco", "CA", "94103", "2010-01-06T00:00:00", "2010-01-06T00:00:00", "300 VALENCIA ST", "SAN FRANCISCO CA 94103-3505", "08", "3210" ]
+, [ 457288, "29981675-2BBB-451B-8D86-4AEA5ED28B31", 457288, 1412010172, "400501", 1412117280, "400501", null, "0445850-01-001", "0445850", "ALHEJ ZAHI M", "NASER MINI MART", "2400 SAN BRUNO AVE", "San Francisco", "CA", "94134", "2010-02-01T00:00:00", "2010-02-01T00:00:00", "2400 SAN BRUNO AVENUE", "SAN FRANCISCO CA 94134-0000", "08", "3210" ]
+, [ 457459, "7BEDC437-7093-4631-AEA3-2A9BF9BC0068", 457459, 1412010173, "400501", 1412117281, "400501", null, "0446132-01-001", "0446132", "ALEWDI WAFA A", "USA MARKET", "904 EDDY ST", "San Francisco", "CA", "94109", "2009-10-02T00:00:00", "2009-10-02T00:00:00", "904 EDDY STRET", "SAN FRANCISCO CA 94109-0000", "08", "3210" ]
+, [ 457753, "BC680580-C3A1-4D49-B45C-20A735570C59", 457753, 1412010174, "400501", 1412117282, "400501", null, "0446580-01-001", "0446580", "TSANG MUI-LENG", "T & MW MARKET", "785 O'FARRELL ST", "San Francisco", "CA", "94109", "2010-02-18T00:00:00", "2010-02-18T00:00:00", "785 O'FARRELL ST", "SAN FRANCISCO CA 94109-7114", "08", "3210" ]
+, [ 459260, "B16E5105-E681-480E-B985-41CF3294BB2D", 459260, 1412010180, "400501", 1412117287, "400501", null, "0448854-01-001", "0448854", "LI YUAN XIU", "NOODLE CITY", "1165 POWELL ST", "San Francisco", "CA", "94108", "2010-05-01T00:00:00", "2010-05-01T00:00:00", "867 46TH AVENUE", "SAN FRANCISCO CA 94121-0000", "08", "3210" ]
+, [ 459665, "21A1A1C8-A004-4014-B6C0-3A6995932E71", 459665, 1412010182, "400501", 1412117289, "400501", null, "0449446-01-001", "0449446", "ALFEIHAT ITIDAL I", "GEARY 76", "3501 GEARY ST A", "San Francisco", "CA", "94118", "2010-06-01T00:00:00", "2010-06-01T00:00:00", "1298A VALENCIA ST", "SAN FRANCISCO CA 94110-0000", "08", "3210" ]
+, [ 382056, "DA1A1030-3631-441B-9D16-99FBB56C5EFB", 382056, 1412008257, "400501", 1412117289, "400501", null, "0449446-02-001", "0449446", "ALFEIHAT ITIDAL I", "SAM 76", "1298A VALENCIA ST", "San Francisco", "CA", "94110", "2010-06-01T00:00:00", "2012-06-01T00:00:00", "1298A VALENCIA ST", "SAN FRANCISCO CA 94110-0000", "08", "3210" ]
+, [ 460121, "C430FEAE-2627-47E7-BBFA-4A4CF3DB0221", 460121, 1412010184, "400501", 1412117291, "400501", null, "0450169-01-001", "0450169", "LUO WEICHENG", "WINSON SUPER MARKET", "1532 OCEAN AVE", "San Francisco", "CA", "94112", "2010-07-01T00:00:00", "2010-07-01T00:00:00", "1532 OCEAN AVENUE", "SAN FRANCISCO CA 94112-0000", "08", "3210" ]
+, [ 460223, "3AC617DB-83AC-4308-87B7-BCDBFB1A0E83", 460223, 1412010184, "400501", 1412117291, "400501", null, "0450180-01-001", "0450180", "DIAS ROBERT L", "PAY LITTLE MARKET", "801 CORTLAND AVE", "San Francisco", "CA", "94110", "2010-07-01T00:00:00", "2010-07-01T00:00:00", "266 ANDERSON ST", "SAN FRANCISCO CA 94110-0000", "08", "3210" ]
+, [ 462085, "5A5DC586-8ADC-4D7C-B130-2D5EFF364A35", 462085, 1412010193, "400501", 1412117298, "400501", null, "0452932-01-001", "0452932", "HUSSEIN FOUAD M", "DJ LIQUOR & GROCERY STORE", "3278 MISSION ST", "San Francisco", "CA", "94110", "2010-03-18T00:00:00", "2010-03-18T00:00:00", "3278 MISSION ST", "SAN FRANCISCO CA 94110-0000", "08", "3210" ]
+, [ 462112, "4C69D39C-A39A-4BD6-AFB5-96B451F40D91", 462112, 1412010193, "400501", 1412117298, "400501", null, "0452972-01-001", "0452972", "ASFOUR SALIM K & HABASH VICKY", "SUPERETTE MARKET", "901 HAIGHT ST", "San Francisco", "CA", "94117", "2010-11-01T00:00:00", "2010-11-01T00:00:00", "901 HAIGHT ST", "SAN FRANCISCO CA 94117-0000", "08", "3210" ]
+, [ 462739, "059FA77E-5DC8-42B8-B8A8-E5810A963109", 462739, 1412010195, "400501", 1412117300, "400501", null, "0453866-01-001", "0453866", "ATTIA YASIN M", "JERUSALEM MARKET", "1100 SUTTER ST", "San Francisco", "CA", "94109", "2010-11-01T00:00:00", "2010-11-01T00:00:00", "1100 SUTTER ST", "SAN FRANCISCO CA 94109-0000", "08", "3210" ]
+, [ 464629, "5359998B-DE8D-4513-82B1-C81E6DCDAD38", 464629, 1412010202, "400501", 1412117306, "400501", null, "0456343-01-001", "0456343", "MUHAWIEH LINDA/MUHAWIEH TALAL", "ISAAC'S MARKET", "2601 FOLSOM ST", "San Francisco", "CA", "94110", "2011-02-14T00:00:00", "2011-02-14T00:00:00", "2601 FOLSOM ST", "SAN FRANCISCO CA 94110-0000", "08", "3210" ]
+, [ 465691, "C74CC905-5F64-43D1-9A39-627F59FA2E75", 465691, 1412010206, "400501", 1412117310, "400501", null, "0457608-01-001", "0457608", "LUK YAN", "HOT SAUCE AND PANKO", "1545 CLEMENT ST", "San Francisco", "CA", "94118", "2011-04-01T00:00:00", "2011-04-01T00:00:00", "1545 CLEMENT ST", "SAN FRANCISCO CA 94118-0000", "08", "3210" ]
+, [ 468024, "92D949FD-6268-4492-8923-25BE9CB43F96", 468024, 1412010215, "400501", 1412117318, "400501", null, "0460508-01-001", "0460508", "OROZCO THELMA E", "ANAS MARKET", "105 BROAD ST", "San Francisco", "CA", "94112", "2010-12-20T00:00:00", "2010-12-20T00:00:00", "1392 HAMPSHIRE ST", "SAN FRANCISCO CA 94110-4228", "08", "3210" ]
+, [ 469394, "FD61FCCB-60B1-4FE7-BCC1-4DB9FB728A14", 469394, 1412010220, "400501", 1412117322, "400501", null, "0462138-01-001", "0462138", "ZEIDAN RWHI N", "DISCOUNT CIGARETTES & CIGARS", "626 KEARNY ST", "San Francisco", "CA", "94108", "2011-09-10T00:00:00", "2011-09-10T00:00:00", "626 KEARNY ST", "SAN FRANCISCO CA 94108-0000", "08", "3210" ]
+, [ 470348, "9A94E955-0ECC-4CA1-845E-B17A629CF181", 470348, 1412010225, "400501", 1412117325, "400501", null, "0463310-01-001", "0463310", "DIRBAS MUSA M", "KENNEDY LIQUOR AND MARKET", "4600 3RD ST", "San Francisco", "CA", "94124", "2011-10-12T00:00:00", "2011-10-12T00:00:00", "4600 3RD STREET", "SAN FRANCISCO CA 94124-2364", "08", "3210" ]
+, [ 470926, "38266140-0895-4019-9F22-2A8CEF69C995", 470926, 1412010228, "400501", 1412117327, "400501", null, "0463986-01-001", "0463986", "SHATARA GEORGE AND WAFA", "1001 CASTRO STREET", "1001 CASTRO ST", "San Francisco", "CA", "94114", "2011-11-15T00:00:00", "2011-11-15T00:00:00", "1001 CASTRO STREET", "SAN FRANCISCO CA 94114-0000", "08", "3210" ]
+, [ 471451, "0F777560-7C13-46B5-9686-8D686DA1AA81", 471451, 1412010230, "400501", 1412117329, "400501", null, "0464626-01-001", "0464626", "ERAGA HAILAH", "STATE MARKET LIQUOR #6", "1231 GENEVA AVE", "San Francisco", "CA", "94112", "2011-12-01T00:00:00", "2011-12-01T00:00:00", "1231 GENEVA AVENUE", "SAN FRANCISCO CA 94112-3823", "08", "3210" ]
+, [ 471993, "D47F6E4C-48A4-4ADB-97F0-EA0CD15FB202", 471993, 1412010232, "400501", 1412117331, "400501", null, "0465228-01-001", "0465228", "RADMAN WALEED M", "BOB'S GRILL & GROCERY", "2999 HARRISON ST", "San Francisco", "CA", "94110", "2012-01-15T00:00:00", "2012-01-15T00:00:00", "2999 HARRISON ST", "SAN FRANCISCO CA 94110-0000", "08", "3210" ]
+, [ 472734, "305DD2BD-E4EE-491B-9A83-51339FFF4909", 472734, 1412010235, "400501", 1412117334, "400501", null, "0466051-01-001", "0466051", "SINGH KULWANT", "RICK GROCERY", "1736 FILLMORE ST", "San Francisco", "CA", "94115", "2012-02-01T00:00:00", "2012-02-01T00:00:00", "1736 FILLMORE ST", "SAN FRANCISCO CA 94115-0000", "08", "3210" ]
+, [ 473053, "FC9AC217-7DF7-4F98-862F-2C19F8BA3C99", 473053, 1412010236, "400501", 1412117335, "400501", null, "0466428-01-001", "0466428", "AL AREMI MARYA A", "TL TOBACCO & MARKET", "301 TURK ST", "San Francisco", "CA", "94102", "2012-02-14T00:00:00", "2012-02-14T00:00:00", "301 TURK ST", "SAN FRANCISCO CA 94102-3703", "08", "3210" ]
+, [ 474212, "AD3271CE-9CA6-4A84-A175-B77E9B3C1924", 474212, 1412010241, "400501", 1412117339, "400501", null, "0467754-01-001", "0467754", "ARANA SOCORRO", "NEW CASA MARIA #2", "58 LELAND AVE", "San Francisco", "CA", "94134", "2012-04-01T00:00:00", "2012-04-01T00:00:00", "58 LELAND AVE", "SAN FRANCISCO CA 94134-0000", "08", "3210" ]
+, [ 475866, "CEFE5F95-4577-44D0-ABF6-B96B5189FDE0", 475866, 1412010247, "400501", 1412117344, "400501", null, "0469606-01-001", "0469606", "PARK YONG S", "CENTRAL PARK LIQUORS", "1900 HAYES ST", "San Francisco", "CA", "94117", "2012-06-01T00:00:00", "2012-06-01T00:00:00", "1900 HAYES ST", "SAN FRANCISCO CA 94117-0000", "08", "3210" ]
+, [ 477246, "42DF297A-E4E3-4071-9082-7C66FBE62649", 477246, 1412010253, "400501", 1412117349, "400501", null, "0471119-01-001", "0471119", "SINGH NARINDER J", "MEXICO MARKET", "1122 POST ST", "San Francisco", "CA", "94109", "2012-07-19T00:00:00", "2012-07-19T00:00:00", "1122 POST ST", "SAN FRANCISCO CA 94109-5505", "08", "3210" ]
+, [ 477869, "30F08537-F664-4862-AC36-3751D528E15D", 477869, 1412010256, "400501", 1412117350, "400501", null, "0471836-01-001", "0471836", "WU SHENQUAN", "YIN XING FOOD COMAPNY", "661 CLEMENT ST", "San Francisco", "CA", "94118", "2012-08-16T00:00:00", "2012-08-16T00:00:00", "661 CLEMENT ST", "SAN FRANCISCO CA 94118-0000", "08", "3210" ]
+, [ 477881, "C5FE2136-5BCB-4301-98E0-600BAED4522B", 477881, 1412010256, "400501", 1412117350, "400501", null, "0471852-01-001", "0471852", "AHMED RAJA Z ZAHEER AYESHA", "R AND A GROCERY", "5172 3RD ST 3", "San Francisco", "CA", "94124", "2012-08-13T00:00:00", "2012-08-13T00:00:00", "5172 3RD STREET", "SAN FRANCISCO CA 94124-2302", "08", "3210" ]
+, [ 478190, "FCC86A1B-F8D7-4639-AF3E-7F6BD4048992", 478190, 1412010257, "400501", 1412117351, "400501", null, "0472154-01-001", "0472154", "CABEEAR JORDAN J", "JORDAN CABEEAR", "3423 19TH ST", "San Francisco", "CA", "94110", "2012-08-22T00:00:00", "2012-08-22T00:00:00", "2808 MADERA AVE", "OAKLAND CA 94619-3329", "08", "3210" ]
+, [ 479646, "AB241E4D-4045-4494-A21E-669B4C035B69", 479646, 1412010263, "400501", 1412117356, "400501", null, "0473683-01-001", "0473683", "KNIGHTEN JOYCE L", "DOUBLE ROCK GROCERY", "2830 INGALLS ST", "San Francisco", "CA", "94124", "2012-10-16T00:00:00", "2012-10-16T00:00:00", "2830 INGALLS ST", "SAN FRANCISCO CA 94124-3630", "08", "3210" ]
+, [ 480031, "BC8E74B8-2E6D-492A-BA93-CE0D6E8FE37A", 480031, 1412010265, "400501", 1412117358, "400501", null, "0474096-01-001", "0474096", "KHALIL AYSHA J", "PAY N SAVE GROCERY", "599 GUERRERO ST", "San Francisco", "CA", "94110", "2012-11-02T00:00:00", "2012-11-02T00:00:00", "599 GUERRERO ST", "SAN FRANCISCO CA 94110-1016", "08", "3210" ]
+, [ 480661, "D27C3708-25FD-4CB7-9678-4ED424CA7B41", 480661, 1412010267, "400501", 1412117360, "400501", null, "0474769-01-001", "0474769", "REYES,CECILIO /EISY ANA YASMIM", "EXPRESS LIQUOR AND DELI", "4715 GEARY BLVD", "San Francisco", "CA", "94124", "2012-11-04T00:00:00", "2012-11-04T00:00:00", "4715 GEARY BLVD", "SAN FRANCISCO CA 94118-0000", "08", "3210" ]
+, [ 481205, "8C827A1D-F164-4B1F-BEE6-9AB86829E22B", 481205, 1412010269, "400501", 1412117362, "400501", null, "0475334-01-001", "0475334", "LEI KUN MENG", "NEW OCEAN SEAFOOD & PRODUCE", "838 JACKSON ST", "San Francisco", "CA", "94133", "2013-01-01T00:00:00", "2013-01-01T00:00:00", "838 JACKSON ST", "SAN FRANCISCO CA 94133-0000", "08", "3210" ]
+, [ 481496, "E45D5D78-C1A2-4CC3-8F0E-3A4BCD75E7D7", 481496, 1412010270, "400501", 1412117363, "400501", null, "0475639-01-001", "0475639", "LEI PEI TING", "PEOPLE'S GROCERY", "605 JACKSON ST", "San Francisco", "CA", "94133", "2013-01-16T00:00:00", "2013-01-16T00:00:00", "605 JACKSON ST", "SAN FRANCISCO CA 94133-0000", "08", "3210" ]
+, [ 482142, "F718AE39-F36C-4864-A73C-29EC188BA255", 482142, 1412010273, "400501", 1412117365, "400501", null, "0476300-01-001", "0476300", "VIZCARRA VERONICA", "LA LOMA #6 CULIACAN", "4788 MISSION ST", "San Francisco", "CA", "94112", "2013-02-04T00:00:00", "2013-02-04T00:00:00", "633 36TH ST", "RICHMOND CA 94805-1755", "08", "3210" ]
+, [ 482422, "A68A20CA-8980-4D2E-8F19-A89D5666A87C", 482422, 1412010274, "400501", 1412117366, "400501", null, "0476589-01-001", "0476589", "WONG YAN KAM", "SUPERB GARDEN GROCERY", "2433 NORIEGA ST", "San Francisco", "CA", "94122", "2013-02-01T00:00:00", "2013-02-01T00:00:00", "2433 NORIEGA AT", "SAN FRANCISCO CA 94122-0000", "08", "3210" ]
+, [ 483555, "E8D53224-BCDD-41B7-9D37-A2F2E1B685CF", 483555, 1412010278, "400501", 1412117370, "400501", null, "0477733-01-001", "0477733", "GUAN QIQIONG", "KING POULTRY & PRODUCE", "758 BROADWAY", "San Francisco", "CA", "94133", "2013-03-28T00:00:00", "2013-03-28T00:00:00", "601 BRUSSELS ST", "SAN FRANCISCO CA 94134-0000", "08", "3210" ]
+, [ 483753, "11189E07-AA0C-43DC-8D15-22B9519EC81D", 483753, 1412010279, "400501", 1412117371, "400501", null, "0477939-01-001", "0477939", "COLEMAN THERESA L", "DOLLAR STORE AND MORE", "4900 3RD ST", "San Francisco", "CA", "94124", "2013-04-05T00:00:00", "2013-04-05T00:00:00", "4900 3RD ST", "SAN FRANCISCO CA 94124-0000", "08", "3210" ]
+, [ 484263, "4609EAAE-DD7B-4F40-85F8-B30C45C1461F", 484263, 1412010281, "400501", 1412117373, "400501", null, "0478452-01-001", "0478452", "ABUNDIS LUIS L", "NIEVES CINCO DE MAYO", "2590 MISSION ST 8", "San Francisco", "CA", "94110", "2013-04-16T00:00:00", "2013-04-16T00:00:00", "2590 MISSION ST #8", "SAN FRANCISCO CA 94110-0000", "08", "3210" ]
+, [ 484663, "9FAC8C50-88DA-4C2B-A97F-6A734F031FDC", 484663, 1412010283, "400501", 1412117374, "400501", null, "0478869-01-001", "0478869", "TRAN JOHN", "T & L FOOD MARKET", "405 EDDY ST", "San Francisco", "CA", "94109", "2013-05-01T00:00:00", "2013-05-01T00:00:00", "405 EDDY STREET", "SAN FRANCISCO CA 94109-0000", "08", "3210" ]
+, [ 486572, "B0CD9AAF-775D-4AFC-A50B-6F1FC036B5E7", 486572, 1412010291, "400501", 1412117380, "400501", null, "0480756-01-001", "0480756", "WONG AMY M", "USA POWER MARKET", "1532 OCEAN AVE", "San Francisco", "CA", "94112", "2013-06-24T00:00:00", "2013-06-24T00:00:00", "1532 OCEAN AVENUE", "SAN FRANCISCO CA 94112-1716", "08", "3210" ]
+, [ 488280, "594BFA60-A7B4-440B-ACF1-73DD481DD85E", 488280, 1412010300, "400501", 1412117386, "400501", null, "0482448-01-001", "0482448", "RIAZ ALI", "METRO MARKET", "236 LEAVENWORTH ST", "San Francisco", "CA", "94102", "2013-09-01T00:00:00", "2013-09-01T00:00:00", "236 LEAVENWORTH ST", "SAN FRANCISCO CA 94102-0000", "08", "3210" ]
+, [ 488738, "41971A5B-08CA-4C63-BB75-40AFB2C10184", 488738, 1412010302, "400501", 1412117388, "400501", null, "0482918-01-001", "0482918", "JOHNSON JR CHARLES G", "CHARLES GROCERY STORE", "555 JONES ST 402", "San Francisco", "CA", "94102", "2013-10-01T00:00:00", "2013-10-01T00:00:00", "537 JONES ST #3168", "SAN FRANCISCO CA 94102-0000", "08", "3210" ]
+, [ 488745, "6FC68243-BFF6-44EB-8A77-9CAC62D29705", 488745, 1412010302, "400501", 1412117388, "400501", null, "0482924-01-001", "0482924", "MUSED MOHSEN", "TENDERLOIN MARKET & DELI", "200 LEAVENWORTH ST", "San Francisco", "CA", "94102", "2013-09-03T00:00:00", "2013-09-03T00:00:00", "200 LEAVENWORTH ST", "SAN FRANCISCO CA 94102-2611", "08", "3210" ]
+, [ 489242, "CF56798F-51F6-42C8-A3E1-64AA12C3BA29", 489242, 1412010304, "400501", 1412117390, "400501", null, "0483432-01-001", "0483432", "ALHAQ MAAD", "APPLE MARKET", "2020 MISSION ST", "San Francisco", "CA", "94110", "2013-10-01T00:00:00", "2013-10-01T00:00:00", "2020 MISSION ST", "SAN FRANCISCO CA 94110-0000", "08", "3210" ]
+, [ 490987, "C6878216-82A1-4607-8076-BB55FFD8A6B9", 490987, 1412010312, "400501", 1412117397, "400501", null, "0485200-01-001", "0485200", "SHUAIBI ZAINA A", "MAURICES CORNER", "3046 24TH ST", "San Francisco", "CA", "94110", "2013-12-05T00:00:00", "2013-12-05T00:00:00", "3046 24TH ST", "SAN FRANCISCO CA 94110-4129", "08", "3210" ]
+, [ 491413, "CF342EF5-B3DA-49E2-8F23-E172937F1115", 491413, 1412010314, "400501", 1412117399, "400501", null, "0485627-01-001", "0485627", "MANNING CAMERON M", "CMM FOODS", "2115 JENNINGS ST", "San Francisco", "CA", "94124", "2013-12-12T00:00:00", "2013-12-12T00:00:00", "2115 JENNINGS ST", "SAN FRANCISCO CA 94124-3224", "08", "3210" ]
+, [ 492507, "EF1A3E1F-846A-4A44-B0C1-1992D542EB1A", 492507, 1412010318, "400501", 1412117403, "400501", null, "0486727-01-001", "0486727", "ZEIDAN MARILYN/NESHEIWAT AYMAN", "ZAYD'S MARKET", "3347 24TH ST", "San Francisco", "CA", "94110", "2014-02-01T00:00:00", "2014-02-01T00:00:00", "3347 24TH ST", "SAN FRANCISCO CA 94110-3869", "08", "3210" ]
+, [ 492782, "BCEDC7EE-5AD7-4AD0-9379-A9C0DDAF4ADC", 492782, 1412010319, "400501", 1412117404, "400501", null, "0486999-01-001", "0486999", "LEE HO TUNG", "D&T MARKET", "1118 STOCKTON ST", "San Francisco", "CA", "94133", "2014-02-14T00:00:00", "2014-02-14T00:00:00", "1118 STOCKTON ST", "SAN FRANCISCO CA 94133-0000", "08", "3210" ]
+, [ 493561, "30C57E74-81A6-44AD-9FC2-471652DC21B3", 493561, 1412010322, "400501", 1412117407, "400501", null, "0487769-01-001", "0487769", "HUANG KENNETH", "VALUE KING", "675 JACKSON ST", "San Francisco", "CA", "94133", "2014-03-20T00:00:00", "2014-03-20T00:00:00", "3931 ALEMANY BLVD #2003", "SAN FRANCISCO CA 94132-0000", "08", "3210" ]
+, [ 493972, "3A3859D6-B92F-4BC2-8E43-CEB10CDF6F12", 493972, 1412010324, "400501", 1412117409, "400501", null, "0488164-01-001", "0488164", "SAN VA CAM", "D & H DELIVERY", "100 GENEVA ST", "San Francisco", "CA", "94112", "2014-04-01T00:00:00", "2014-04-01T00:00:00", "100 GENEVA ST", "SAN FRANCISCO CA 94112-0000", "08", "3210" ]
+, [ 494625, "994419EC-FDA6-4F67-8CA3-F4D0AB268981", 494625, 1412010327, "400501", 1412117411, "400501", null, "0488829-01-001", "0488829", "CAI CARMEN SHU YING", "C & Z GROCERY", "1301 MASON ST", "San Francisco", "CA", "94133", "2014-04-14T00:00:00", "2014-04-14T00:00:00", "1301 MASON STREET", "SAN FRANCISCO CA 94133-0000", "08", "3210" ]
+, [ 494969, "0138B585-907D-49B0-B406-82FD34CC50DD", 494969, 1412010329, "400501", 1412117413, "400501", null, "0489166-01-001", "0489166", "ELHAJ YOUSEF E", "CHURCH STREET MARKET", "301 CHURCH ST A", "San Francisco", "CA", "94114", "2014-04-29T00:00:00", "2014-04-29T00:00:00", "301A CHURCH ST", "SAN FRANCISCO CA 94114-1718", "08", "3210" ]
+, [ 508788, "3F55CCF9-C2BE-4626-8037-A41F25C5AAF2", 508788, 1412117465, "400501", 1412117465, "400501", null, "0490478-01-001", "1000085", "FARA NABIL AHMED", "GREEN APPLE MARKET", "1042 POLK ST", "SAN FRANCISCO", "CA", "94109", "2014-06-18T00:00:00", "2014-06-18T00:00:00", "1042 POLK ST", "SAN FRANCISCO CA 94109-", "08", "3210" ]
+, [ 508949, "F966AA32-0359-44C3-A108-66CEA816B1E3", 508949, 1412117466, "400501", 1412117466, "400501", null, "0490669-01-001", "0490669", "ALHUZAIBI NAJI NOMANMOHSEN", "RUBINS MARKET", "2997 FOLSOM ST", "SAN FRANCISCO", "CA", "94110", "2014-06-20T00:00:00", "2014-06-20T00:00:00", "2997 FOLSOM ST", "SAN FRANCISCO CA 94110-", "08", "3210" ]
+, [ 496755, "EED610DF-BA75-4FBC-99AE-90C02406A4C3", 496755, 1412010337, "400501", 1412117419, "400501", null, "0912131-02-001", "0912131", "CHEDYAK HANNA", "FOG HILL MARKET", "1300 KEARNY ST", "San Francisco", "CA", "94133", "1997-10-15T00:00:00", "1997-10-15T00:00:00", "1300 KEARNY ST", "SAN FRANCISCO CA 94133-3449", "08", "3210" ]
+, [ 496830, "C4CBE354-5637-4E26-85FA-FCAC6A6F64D7", 496830, 1412010337, "400501", 1412117419, "400501", null, "0912721-01-001", "0912721", "OSORIO JOAQUIN", "JOAQUIN OSORIO JANITORIAL SERV", "675 MONTEREY BLVD. 12", "San Francisco", "CA", "94127", "1992-04-15T00:00:00", "1992-04-15T00:00:00", "675 MONTEREY BLVD APT 12", "SAN FRANCISCO CA 94127-2360", "08", "3210" ]
+, [ 496869, "0A21A614-1877-47AA-AEA2-48DDB0341B41", 496869, 1412010337, "400501", 1412117419, "400501", null, "0913029-01-001", "0913029", "TAN SHU XIONG", "JAMIE SUPEMARKET", "1135 STOCKTON ST 9", "San Francisco", "CA", "94133", "1992-04-30T00:00:00", "1992-04-30T00:00:00", "1135 STOCKTON ST  #9", "SAN FRANCISCO CA 94133-4906", "08", "3210" ]
+, [ 496993, "5AE2F46D-2372-40AD-9A3D-A66D5F89C843", 496993, 1412010338, "400501", 1412117420, "400501", null, "0913780-03-001", "0913780", "LIAO JANE", "WAH FA PRODUCE COMPANY", "2165 IRVING ST", "San Francisco", "CA", "94122", "1999-08-01T00:00:00", "1999-08-01T00:00:00", "426 SAN MIGUEL ST", "SAN FRANCISCO CA 94112-3119", "08", "3210" ]
+, [ 497045, "385E1FEF-C2DF-4516-AED8-22559CDEA9C9", 497045, 1412010338, "400501", 1412117420, "400501", null, "0914093-01-001", "0914093", "YUN GYEONG HWA", "YOUNG ELLIS PRODUCE MKT", "398 ELLIS ST", "San Francisco", "CA", "94102", "1992-01-01T00:00:00", "1992-01-01T00:00:00", "398 ELLIS ST", "SAN FRANCISCO CA 94102-2710", "08", "3210" ]
+, [ 497109, "A0AC0174-46CF-47C8-986E-ED4AF8BB8B24", 497109, 1412010339, "400501", 1412117420, "400501", null, "0914602-02-001", "0914602", "CHENG MANCHEUK & DORIS W", "L W GROCERY", "1398 LEAVENWORTH ST", "San Francisco", "CA", "94109", "2001-06-05T00:00:00", "2001-06-05T00:00:00", "1398 LEAVENWORTH ST", "SAN FRANCISCO CA 94109-4017", "08", "3210" ]
+, [ 497263, "2A0C84B0-050E-4FA5-BCB0-4095A72C3737", 497263, 1412010339, "400501", 1412117421, "400501", null, "0915833-01-001", "0915833", "TRINIDAD JOSE S & INJA O", "DISCOUNT GROCERS", "1203 POLK ST", "San Francisco", "CA", "94109", "1992-07-17T00:00:00", "1992-07-17T00:00:00", "1203 POLK ST", "SAN FRANCISCO CA 94109-5514", "08", "3210" ]
+, [ 497267, "F45A2846-8F04-48FF-B975-11BCF867956D", 497267, 1412010339, "400501", 1412117421, "400501", null, "0915860-01-001", "0915860", "ISAM WADIE DUGHMAN", "ROSSIS DELI", "426 CASTRO ST", "San Francisco", "CA", "94114", "1992-08-01T00:00:00", "1992-08-01T00:00:00", "426 CASTRO ST", "SAN FRANCISCO CA 94114-2020", "08", "3210" ]
+, [ 497373, "B2BDC722-38BA-4D34-95E7-957223601A37", 497373, 1412010340, "400501", 1412117421, "400501", null, "0916504-02-001", "0916504", "AMIN IBRAHIM M", "LION'S DEN SMOKE SHOP", "1000 HOWARD ST A", "San Francisco", "CA", "94103", "2014-01-07T00:00:00", "2014-01-07T00:00:00", "1000 HOWARD ST #A", "SAN FRANCISCO CA 94103-2842", "08", "3210" ]
+, [ 497753, "6C731212-5BF5-4B16-8A31-239FA63C7077", 497753, 1412010342, "400501", 1412117422, "400501", null, "0918614-03-001", "0918614", "DELANEY CHRISTOPHER", "SEAM", "600 ILLINOIS ST", "San Francisco", "CA", "94107", "2003-02-02T00:00:00", "2003-02-02T00:00:00", "600 ILLINOIS ST", "SAN FRANCISCO CA 94107-3129", "08", "3210" ]
+, [ 497754, "174F298A-29CC-4E57-B491-EDB2B82CA577", 497754, 1412010342, "400501", 1412117422, "400501", null, "0918614-04-001", "0918614", "DELANEY CHRISTOPHER", "GLUTEN FREE STORE RS+CC", "600 ILLINOIS ST", "San Francisco", "CA", "94107", "2003-02-02T00:00:00", "2010-10-06T00:00:00", "600 ILLINOIS ST", "SAN FRANCISCO CA 94107-3129", "08", "3210" ]
+, [ 497755, "27CE8D15-4AB9-4AFB-8F6C-96BD0846F72F", 497755, 1412010342, "400501", 1412117422, "400501", null, "0918614-05-001", "0918614", "DELANEY CHRISTOPHER", "GLUTEN FREE REVIEWER STORE", "600 ILLINOIS ST", "San Francisco", "CA", "94107", "2003-02-02T00:00:00", "2011-03-21T00:00:00", "600 ILLINOIS ST", "SAN FRANCISCO CA 94107-3129", "08", "3210" ]
+, [ 497756, "1FCC7730-EF9A-410D-B5DC-7C2235D0E5D5", 497756, 1412010342, "400501", 1412117422, "400501", null, "0918614-06-001", "0918614", "DELANEY CHRISTOPHER", "GLUTEN FREE REVIEWER GROCERY", "600 ILLINOIS ST", "San Francisco", "CA", "94107", "2003-02-02T00:00:00", "2011-05-01T00:00:00", "600 ILLINOIS ST", "SAN FRANCISCO CA 94107-3129", "08", "3210" ]
+, [ 497757, "6DAD7F0F-BBB7-4E40-9215-3037C0BEA61E", 497757, 1412010342, "400501", 1412117422, "400501", null, "0918614-07-001", "0918614", "DELANEY CHRISTOPHER", "GLUTEN FREE GROCERY", "600 ILLINOIS ST", "San Francisco", "CA", "94107", "2003-02-02T00:00:00", "2011-12-05T00:00:00", "600 ILLINOIS ST", "SAN FRANCISCO CA 94107-3129", "08", "3210" ]
+, [ 497758, "9B4DE64E-EBFF-4CCA-8D79-F6D093E4164C", 497758, 1412010342, "400501", 1412117422, "400501", null, "0918614-08-001", "0918614", "DELANEY CHRISTOPHER", "GLUETEN FREE GROCERY, LLC", "234 TOWNSEND ST", "San Francisco", "CA", "94107", "2003-02-02T00:00:00", "2012-09-19T00:00:00", "600 ILLINOIS ST", "SAN FRANCISCO CA 94107-3129", "08", "3210" ]
+, [ 497759, "82DD32E7-292B-40CB-B075-A34BCEF3733C", 497759, 1412010342, "400501", 1412117422, "400501", null, "0918614-09-001", "0918614", "DELANEY CHRISTOPHER", "GLUTEN FREE GROCERY LLC", "600 ILLINOIS ST", "San Francisco", "CA", "94107", "2003-02-02T00:00:00", "2012-04-01T00:00:00", "600 ILLINOIS ST", "SAN FRANCISCO CA 94107-3129", "08", "3210" ]
+, [ 498261, "8FE911DE-A6B4-4816-BD93-92C8259ACE4B", 498261, 1412010344, "400501", 1412117424, "400501", null, "0921797-01-001", "0921797", "NGUYEN THOI CONG", "LARKIN CORNER MARKET", "1496 LARKIN ST", "San Francisco", "CA", "94109", "1993-01-01T00:00:00", "1993-01-01T00:00:00", "1496 LARKIN ST", "SAN FRANCISCO CA 94109-4710", "08", "3210" ]
+, [ 498295, "33ED830E-40B2-4B20-A00C-8E6E678690CB", 498295, 1412010344, "400501", 1412117424, "400501", null, "0922022-01-001", "0922022", "LEI YAN WEN", "SILVER STAR CAFE & DELI", "316 PACIFIC AVE", "San Francisco", "CA", "94111", "1993-07-01T00:00:00", "1993-07-01T00:00:00", "316 PACIFIC AVE", "SAN FRANCISCO CA 94111-1702", "08", "3210" ]
+, [ 498296, "BD3AB1F2-A0D9-4E54-88EB-4426F9F8A77A", 498296, 1412010344, "400501", 1412117424, "400501", null, "0922022-04-001", "0922022", "LEI YAN WEN", "GOOD LUCK MARKET", "1215 TARAVAL ST", "San Francisco", "CA", "94116", "1993-07-01T00:00:00", "2010-06-22T00:00:00", "316 PACIFIC AVE", "SAN FRANCISCO CA 94111-1702", "08", "3210" ]
+, [ 499118, "25765789-7B15-4185-B1F7-8EBAAAFD6F8B", 499118, 1412010347, "400501", 1412117428, "400501", null, "0927552-01-001", "0927552", "MAHMOUD EL-MIAARI", "E-Z STOP MARKET", "2203 GENEVA AVE", "San Francisco", "CA", "94134", "1991-05-20T00:00:00", "1994-02-16T00:00:00", "2145 GENEVA AVE", "SAN FRANCISCO CA 94134-3118", "08", "3210" ]
+, [ 499119, "FF178F53-3716-449D-A7E3-A219E59A5109", 499119, 1412010347, "400501", 1412117428, "400501", null, "0927552-02-001", "0927552", "MAHMOUD EL-MIAARI", "M&M SHORT STOP", "2145 GENEVA AVE", "San Francisco", "CA", "94134", "1991-05-20T00:00:00", "1992-01-01T00:00:00", "2145 GENEVA AVE", "SAN FRANCISCO CA 94134-3118", "08", "3210" ]
+, [ 499174, "F037A667-DF3F-4416-A19C-86C39528D7EF", 499174, 1412010348, "400501", 1412117428, "400501", null, "0928007-01-001", "0928007", "ISSA DABAI", "SPOTLITE MARKET", "298 GUERRERO ST", "San Francisco", "CA", "94103", "1992-04-01T00:00:00", "1992-04-01T00:00:00", "298 GUERRERO ST", "SAN FRANCISCO CA 94103-2313", "08", "3210" ]
+, [ 499175, "02E561BE-0E29-4BF5-8DD6-3FB8C0283558", 499175, 1412010348, "400501", 1412117428, "400501", null, "0928007-04-001", "0928007", "ISSA DABAI", "BERNAL HEIGHTS MARKET", "3391 MISSION ST", "San Francisco", "CA", "94110", "1992-04-01T00:00:00", "2013-06-24T00:00:00", "298 GUERRERO ST", "SAN FRANCISCO CA 94103-2313", "08", "3210" ]
+, [ 499261, "A3B8C91A-F4C4-4CE9-9E0D-DBD1038DDE04", 499261, 1412010348, "400501", 1412117428, "400501", null, "0928508-01-001", "0928508", "SOON IVAN & ELLEN", "IRVING HEALTH FOOD", "2309 IRVING ST", "San Francisco", "CA", "94122", "1994-03-14T00:00:00", "1994-03-14T00:00:00", "2309 IRVING ST", "SAN FRANCISCO CA 94122-1620", "08", "3210" ]
+, [ 499612, "9EBB2B8C-95A0-4ED7-80F9-E0F478A23855", 499612, 1412010350, "400501", 1412117429, "400501", null, "0930608-01-001", "0930608", "BAKHTAN DAOUD R.", "LOWELL MARKET", "601 BRUNSWICK ST", "San Francisco", "CA", "94112", "1994-05-13T00:00:00", "1994-05-13T00:00:00", "601 BRUNSWICK ST", "SAN FRANCISCO CA 94112-4202", "08", "3210" ]
+, [ 499850, "46650312-E515-48C2-B82E-938114914BCE", 499850, 1412010351, "400501", 1412117430, "400501", null, "0932084-01-001", "0932084", "TRIEU QUOC", "JUDAH NINTH AVE LIQUORS", "1400 9TH AVE", "San Francisco", "CA", "94122", "1994-06-28T00:00:00", "1994-06-28T00:00:00", "1400 9TH AVE", "SAN FRANCISCO CA 94122-3607", "08", "3210" ]
+, [ 499925, "4034D27F-1287-4D10-89B2-CC18979734E1", 499925, 1412010351, "400501", 1412117431, "400501", null, "0932460-02-001", "0932460", "JOSEPH ABDALLA F", "SAVE MORE MART", "4500 3RD ST", "San Francisco", "CA", "94124", "1998-01-01T00:00:00", "1998-01-01T00:00:00", "4500 3RD ST", "SAN FRANCISCO CA 94124-2106", "08", "3210" ]
+, [ 500014, "CE6FEDE5-9D91-4400-9B79-4A82D798D519", 500014, 1412010352, "400501", 1412117431, "400501", null, "0932974-03-001", "0932974", "FUNG PEIXIA", "VARIETY CONVENIENCE STORE", "1546 MARKET ST", "San Francisco", "CA", "94102", "1994-08-01T00:00:00", "2002-02-20T00:00:00", "1546 MARKET ST", "SAN FRANCISCO CA 94102-6007", "08", "3210" ]
+, [ 500321, "FB7FBCA0-4DA4-466E-8E3F-51E7EF4C63EB", 500321, 1412010353, "400501", 1412117432, "400501", null, "0934922-01-001", "0934922", "NGAI BILL", "B N J CONSTRUCTION COMPANY", "17 FRANCIS ST", "San Francisco", "CA", "94112", "1994-10-05T00:00:00", "1994-10-05T00:00:00", "17 FRANCIS ST", "SAN FRANCISCO CA 94112-1924", "08", "3210" ]
+, [ 500560, "4593C240-073E-4CA6-B4AA-E2F40E958A4D", 500560, 1412010354, "400501", 1412117433, "400501", null, "0936538-01-001", "0936538", "CHAM YUK S", "TAI SHING CO", "867 WASHINGTON ST", "San Francisco", "CA", "94108", "1994-10-01T00:00:00", "1994-10-01T00:00:00", "867 WASHINGTON ST", "SAN FRANCISCO CA 94108-1210", "08", "3210" ]
+, [ 500600, "7BEBFAC7-56B2-4C5D-B587-427C900A722A", 500600, 1412010354, "400501", 1412117433, "400501", null, "0936720-01-001", "0936720", "NASSER MOHAMED", "M & W MARKET", "1800 23RD ST", "San Francisco", "CA", "94107", "1995-01-01T00:00:00", "1995-01-01T00:00:00", "1800 23RD ST", "SAN FRANCISCO CA 94107-3353", "08", "3210" ]
+, [ 500970, "40A92818-7E9A-4EAE-9879-FE1B0B36BE6B", 500970, 1412010356, "400501", 1412117435, "400501", null, "0938446-01-001", "0938446", "KUBEIN EDMOND C", "CIVIC CENTER MARKET", "1292 MARKET ST", "San Francisco", "CA", "94102", "1995-02-09T00:00:00", "1995-02-09T00:00:00", "1292 MARKET ST", "SAN FRANCISCO CA 94102-4801", "08", "3210" ]
+, [ 500971, "AE7E7EBE-CD5B-4A7A-89BA-05AF5D5D1E8A", 500971, 1412010356, "400501", 1412117435, "400501", null, "0938446-02-001", "0938446", "KUBEIN EDMOND C", "CIVIC CENTER LIQUORS", "1292 MARKET ST", "San Francisco", "CA", "94102", "1995-02-09T00:00:00", "2008-10-01T00:00:00", "1292 MARKET ST", "SAN FRANCISCO CA 94102-4801", "08", "3210" ]
+, [ 501200, "03DDE1D8-0A9D-4372-A5E4-0F95DC89DCB6", 501200, 1412010357, "400501", 1412117436, "400501", null, "0939338-01-001", "0939338", "OSORIO DUBLAS", "BROTHERS MINI MARKET", "3845 NORIEGA ST", "San Francisco", "CA", "94122", "1995-03-01T00:00:00", "1995-03-01T00:00:00", "3845 NORIEGA ST", "SAN FRANCISCO CA 94122-3933", "08", "3210" ]
+, [ 501459, "8689B2BF-EAA8-491A-BEE2-7C75ECB7B44A", 501459, 1412010358, "400501", 1412117437, "400501", null, "0940867-03-001", "0940867", "ZUGHAYIR NASSIR A & TAMMY", "SAMMY'S ON 2ND", "84 2ND ST", "San Francisco", "CA", "94105", "1995-04-20T00:00:00", "2010-03-01T00:00:00", "84 2ND ST", "SAN FRANCISCO CA 94105-3439", "08", "3210" ]
+, [ 501869, "349772E6-BD75-4E2F-97A8-07FC6C38CD81", 501869, 1412010360, "400501", 1412117439, "400501", null, "0943129-01-001", "0943129", "CHAN KIN F", "KIN FAI PRODUCE", "628 PACIFIC AVE", "San Francisco", "CA", "94133", "1995-07-01T00:00:00", "1995-07-01T00:00:00", "628 PACIFIC AVE", "SAN FRANCISCO CA 94133-4410", "08", "3210" ]
+, [ 502456, "263FD7CE-AE2E-47DD-8D87-4CBEF570824C", 502456, 1412010362, "400501", 1412117441, "400501", null, "0946140-02-001", "0946140", "LEE JOHN KYOYOON & LEE MARIA I", "MODERA LIQUOR & WINE", "4401 GEARY BLVD", "San Francisco", "CA", "94118", "2010-12-14T00:00:00", "2010-12-14T00:00:00", "4401 GEARY BLVD", "SAN FRANCISCO CA 94118-0000", "08", "3210" ]
+, [ 502537, "7E46C13D-888E-425F-B12F-35D0272BBB4B", 502537, 1412010362, "400501", 1412117441, "400501", null, "0946597-01-001", "0946597", "IBRAHIM RABAH", "STAR MARKET & LIQUOR", "4400 3RD ST", "San Francisco", "CA", "94124", "1995-11-03T00:00:00", "1995-11-03T00:00:00", "4400 3RD ST", "SAN FRANCISCO CA 94124-2104", "08", "3210" ]
+, [ 504101, "B3FC2005-7B80-4A86-8A70-8BCB57DC59B9", 504101, 1412010369, "400501", 1412117448, "400501", null, "0954745-03-001", "0954745", "HANHAN GEORGE I", "HOME SERVICE MARKET", "1700 HAYES ST", "San Francisco", "CA", "94117", "2012-01-02T00:00:00", "2012-01-02T00:00:00", "1700 HAYES ST", "SAN FRANCISCO CA 94117-1218", "08", "3210" ]
+, [ 504132, "21CB3A76-78C1-420F-8EDC-ACE34CEAC730", 504132, 1412010369, "400501", 1412117448, "400501", null, "0954894-01-001", "0954894", "SACCA ALICE J", "ANGEL'S MARKET", "1649 CASTRO ST", "San Francisco", "CA", "94114", "1999-09-01T00:00:00", "1999-09-01T00:00:00", "1649 CASTRO ST", "SAN FRANCISCO CA 94114-3706", "08", "3210" ]
+, [ 504561, "FAB0EA46-90EC-45BD-8FF6-A66D916D7019", 504561, 1412010371, "400501", 1412117450, "400501", null, "0956824-02-001", "0956824", "HISHAN MUNIEEB T S", "NIMER'S MARKET", "1601 FULTON ST", "San Francisco", "CA", "94117", "2004-06-01T00:00:00", "2004-06-01T00:00:00", "1601 FULTON ST", "SAN FRANCISCO CA 94117-1318", "08", "3210" ]
+, [ 504698, "C522FCD4-876D-4A27-B98D-0EF54C384B7F", 504698, 1412010371, "400501", 1412117451, "400501", null, "0957395-01-001", "0957395", "ALEMU ABAI J/BELETE ZAFU", "RITEWAY MARKET", "500 PRECITA AVE", "San Francisco", "CA", "94110", "1996-10-23T00:00:00", "1996-10-23T00:00:00", "PO BOX 410451", "SAN FRANCISCO CA 94141-0000", "08", "3210" ]
+ ]
+}
