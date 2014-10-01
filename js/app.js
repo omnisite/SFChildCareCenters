@@ -124,7 +124,7 @@ $(document).ready(function() {
           markersChildCare.push(marker);
 
           google.maps.event.addListener(marker, 'click', function() {
-            $( '#streetview' ).html ('<div class="photo" style="width: 300px; height: 250px; background-image: url(http://maps.googleapis.com/maps/api/streetview?size=300x250&amp;location=' + this.lat + ',' + this.lng + ');"></div> ');
+            $( '#streetview' ).html ('<div class="photo" style="max-width: 300px; height: 250px; background-image: url(http://maps.googleapis.com/maps/api/streetview?size=300x250&amp;location=' + this.lat + ',' + this.lng + ');"></div> ');
             $( '#title' ).html( '<strong>Name:</strong><br>' + this.title );
             $( '#address' ).html( '<strong>Address:</strong><br>' + this.address );
             $( '#slots' ).html( '<strong>Slots:</strong><br>' + this.slots );
@@ -158,7 +158,7 @@ $(document).ready(function() {
           markersCrime.push(marker);
 
           google.maps.event.addListener(marker, 'click', function() {
-            $( '#streetview' ).html ('<div class="photo" style="width: 300px; height: 250px; background-image: url(http://maps.googleapis.com/maps/api/streetview?size=300x250&amp;location=' + this.lat + ',' + this.lng + ');"></div> ');
+            $( '#streetview' ).html ('<div class="photo" style="max-width: 300px; height: 250px; background-image: url(http://maps.googleapis.com/maps/api/streetview?size=300x250&amp;location=' + this.lat + ',' + this.lng + ');"></div> ');
             $( '#title' ).html( '<strong>Crime:</strong><br>' + this.title );
             $( '#address' ).html( '<strong>Address:</strong><br>' + this.address );
             $( '#slots' ).html( '<strong>Date:</strong><br>' + this.slots );
@@ -189,7 +189,7 @@ $(document).ready(function() {
           markersGrocery.push(marker);
 
           google.maps.event.addListener(marker, 'click', function() {
-            $( '#streetview' ).html ('<div class="photo" style="width: 300px; height: 250px; background-image: url(http://maps.googleapis.com/maps/api/streetview?size=300x250&amp;location=' + this.lat + ',' + this.lng + ');"></div> ');
+            $( '#streetview' ).html ('<div class="photo" style="max-width: 300px; height: 250px; background-image: url(http://maps.googleapis.com/maps/api/streetview?size=300x250&amp;location=' + this.lat + ',' + this.lng + ');"></div> ');
             $( '#title' ).html( '<strong>Name:</strong><br>' + this.title );
             $( '#address' ).html( '<strong>Address:</strong><br>' + this.address );
             $( '#slots' ).html( '<strong>Since:</strong><br>' + this.slots );
@@ -220,7 +220,7 @@ $(document).ready(function() {
           markersBikes.push(marker);
 
           google.maps.event.addListener(marker, 'click', function() {
-            $( '#streetview' ).html ('<div class="photo" style="width: 300px; height: 250px; background-image: url(http://maps.googleapis.com/maps/api/streetview?size=300x250&amp;location=' + this.lat + ',' + this.lng + ');"></div> ');
+            $( '#streetview' ).html ('<div class="photo" style="max-width: 300px; height: 250px; background-image: url(http://maps.googleapis.com/maps/api/streetview?size=300x250&amp;location=' + this.lat + ',' + this.lng + ');"></div> ');
             $( '#title' ).html( '<strong>Spot:</strong><br>' + this.title );
             $( '#address' ).html( '<strong>Address:</strong><br>' + this.address );
             $( '#slots' ).html( '<strong>Spaces:</strong><br>' + this.slots );
