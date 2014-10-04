@@ -38,31 +38,36 @@
       <div class="row">
         <div class="col-xs-3" id="left">
 
-          <h2>Child Care Centers</h2>
-          <p>
-            See all San Francisco <strong>child care centers</strong> on the map to the right. Click on an icon to see more info.
-          </p>
-          <p>
-            For your convenience we also list all the <strong>grocery stores</strong>, so you
-            can do your shopping right after or before you drop off / pick up your kids :-)
-          </p>
-          <p>
-            Of course you come by bike, so the map shows you where the <strong>bicycle parking spaces</strong> are.
-          </p>
-          <p>
-            And to see how safe the area is, we show you the <strong>crime</strong> incidents of the previous three months.
-          </p>
+          <div class="tekst">
+            <div id="intro">
+              <h2>Child Care Centers</h2>
+              <p>
+                See all San Francisco <strong>child care centers</strong> on the map to the right. Click on an icon to see more info.
+              </p>
+              <p>
+                For your convenience we also list all the <strong>grocery stores</strong>, so you
+                can do your shopping right after or before you drop off / pick up your kids :-)
+              </p>
+              <p>
+                Of course you come by bike, so the map shows you where the <strong>bicycle parking spaces</strong> are.
+              </p>
+              <p>
+                And to see how safe the area is, we show you the <strong>crime</strong> incidents of the previous three months.
+              </p>
 
-          <p id="loadingChildCare"><img src="img/loading.gif" alt="" height="40"> Loading child care centers</p>
-          <p id="loadingGrocery"><img src="img/loading.gif" alt="" height="40"> Loading grocery stores (takes some time!)</p>
-          <p id="loadingCrime"><img src="img/loading.gif" alt="" height="40"> Loading crime stats (takes some time!)</p>
-          <p id="loadingBikes"><img src="img/loading.gif" alt="" height="40"> Loading bicycle parking spots (takes some time!)</p>
+              <p id="loadingChildCare"><img src="img/loading.gif" alt="" height="40"> Loading child care centers</p>
+              <p id="loadingGrocery"><img src="img/loading.gif" alt="" height="40"> Loading grocery stores (takes some time!)</p>
+              <p id="loadingCrime"><img src="img/loading.gif" alt="" height="40"> Loading crime stats (takes some time!)</p>
+              <p id="loadingBikes"><img src="img/loading.gif" alt="" height="40"> Loading bicycle parking spots (takes some time!)</p>
+            </div>
 
-          <div id="info">
-            <p id="streetview"></p>
-            <p id="title"></p>
-            <p id="address"></p>
-            <p id="slots"></p>
+            <div id="info">
+              <p id="sectionTitle"></p>
+              <p id="streetview"></p>
+              <p id="title"></p>
+              <p id="address"></p>
+              <p id="slots"></p>
+            </div>
           </div>
 
         </div>
@@ -71,6 +76,14 @@
         </div>
 
       </div>
+    </div>
+
+    <div id="legenda">
+      <h4>Filters <small>(click to filter)</small></h4>
+      <a href="#" class="toggle" data-src="childcare"><span class="glyphicon glyphicon-ok-circle"></span> <img src="img/daycare.png" alt=""> Child Care Centers</a>
+      <a href="#" class="toggle" data-src="grocery"><span class="glyphicon glyphicon-ok-circle"></span> <img src="img/grocery.png" alt=""> Grocery Stores</a>
+      <a href="#" class="toggle" data-src="bikes"><span class="glyphicon glyphicon-ok-circle"></span> <img src="img/bikes.png" alt=""> Bicycle Parking</a>
+      <a href="#" class="toggle" data-src="crime"><span class="glyphicon glyphicon-ok-circle"></span> <img src="img/crime.png" alt=""> Crime</a>
     </div>
 
     <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>

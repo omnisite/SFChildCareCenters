@@ -42,7 +42,10 @@ body {
 }
 
 #left {
-	height:100%;
+	min-height:100%;
+    padding: 0;
+    background-color: #7dcdcd;
+    color: #fff;
 }
 
 #map-canvas {
@@ -53,4 +56,49 @@ body {
     top:50px;
     bottom:0;
     overflow:hidden;
+}
+
+.tekst {
+    padding: 0 15px
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+#legenda {
+    width: 220px;
+    padding: 15px;
+    /*background-color: #64A7A7;*/
+    background: rgba(100, 167, 167, 0.8);
+    position:absolute;
+    right:16px;
+    top:100px;
+}
+
+#legenda a, #legenda h4 {
+    display: block;
+    color: #fff;
+}
+
+#legenda small {
+    color: #fff;
+}
+
+#legenda .glyphicon-ok-circle, #legenda .glyphicon-remove-circle {
+    font-size: 26px;
+    position: relative;
+    top: 8px;
+}
+
+#legenda .glyphicon-ok-circle {
+    color: #5D992B;
+}
+
+#legenda .glyphicon-remove-circle {
+    color: #CD0000;
+}
+
+#info p {
+    text-transform: capitalize;
 }
